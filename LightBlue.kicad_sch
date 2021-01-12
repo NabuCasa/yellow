@@ -1,0 +1,36 @@
+(kicad_sch (version 20201015) (generator eeschema)
+
+  (paper "A4")
+
+  (title_block
+    (title "Light Blue")
+    (date "2021-01-12")
+    (rev "0.1")
+    (company "Nabu Casa")
+    (comment 2 "www.nabucasa.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 116.84 36.83) (size 46.99 41.91)
+    (stroke (width 0.001) (type solid) (color 187 17 66 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid 7c248bd3-8232-4777-a40c-eab53460cf85)
+    (property "Sheet name" "CM4" (id 0) (at 116.84 36.1941 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "CM4.kicad_sch" (id 1) (at 116.84 79.2489 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/" (page "2"))
+  )
+
+  (symbol_instances
+  )
+)
