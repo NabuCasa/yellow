@@ -26,11 +26,45 @@
     )
   )
 
+  (sheet (at 39.37 35.56) (size 43.18 59.69)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid aa1d8d83-5167-420c-9ee7-3e4dcc942bfc)
+    (property "Sheet name" "USB" (id 0) (at 39.37 34.9241 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "USB.kicad_sch" (id 1) (at 39.37 95.7589 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/" (page "2"))
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/" (page "3"))
   )
 
   (symbol_instances
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b131b144-fc54-40cc-8411-449b069a57ca"
+      (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "Module:RaspberryPi-CM4")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/e774090e-475c-4e3f-aa6e-6c912d7ab3b3"
+      (reference "U1") (unit 2) (value "RaspberryPi-CM4Lite") (footprint "Module:RaspberryPi-CM4")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/e0469852-771a-434b-963a-8ecb4c38b617"
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/66323853-f1bb-4a57-9741-65f7b746b19e"
+      (reference "J?") (unit 1) (value "USB_A_Stacked") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/775321c9-14c9-4076-965a-fb87a5647947"
+      (reference "J?") (unit 2) (value "USB_A_Stacked") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/15a1c1c3-ed5e-4bb3-a60a-04e93ff6b7c2"
+      (reference "U2") (unit 1) (value "CP2102N-Axx-xQFN24") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/40680c49-ba5e-4c10-83e9-9cb72f8c5d4f"
+      (reference "U3") (unit 1) (value "FSUSB42MUX") (footprint "Package_SO:MSOP-10_3x3mm_P0.5mm")
+    )
   )
 )
