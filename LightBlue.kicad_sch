@@ -45,6 +45,9 @@
   )
 
   (symbol_instances
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
+      (reference "J?") (unit 1) (value "HDMI_A_1.4") (footprint "LightBlue:HDMI_A_Molex_2086588131_Horizontal")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b131b144-fc54-40cc-8411-449b069a57ca"
       (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "Module:RaspberryPi-CM4")
     )
