@@ -26,6 +26,18 @@
     )
   )
 
+  (sheet (at 38.1 121.92) (size 40.64 49.53)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid a9e0a5b9-8f0f-46f3-b2b0-a429c678afed)
+    (property "Sheet name" "Audio" (id 0) (at 38.1 121.2841 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Audio.kicad_sch" (id 1) (at 38.1 171.9589 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 116.84 36.83) (size 46.99 41.91)
     (stroke (width 0.001) (type solid) (color 187 17 66 1))
     (fill (color 255 255 255 0.0000))
@@ -55,6 +67,7 @@
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/" (page "2"))
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/" (page "3"))
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/" (page "4"))
+    (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/" (page "5"))
   )
 
   (symbol_instances
@@ -93,6 +106,12 @@
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09bd077-0d29-41a3-91d8-7b26a3246dec"
       (reference "U?") (unit 1) (value "SiliconLabs-MGM210P") (footprint "LightBlue:SiliconLabs_MGM210P")
+    )
+    (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/e9d6ae84-3d14-46c3-a089-d1bbc0b51db0"
+      (reference "J?") (unit 1) (value "AudioPlug3") (footprint "")
+    )
+    (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/1e9ebda2-59cb-4701-873a-d55dee03ba02"
+      (reference "U?") (unit 1) (value "PCM5121PW") (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
     )
   )
 )

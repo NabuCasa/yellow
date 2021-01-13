@@ -386,6 +386,10 @@
     [
       "12f6ca59-5dee-4aea-b4bb-e4b9cab2885b",
       "802.15.4 Radio"
+    ],
+    [
+      "a9e0a5b9-8f0f-46f3-b2b0-a429c678afed",
+      "Audio"
     ]
   ],
   "text_variables": {}
