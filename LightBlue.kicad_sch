@@ -14,6 +14,18 @@
   )
 
 
+  (sheet (at 200.66 36.83) (size 40.64 57.15)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid 12f6ca59-5dee-4aea-b4bb-e4b9cab2885b)
+    (property "Sheet name" "802.15.4 Radio" (id 0) (at 200.66 36.1941 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Radio.kicad_sch" (id 1) (at 200.66 94.4889 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 116.84 36.83) (size 46.99 41.91)
     (stroke (width 0.001) (type solid) (color 187 17 66 1))
     (fill (color 255 255 255 0.0000))
@@ -42,6 +54,7 @@
     (path "/" (page "1"))
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/" (page "2"))
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/" (page "3"))
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/" (page "4"))
   )
 
   (symbol_instances
@@ -74,6 +87,12 @@
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/fcc2a1ef-0aed-4c75-96a9-e9e99c2a43c7"
       (reference "U?") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09c8cca-c855-4542-a876-1781079d5d54"
+      (reference "J?") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09bd077-0d29-41a3-91d8-7b26a3246dec"
+      (reference "U?") (unit 1) (value "SiliconLabs-MGM210P") (footprint "LightBlue:SiliconLabs_MGM210P")
     )
   )
 )

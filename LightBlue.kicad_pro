@@ -382,6 +382,10 @@
     [
       "aa1d8d83-5167-420c-9ee7-3e4dcc942bfc",
       "USB"
+    ],
+    [
+      "12f6ca59-5dee-4aea-b4bb-e4b9cab2885b",
+      "802.15.4 Radio"
     ]
   ],
   "text_variables": {}
