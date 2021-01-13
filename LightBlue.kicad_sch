@@ -50,6 +50,18 @@
     )
   )
 
+  (sheet (at 114.3 121.92) (size 39.37 48.26)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid 18c18357-12fa-4472-a108-e954e5bd7840)
+    (property "Sheet name" "Ethernet" (id 0) (at 114.3 121.2841 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Ethernet.kicad_sch" (id 1) (at 114.3 170.6889 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 39.37 35.56) (size 43.18 59.69)
     (stroke (width 0.001) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
@@ -68,6 +80,7 @@
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/" (page "3"))
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/" (page "4"))
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/" (page "5"))
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/" (page "6"))
   )
 
   (symbol_instances
@@ -112,6 +125,9 @@
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/1e9ebda2-59cb-4701-873a-d55dee03ba02"
       (reference "U?") (unit 1) (value "PCM5121PW") (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
+    )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/6dd5e861-e5d4-4759-b127-4958e3f04beb"
+      (reference "J?") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
     )
   )
 )

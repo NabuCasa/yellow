@@ -390,6 +390,10 @@
     [
       "a9e0a5b9-8f0f-46f3-b2b0-a429c678afed",
       "Audio"
+    ],
+    [
+      "18c18357-12fa-4472-a108-e954e5bd7840",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
