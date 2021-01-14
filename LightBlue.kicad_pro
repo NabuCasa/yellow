@@ -394,6 +394,10 @@
     [
       "18c18357-12fa-4472-a108-e954e5bd7840",
       "Ethernet"
+    ],
+    [
+      "a1a835e0-c072-4609-9cb4-4b95bf746f54",
+      "PCIe"
     ]
   ],
   "text_variables": {}
