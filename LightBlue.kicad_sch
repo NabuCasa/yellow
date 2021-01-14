@@ -116,8 +116,17 @@
   )
 
   (symbol_instances
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/1aa5f27b-6240-4920-a583-40b98af403dc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/97a4da0e-4832-4910-8fd2-e0b13d27aae6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/a36c8026-3265-4bca-8ff6-ba6067e51cd8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
-      (reference "J?") (unit 1) (value "HDMI_A_1.4") (footprint "LightBlue:HDMI_A_Molex_2086588131_Horizontal")
+      (reference "J?") (unit 1) (value "HDMI_A_2.0") (footprint "LightBlue:HDMI_A_Molex_2086588131_Horizontal")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b131b144-fc54-40cc-8411-449b069a57ca"
       (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "Module:RaspberryPi-CM4")
