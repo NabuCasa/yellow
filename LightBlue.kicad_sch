@@ -73,6 +73,12 @@
     (property "Sheet file" "Ethernet.kicad_sch" (id 1) (at 90.17 171.9589 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "Ethernet" bidirectional (at 108.585 123.19 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "PoE" bidirectional (at 129.54 136.525 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
   )
 
   (sheet (at 189.23 78.74) (size 40.64 41.91)
@@ -167,8 +173,23 @@
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/1e9ebda2-59cb-4701-873a-d55dee03ba02"
       (reference "U?") (unit 1) (value "PCM5121PW") (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
     )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/63a243b8-0f7c-4234-af2f-e0f272a077aa"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/6dd5e861-e5d4-4759-b127-4958e3f04beb"
-      (reference "J?") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
+      (reference "J") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
+    )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/021dd781-c0a2-4e06-a8a9-18b3d36b8b01"
+      (reference "R?") (unit 1) (value "470Ω") (footprint "")
+    )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/6cf869b7-4906-4269-be48-72d89d3fa069"
+      (reference "R?") (unit 1) (value "470Ω") (footprint "")
+    )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/5a8b766d-1b68-496b-9d3a-df1d0e3cffd8"
+      (reference "U?") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
+    )
+    (path "/18c18357-12fa-4472-a108-e954e5bd7840/cab21cf5-02d1-4415-8f47-c31f2794f0af"
+      (reference "U?") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/fdf8bb7f-7888-44c2-aeb0-0bd1b640c3bf"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
