@@ -401,6 +401,8 @@
         "microvia_drill": 0.1,
         "name": "diff_90",
         "nets": [
+          "/CM4_USB_D+",
+          "/CM4_USB_D-",
           "/USB/USB-C_D+",
           "/USB/USB-C_D-"
         ],
@@ -477,7 +479,7 @@
   },
   "sheets": [
     [
-      "e5ea1277-8b33-4e4b-aca4-ba371bf7a3cf",
+      "a94ca092-cd31-4059-97af-af14a3e0fa0e",
       ""
     ],
     [
