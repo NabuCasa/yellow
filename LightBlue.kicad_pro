@@ -398,6 +398,10 @@
     [
       "a1a835e0-c072-4609-9cb4-4b95bf746f54",
       "PCIe"
+    ],
+    [
+      "441a9908-1e74-440b-b462-bdf6815583fe",
+      "Front/RTC"
     ]
   ],
   "text_variables": {}

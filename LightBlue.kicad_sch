@@ -14,24 +14,25 @@
   )
 
 
-  (bus (pts (xy 157.48 68.58) (xy 172.72 68.58))
+  (bus (pts (xy 104.775 74.93) (xy 109.855 74.93))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (bus (pts (xy 172.72 68.58) (xy 172.72 86.36))
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-  )
-  (bus (pts (xy 172.72 86.36) (xy 189.23 86.36))
+  (bus (pts (xy 156.845 95.885) (xy 190.5 95.885))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
 
-  (sheet (at 189.23 24.13) (size 40.64 36.83)
+  (label "I2C" (at 104.775 74.93 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+  )
+
+  (sheet (at 190.5 24.13) (size 40.64 36.83)
     (stroke (width 0.001) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
     (uuid 12f6ca59-5dee-4aea-b4bb-e4b9cab2885b)
-    (property "Sheet name" "802.15.4 Radio" (id 0) (at 189.23 23.4941 0)
+    (property "Sheet name" "802.15.4 Radio" (id 0) (at 190.5 23.4941 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "Radio.kicad_sch" (id 1) (at 189.23 61.4689 0)
+    (property "Sheet file" "Radio.kicad_sch" (id 1) (at 190.5 61.4689 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -48,18 +49,30 @@
     )
   )
 
-  (sheet (at 110.49 39.37) (size 46.99 41.91)
+  (sheet (at 109.855 67.31) (size 47.625 41.275)
     (stroke (width 0.001) (type solid) (color 187 17 66 1))
     (fill (color 255 255 255 0.0000))
     (uuid 7c248bd3-8232-4777-a40c-eab53460cf85)
-    (property "Sheet name" "CM4" (id 0) (at 110.49 38.7341 0)
+    (property "Sheet name" "CM4" (id 0) (at 109.855 66.6741 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "CM4.kicad_sch" (id 1) (at 110.49 81.7889 0)
+    (property "Sheet file" "CM4.kicad_sch" (id 1) (at 109.855 109.0939 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "PCIe" bidirectional (at 157.48 68.58 0)
+    (pin "PCIe" bidirectional (at 157.48 95.885 0)
       (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "USB" input (at 109.855 85.725 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (pin "Ethernet" bidirectional (at 109.855 102.235 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (pin "HDMI_5V" bidirectional (at 138.43 108.585 270)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (pin "I2C" bidirectional (at 109.855 74.93 180)
+      (effects (font (size 1.27 1.27)) (justify left))
     )
   )
 
@@ -81,32 +94,44 @@
     )
   )
 
-  (sheet (at 189.23 78.74) (size 40.64 41.91)
+  (sheet (at 109.855 23.495) (size 47.625 32.385)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))
+    (uuid 441a9908-1e74-440b-b462-bdf6815583fe)
+    (property "Sheet name" "Front/RTC" (id 0) (at 109.855 22.8591 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "FrontRTC.kicad_sch" (id 1) (at 109.855 56.3889 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 190.5 88.265) (size 40.64 41.91)
     (stroke (width 0.001) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
     (uuid a1a835e0-c072-4609-9cb4-4b95bf746f54)
-    (property "Sheet name" "PCIe" (id 0) (at 189.23 78.1041 0)
+    (property "Sheet name" "PCIe" (id 0) (at 190.5 87.6291 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "PCIe.kicad_sch" (id 1) (at 189.23 121.1589 0)
+    (property "Sheet file" "PCIe.kicad_sch" (id 1) (at 190.5 130.6839 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "PCIe" bidirectional (at 189.23 86.36 180)
+    (pin "PCIe" bidirectional (at 190.5 95.885 180)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (pin "+3.3V" input (at 209.55 78.74 90)
+    (pin "+3.3V" input (at 210.82 88.265 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
 
-  (sheet (at 40.64 33.02) (size 43.18 59.69)
+  (sheet (at 22.86 34.29) (size 40.64 57.785)
     (stroke (width 0.001) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
     (uuid aa1d8d83-5167-420c-9ee7-3e4dcc942bfc)
-    (property "Sheet name" "USB" (id 0) (at 40.64 32.3841 0)
+    (property "Sheet name" "USB" (id 0) (at 22.86 33.6541 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "USB.kicad_sch" (id 1) (at 40.64 93.2189 0)
+    (property "Sheet file" "USB.kicad_sch" (id 1) (at 22.86 92.5839 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -119,6 +144,7 @@
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/" (page "5"))
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/" (page "6"))
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/" (page "7"))
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/" (page "9"))
   )
 
   (symbol_instances
@@ -202,6 +228,90 @@
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/5b8b037f-ca81-48f3-8275-7d782584ea4f"
       (reference "R?") (unit 1) (value "R_Small") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/14e2e689-97bc-4d28-94d0-79465efd1689"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/55e61bff-9245-4f52-868d-7c10788f2484"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/6de17be6-fd32-476b-92a5-48e10fb750cf"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/7e0f6450-9af6-4845-b0ca-dc8a53703ddb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/8c8d64a7-8b26-43ec-bca7-1c34f886919b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/cb41f6bd-c660-4f59-997f-d9ff71c0b003"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/cfdce7ee-046d-4696-aa01-ca4d0d759f0a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/e8420e5b-a13c-4af0-bb0d-a0f3d598d48f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/f3322bc6-bd2d-473e-bb56-e73bc717b8d6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/f78a067b-6a22-41d9-a449-da324bb25ff6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/8315a3b5-025a-4501-86bf-a0c1f08f1755"
+      (reference "BT?") (unit 1) (value "Battery_Cell") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/411885b9-6f81-4986-906f-cdf1c13e455a"
+      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/37458669-0432-4a34-989b-11ab7155e9be"
+      (reference "D?") (unit 1) (value "BAT54C-7-F") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/552a4af8-cf00-48e0-b1e5-d50ef90cb6eb"
+      (reference "D?") (unit 1) (value "LED Green") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/5debb609-b49b-455e-8b1d-78bbaba3f16b"
+      (reference "D?") (unit 1) (value "ASMB-KTF0-0A306") (footprint "LightBlue:LED_RGB_ASMB-KTF0-0A306_PLCC4_2.2x2.0mm_P1.1mm")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/aa1ff662-6bf4-4a65-b043-33ace0519667"
+      (reference "D?") (unit 1) (value "LED Green") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/5a0029e4-bf92-47ff-8351-56443847ec9d"
+      (reference "R?") (unit 1) (value "1kΩ") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/d3cdfa6c-a784-4d4a-b93e-48f2bae1fccc"
+      (reference "R?") (unit 1) (value "1kΩ") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/4d7ecf13-cc26-44b5-8623-a13ee46df5cd"
+      (reference "SW?") (unit 1) (value "SW_RESET") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/955f6f4b-9ebf-41c3-8a36-26da150f4b3b"
+      (reference "SW?") (unit 1) (value "SW_RECOVERY") (footprint "Button_Switch_SMD:SW_SPST_EVQP7C")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/a373cb77-347a-47c0-b211-d116f87bcf25"
+      (reference "SW?") (unit 1) (value "SW_POWER") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/ef573ea6-7e1c-432d-a149-d435c467601a"
+      (reference "SW?") (unit 1) (value "SW_DEBUG_MODE") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/27e10743-a290-46e9-b888-58fa0d14552b"
+      (reference "U?") (unit 1) (value "PCF8563T") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/2d20286f-b963-4d54-b563-f084a37ceb4d"
+      (reference "U?") (unit 1) (value "74LVC1G07SE-7") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/62c6523c-a188-468b-9b1c-f9b3d4eedb39"
+      (reference "U?") (unit 1) (value "74LVC1G07SE-7") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/6a00bec3-4176-46a5-9014-751e7e9f20d7"
+      (reference "U?") (unit 1) (value "74LVC1G07SE-7") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/707d129c-e291-4008-b15f-fecad949d050"
+      (reference "U?") (unit 1) (value "LP5562") (footprint "LightBlue:Texas_DSBGA-12_1.24x1.64mm_Layout3x4_P0.4mm")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/df3c69bc-5fed-486a-8538-f634d169db1f"
+      (reference "Y?") (unit 1) (value "X32K768S301") (footprint "")
     )
   )
 )
