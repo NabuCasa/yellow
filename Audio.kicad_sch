@@ -588,10 +588,10 @@
   (junction (at 208.28 39.37) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 210.82 46.99) (diameter 0.9144) (color 0 0 0 0))
 
-  (no_connect (at 162.56 91.44))
-  (no_connect (at 162.56 83.82))
-  (no_connect (at 162.56 88.9))
   (no_connect (at 162.56 86.36))
+  (no_connect (at 162.56 88.9))
+  (no_connect (at 162.56 83.82))
+  (no_connect (at 162.56 91.44))
 
   (bus_entry (at 116.84 76.2) (size 2.54 2.54)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
