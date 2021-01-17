@@ -1456,5 +1456,32 @@
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/df3c69bc-5fed-486a-8538-f634d169db1f"
       (reference "Y?") (unit 1) (value "X32K768S301") (footprint "")
     )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/0320f88d-60c3-43de-9cdc-1abeeff67d1c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/10b8c516-2fad-4b97-800b-d8ed8acaf04a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/7e5d9826-3050-4fba-9ee4-27ec3c75a73e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/86563fcd-a7f0-4b73-b1cc-505859cf3a3e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/d177d053-f479-46ae-a1e3-bd43b6d13f24"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/e9a5777f-df06-4d95-b759-a9735a0efa7c"
+      (reference "C?") (unit 1) (value "10μF") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/2139362a-74c4-4abb-a86d-88efcc2a2b11"
+      (reference "J?") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Molex_104031-0811")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/373fcc4a-3c8e-404b-9d19-ec794dcc77e4"
+      (reference "R?") (unit 1) (value "dnf") (footprint "")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/231e698e-ef39-4cba-a7bd-26a17d9db0c5"
+      (reference "U?") (unit 1) (value "RT9742GGJ5") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
   )
 )
