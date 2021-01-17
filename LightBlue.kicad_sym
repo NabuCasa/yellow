@@ -3122,9 +3122,10 @@
         (name "SD_PWR_ON" (effects (font (size 1.27 1.27))))
         (number "75" (effects (font (size 1.27 1.27))))
       )
-      (pin unconnected line (at -20.32 -53.34 0) (length 3.81) hide
+      (pin unconnected line (at -25.4 40.64 0) (length 3.81)
         (name "Reserved" (effects (font (size 1.27 1.27))))
         (number "76" (effects (font (size 1.27 1.27))))
+        (alternate "SD_DETECT" input line)
       )
       (pin power_in line (at -2.54 60.96 270) (length 3.81)
         (name "+5V" (effects (font (size 1.27 1.27))))
@@ -3240,7 +3241,7 @@
         (name "USB_N" (effects (font (size 1.27 1.27))))
         (number "103" (effects (font (size 1.27 1.27))))
       )
-      (pin unconnected line (at -20.32 -53.34 0) (length 3.81) hide
+      (pin unconnected line (at -25.4 40.64 0) (length 3.81)
         (name "Reserved" (effects (font (size 1.27 1.27))))
         (number "104" (effects (font (size 1.27 1.27))))
       )
