@@ -423,7 +423,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "sing_50",
-        "nets": [],
+        "nets": [
+          "/802.15.4 Radio/RF_SIGNAL",
+          "/SD.CLK",
+          "/SD.CMD",
+          "/SD.D0",
+          "/SD.D1",
+          "/SD.D2",
+          "/SD.D3"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -479,7 +487,7 @@
   },
   "sheets": [
     [
-      "7c248bd3-8232-4777-a40c-eab53460cf85",
+      "4762e75e-5152-4eab-89cb-d28a4bb55b89",
       ""
     ],
     [
