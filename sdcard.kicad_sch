@@ -593,13 +593,14 @@
     (in_bom yes) (on_board yes)
     (uuid "373fcc4a-3c8e-404b-9d19-ec794dcc77e4")
     (property "Reference" "R?" (id 0) (at 59.69 72.39 90))
-    (property "Value" "DNI" (id 1) (at 63.5 72.39 90))
+    (property "Value" "10k" (id 1) (at 63.5 72.39 90))
     (property "Footprint" "" (id 2) (at 62.23 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 62.23 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "DNP" (id 4) (at 62.23 74.93 90))
   )
 
   (symbol (lib_id "Device:C_Small") (at 96.52 102.87 0) (unit 1)
@@ -617,6 +618,7 @@
     (property "Datasheet" "~" (id 3) (at 96.52 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "+SDCard" (id 4) (at 101.6 106.68 0))
   )
 
   (symbol (lib_id "LightBlue:RT9742GGJ5") (at 83.82 97.79 0) (unit 1)
@@ -634,6 +636,7 @@
     (property "Datasheet" "https://www.richtek.com/assets/product_file/RT9742/DS9742-00.pdf" (id 3) (at 83.82 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "+SDCard" (id 4) (at 90.17 86.36 0))
   )
 
   (symbol (lib_id "Connector:Micro_SD_Card_Det") (at 95.25 57.15 0) (unit 1)
@@ -647,5 +650,6 @@
     (property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" (id 3) (at 95.25 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "+SDCard" (id 4) (at 96.52 36.83 0))
   )
 )

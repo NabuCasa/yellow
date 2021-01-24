@@ -400,8 +400,8 @@
   (junction (at 123.19 110.49) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 125.73 110.49) (diameter 0.9144) (color 0 0 0 0))
 
-  (no_connect (at 115.57 144.78))
   (no_connect (at 128.27 142.24))
+  (no_connect (at 115.57 144.78))
 
   (bus_entry (at 55.88 59.69) (size 2.54 2.54)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
@@ -945,6 +945,7 @@
     (property "Datasheet" "~" (id 3) (at 120.65 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "DNP" (id 4) (at 120.65 156.21 0))
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x05_Odd_Even") (at 191.77 95.25 0) (unit 1)
@@ -958,6 +959,7 @@
     (property "Datasheet" "~" (id 3) (at 191.77 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "DNP" (id 4) (at 191.77 105.41 0))
   )
 
   (symbol (lib_id "LightBlue:SiliconLabs-MGM210P") (at 121.92 83.82 0) (unit 1)
