@@ -3,11 +3,12 @@
   (paper "A4")
 
   (title_block
-    (title "Light Blue")
+    (title "Overview")
     (date "2021-01-12")
     (rev "0.1")
     (company "Nabu Casa")
-    (comment 2 "www.nabucasa.com")
+    (comment 1 "www.nabucasa.com")
+    (comment 2 "Light Blue")
   )
 
   (lib_symbols

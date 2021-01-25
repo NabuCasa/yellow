@@ -2,6 +2,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Front Panel/RTC")
+    (date "2021-01-12")
+    (rev "0.1")
+    (company "Nabu Casa")
+    (comment 1 "www.nabucasa.com")
+    (comment 2 "Light Blue")
+  )
+
   (lib_symbols
     (symbol "Device:Battery_Cell" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "BT" (id 0) (at 2.54 2.54 0)

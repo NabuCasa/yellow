@@ -2,6 +2,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Power over Ethernet")
+    (date "2021-01-12")
+    (rev "0.1")
+    (company "Nabu Casa")
+    (comment 1 "www.nabucasa.com")
+    (comment 2 "Light Blue")
+  )
+
   (lib_symbols
     (symbol "Connector:TestPoint" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (id 0) (at 0 6.858 0)

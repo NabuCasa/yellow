@@ -2,6 +2,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "802.15.4 Radio (Zigbee/Thread)")
+    (date "2021-01-12")
+    (rev "0.1")
+    (company "Nabu Casa")
+    (comment 1 "www.nabucasa.com")
+    (comment 2 "Light Blue")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_Coaxial" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0.254 3.048 0)

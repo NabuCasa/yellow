@@ -2,6 +2,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "USB 2.0 host/USB 2.0 device")
+    (date "2021-01-12")
+    (rev "0.1")
+    (company "Nabu Casa")
+    (comment 1 "www.nabucasa.com")
+    (comment 2 "Light Blue")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_C_Receptacle_USB2.0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -10.16 19.05 0)
