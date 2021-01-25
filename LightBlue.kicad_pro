@@ -308,7 +308,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -325,7 +325,7 @@
         "wire_width": 5.0
       },
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -360,7 +360,7 @@
         "wire_width": 5.0
       },
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -391,7 +391,7 @@
         "wire_width": 5.0
       },
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -414,7 +414,7 @@
         "wire_width": 5.0
       },
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -437,7 +437,7 @@
         "wire_width": 5.0
       },
       {
-        "bus_width": 12.007874015748031,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
