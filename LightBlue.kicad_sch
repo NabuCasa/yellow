@@ -1340,7 +1340,7 @@
       (reference "C27") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c"
-      (reference "J8") (unit 1) (value "AudioJack3") (footprint "")
+      (reference "J8") (unit 1) (value "AudioJack3") (footprint "LightBlue:Jack_3.5mm_CUI_SJ2-35953A-SMT_Horizontal")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/30b27367-128e-4e9c-a77a-a4ce0c7c99c9"
       (reference "R15") (unit 1) (value "0R") (footprint "")
@@ -2180,7 +2180,7 @@
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/1ac452f1-c834-435c-b0e7-9e1426e4cc85"
-      (reference "U20") (unit 1) (value "TPS23734") (footprint "")
+      (reference "U20") (unit 1) (value "TPS23734") (footprint "LightBlue:Texas_VQFN-47-2EP_5x7mm_P0.4mm_ThermalVias")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/e7667234-76e6-4c22-bde5-3e787f675276"
       (reference "U21") (unit 1) (value "TCMT1107") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
