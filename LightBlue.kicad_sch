@@ -328,7 +328,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 17.78 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "d6694e6a-eae0-4147-bc94-8d2c65eec42f")
     (property "Reference" "FID1" (id 0) (at 19.9391 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -345,7 +345,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 17.78 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "cb680c0b-5011-49fe-ab2c-b8e25dd08527")
     (property "Reference" "FID2" (id 0) (at 19.9391 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -362,7 +362,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 30.48 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "a3f36d21-b692-4657-b96e-b6fe5eae0384")
     (property "Reference" "FID3" (id 0) (at 32.6391 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -379,7 +379,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 30.48 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "6e1877e9-cf72-4c13-a5dc-d95b870bb6c9")
     (property "Reference" "FID4" (id 0) (at 32.6391 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -396,7 +396,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 43.18 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "397a81dd-bc3b-4d75-ac01-0741f48b79fe")
     (property "Reference" "FID5" (id 0) (at 45.3391 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -413,7 +413,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 43.18 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "be733b35-4e5a-4d02-bba2-5bd334942370")
     (property "Reference" "FID6" (id 0) (at 45.3391 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -430,7 +430,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 55.88 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "d7909674-1922-4ddb-8b1b-9c714bef3b92")
     (property "Reference" "FID7" (id 0) (at 58.0391 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -447,7 +447,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 55.88 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "902787ce-17d4-4a85-914c-caf2c76e7348")
     (property "Reference" "FID8" (id 0) (at 58.0391 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -464,7 +464,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 76.2 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "13673698-1ae8-48ac-89ad-67bec4817dbe")
     (property "Reference" "H1" (id 0) (at 78.7401 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -481,7 +481,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 76.2 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "f42b7aad-88a1-4721-b564-f8f879d7e253")
     (property "Reference" "H2" (id 0) (at 78.7401 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -498,7 +498,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 93.98 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "27427d47-315e-474e-8985-0b3c80fdd220")
     (property "Reference" "H3" (id 0) (at 96.5201 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -515,7 +515,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 93.98 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "1719aa9c-b7b4-4351-ae6a-b606de4554d5")
     (property "Reference" "H4" (id 0) (at 96.5201 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -532,7 +532,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 113.03 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid "b0d938ec-61f0-4d08-9315-9ea6fafcf326")
     (property "Reference" "H5" (id 0) (at 115.5701 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -549,7 +549,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 113.03 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid "dd37df7c-daaa-477a-98a6-148920fde471")
     (property "Reference" "H6" (id 0) (at 115.5701 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -566,7 +566,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 132.08 182.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid "29a2b0f2-aaa8-4c1b-9b6f-40a73622e6a1")
     (property "Reference" "H7" (id 0) (at 134.6201 181.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -583,7 +583,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 132.08 190.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid "5f84cb0b-d7e9-45d2-ac86-87d8abcb68ae")
     (property "Reference" "H8" (id 0) (at 134.6201 189.3506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -608,7 +608,7 @@
     (property "Value" "Heatsink" (id 1) (at 156.0069 183.3943 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 152.7048 184.15 0)
+    (property "Footprint" "LightBlue:Heatsink_60x60mm_2xFixation3.2mm" (id 2) (at 152.7048 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 152.7048 184.15 0)
@@ -917,7 +917,7 @@
       (reference "H8") (unit 1) (value "ClearanceHole") (footprint "")
     )
     (path "/cd73f910-31d6-4226-a110-18f09eef8514"
-      (reference "HS1") (unit 1) (value "Heatsink") (footprint "")
+      (reference "HS1") (unit 1) (value "Heatsink") (footprint "LightBlue:Heatsink_60x60mm_2xFixation3.2mm")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/a36c8026-3265-4bca-8ff6-ba6067e51cd8"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
