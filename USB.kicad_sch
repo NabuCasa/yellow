@@ -4059,7 +4059,7 @@
     (uuid "b2eef2d1-938c-4ca7-9ebd-9ff12ca3b444")
     (property "Reference" "U6" (id 0) (at 123.19 24.13 0))
     (property "Value" "USB2422" (id 1) (at 120.65 26.67 0))
-    (property "Footprint" "LightBlue:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (id 2) (at 173.99 102.87 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (id 2) (at 173.99 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf" (id 3) (at 181.61 105.41 0)

@@ -1205,7 +1205,7 @@
       (reference "U5") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/b2eef2d1-938c-4ca7-9ebd-9ff12ca3b444"
-      (reference "U6") (unit 1) (value "USB2422") (footprint "LightBlue:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
+      (reference "U6") (unit 1) (value "USB2422") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/9967d169-bbf5-4d6d-ac18-9f3d0b52a88c"
       (reference "U7") (unit 1) (value "AP2171W") (footprint "Package_TO_SOT_SMD:SOT-23-5")
