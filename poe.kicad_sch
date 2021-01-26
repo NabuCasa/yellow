@@ -3175,7 +3175,7 @@
     (uuid "3b445175-7af8-4e6d-bb04-cfc261115f37")
     (property "Reference" "TP1" (id 0) (at 59.7535 132.9498 90))
     (property "Value" "TestPoint" (id 1) (at 59.7535 136.5185 90))
-    (property "Footprint" "" (id 2) (at 60.325 129.54 0)
+    (property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm" (id 2) (at 60.325 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 60.325 129.54 0)
