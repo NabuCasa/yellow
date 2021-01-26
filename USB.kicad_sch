@@ -1,4 +1,4 @@
-(kicad_sch (version 20201015) (generator eeschema)
+(kicad_sch (version 20210123) (generator eeschema)
 
   (paper "A4")
 
@@ -494,7 +494,7 @@
           (name "~RI~/CLK" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at -10.16 -22.86 0) (length 2.54) hide
+        (pin no_connect line (at -10.16 -22.86 0) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "10" (effects (font (size 1.27 1.27))))
         )
@@ -518,7 +518,7 @@
           (name "~SUSPEND" (effects (font (size 1.27 1.27))))
           (number "15" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 10.16 -22.86 180) (length 2.54) hide
+        (pin no_connect line (at 10.16 -22.86 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "16" (effects (font (size 1.27 1.27))))
         )
@@ -1235,7 +1235,7 @@
           (name "D1+" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at -5.08 7.62 0) (length 5.08) hide
+        (pin no_connect line (at -5.08 7.62 0) (length 5.08) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "10" (effects (font (size 1.27 1.27))))
         )
@@ -1255,11 +1255,11 @@
           (name "D2-" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 5.08 -7.62 180) (length 5.08) hide
+        (pin no_connect line (at 5.08 -7.62 180) (length 5.08) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "6" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 5.08 7.62 180) (length 5.08) hide
+        (pin no_connect line (at 5.08 7.62 180) (length 5.08) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "7" (effects (font (size 1.27 1.27))))
         )
@@ -1267,7 +1267,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "8" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at -5.08 -7.62 0) (length 5.08) hide
+        (pin no_connect line (at -5.08 -7.62 0) (length 5.08) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "9" (effects (font (size 1.27 1.27))))
         )
@@ -1516,9 +1516,9 @@
     )
   )
 
-  (bus_alias "I2C" (members "SDA" "SCL"))
-  (bus_alias "USB" (members "D+" "D-"))
   (bus_alias "CM4_USB" (members "CM4_USB_D+" "CM4_USB_D-" "CM4_USB_OTG_ID"))
+  (bus_alias "USB" (members "D+" "D-"))
+  (bus_alias "I2C" (members "SDA" "SCL"))
   (junction (at 22.86 80.01) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 22.86 88.9) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 26.67 180.34) (diameter 0.9144) (color 0 0 0 0))

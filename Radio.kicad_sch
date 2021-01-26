@@ -1,4 +1,4 @@
-(kicad_sch (version 20201015) (generator eeschema)
+(kicad_sch (version 20210123) (generator eeschema)
 
   (paper "A4")
 
@@ -245,7 +245,7 @@
           (name "PA06" (effects (font (size 1.27 1.27))))
           (number "10" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at -17.78 -2.54 0) (length 2.54)
+        (pin no_connect line (at -17.78 -2.54 0) (length 2.54)
           (name "DECOUPLE" (effects (font (size 1.27 1.27))))
           (number "11" (effects (font (size 1.27 1.27))))
         )

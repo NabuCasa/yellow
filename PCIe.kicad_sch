@@ -1,4 +1,4 @@
-(kicad_sch (version 20201015) (generator eeschema)
+(kicad_sch (version 20210123) (generator eeschema)
 
   (paper "A4")
 
@@ -87,7 +87,7 @@
           (name "3.3V" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 2.54 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 2.54 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "20" (effects (font (size 1.27 1.27))))
         )
@@ -95,7 +95,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "21" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 5.08 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 5.08 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "22" (effects (font (size 1.27 1.27))))
         )
@@ -103,7 +103,7 @@
           (name "PETn2" (effects (font (size 1.27 1.27))))
           (number "23" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 7.62 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 7.62 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "24" (effects (font (size 1.27 1.27))))
         )
@@ -111,7 +111,7 @@
           (name "PETp2" (effects (font (size 1.27 1.27))))
           (number "25" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 10.16 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 10.16 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "26" (effects (font (size 1.27 1.27))))
         )
@@ -119,7 +119,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "27" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 12.7 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 12.7 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "28" (effects (font (size 1.27 1.27))))
         )
@@ -131,7 +131,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 15.24 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 15.24 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "30" (effects (font (size 1.27 1.27))))
         )
@@ -139,7 +139,7 @@
           (name "PERp1" (effects (font (size 1.27 1.27))))
           (number "31" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 17.78 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 17.78 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "32" (effects (font (size 1.27 1.27))))
         )
@@ -147,7 +147,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "33" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 20.32 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 20.32 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "34" (effects (font (size 1.27 1.27))))
         )
@@ -155,7 +155,7 @@
           (name "PETn1" (effects (font (size 1.27 1.27))))
           (number "35" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 22.86 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 22.86 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "36" (effects (font (size 1.27 1.27))))
         )
@@ -175,7 +175,7 @@
           (name "3.3V" (effects (font (size 1.27 1.27))))
           (number "4" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 25.4 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 25.4 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "40" (effects (font (size 1.27 1.27))))
         )
@@ -183,7 +183,7 @@
           (name "PERn0/SATA-B+" (effects (font (size 1.27 1.27))))
           (number "41" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 27.94 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 27.94 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "42" (effects (font (size 1.27 1.27))))
         )
@@ -191,7 +191,7 @@
           (name "PERp0/SATA-B-" (effects (font (size 1.27 1.27))))
           (number "43" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 30.48 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 30.48 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "44" (effects (font (size 1.27 1.27))))
         )
@@ -199,7 +199,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "45" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 33.02 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 33.02 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "46" (effects (font (size 1.27 1.27))))
         )
@@ -207,7 +207,7 @@
           (name "PETn0/SATA-A-" (effects (font (size 1.27 1.27))))
           (number "47" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 35.56 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 35.56 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "48" (effects (font (size 1.27 1.27))))
         )
@@ -243,7 +243,7 @@
           (name "REFCLKp" (effects (font (size 1.27 1.27))))
           (number "55" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 38.1 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 38.1 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "56" (effects (font (size 1.27 1.27))))
         )
@@ -251,15 +251,15 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "57" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 40.64 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 40.64 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "58" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 -2.54 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 -2.54 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "6" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 -5.08 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 -5.08 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "67" (effects (font (size 1.27 1.27))))
         )
@@ -299,7 +299,7 @@
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "75" (effects (font (size 1.27 1.27))))
         )
-        (pin unconnected line (at 22.86 0 180) (length 2.54) hide
+        (pin no_connect line (at 22.86 0 180) (length 2.54) hide
           (name "NC" (effects (font (size 1.27 1.27))))
           (number "8" (effects (font (size 1.27 1.27))))
         )
