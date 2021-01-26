@@ -836,7 +836,7 @@
     (property "Value" "1k" (id 1) (at 147.32 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 144.78 83.82 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 144.78 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 144.78 83.82 0)
