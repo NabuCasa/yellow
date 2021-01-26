@@ -968,7 +968,7 @@
     (uuid "7e85724a-4aa3-487a-9578-39b3371d9abd")
     (property "Reference" "J7" (id 0) (at 193.04 87.63 0))
     (property "Value" "Conn_02x04_Odd_Even" (id 1) (at 193.675 102.87 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (id 2) (at 191.77 95.25 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (id 2) (at 191.77 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.77 95.25 0)
