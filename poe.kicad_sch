@@ -5287,7 +5287,7 @@
     (uuid "bda91a8e-6cd3-41c3-94fa-bcaa8ba410b6")
     (property "Reference" "T1" (id 0) (at 199.39 31.0958 0))
     (property "Value" "Transformer_Wurth_749119550" (id 1) (at 199.39 33.3945 0))
-    (property "Footprint" "LightBlue:Transformer_EPQ-13" (id 2) (at 199.39 45.72 0)
+    (property "Footprint" "LightBlue:Transformer_Wuerth_749119550" (id 2) (at 199.39 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.we-online.de/katalog/datasheet/749119550.pdf" (id 3) (at 199.39 45.72 0)

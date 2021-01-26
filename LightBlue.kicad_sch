@@ -2171,7 +2171,7 @@
       (reference "R63") (unit 1) (value "1k21/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/bda91a8e-6cd3-41c3-94fa-bcaa8ba410b6"
-      (reference "T1") (unit 1) (value "Transformer_Wurth_749119550") (footprint "LightBlue:Transformer_EPQ-13")
+      (reference "T1") (unit 1) (value "Transformer_Wurth_749119550") (footprint "LightBlue:Transformer_Wuerth_749119550")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/3b445175-7af8-4e6d-bb04-cfc261115f37"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
