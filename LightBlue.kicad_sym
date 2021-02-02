@@ -4097,6 +4097,305 @@
       )
     )
   )
+  (symbol "LightBlue:TPD4EUSB30" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -0.635 8.89 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "TPD4EUSB30" (id 1) (at 8.89 -10.16 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Package_SON:USON-10_2.5x1.0mm_P0.5mm" (id 2) (at -24.13 -10.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "ESD protection USB 3.0" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_fp_filters" "USON*2.5x1.0mm*P0.5mm*" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "TPD4EUSB30_0_0"
+      (rectangle (start -5.715 6.477) (end 5.715 -6.604)
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 -6.604)
+          (xy -3.175 6.477)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 6.477)
+          (xy 0 -6.604)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 6.477)
+          (xy 3.175 -6.604)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+    )
+    (symbol "TPD4EUSB30_0_1"
+      (circle (center -5.715 -2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center -3.175 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center -3.175 2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center -3.175 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 0 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 0 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 3.175 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 3.175 -2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 3.175 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (circle (center 5.715 2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
+      (rectangle (start -7.62 7.62) (end 7.62 -7.62)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy -7.747 2.54)
+          (xy -3.175 2.54)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -7.62 -2.54)
+          (xy -5.715 -2.54)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.08 -3.81)
+          (xy -6.35 -3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.08 5.08)
+          (xy -6.35 5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -3.81)
+          (xy -3.81 -3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 5.08)
+          (xy -3.81 5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.635 0.889)
+          (xy -1.016 0.635)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -6.604)
+          (xy 0 -7.62)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 0.889)
+          (xy -0.635 0.889)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 0.889)
+          (xy 1.016 1.143)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 -3.81)
+          (xy 2.54 -3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 5.08)
+          (xy 2.54 5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -3.81)
+          (xy 5.08 -3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 5.08)
+          (xy 5.08 5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -2.54)
+          (xy 3.175 -2.54)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 2.54)
+          (xy 5.715 2.54)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.08 -5.08)
+          (xy -6.35 -5.08)
+          (xy -5.715 -3.81)
+          (xy -5.08 -5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.08 3.81)
+          (xy -6.35 3.81)
+          (xy -5.715 5.08)
+          (xy -5.08 3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -5.08)
+          (xy -3.81 -5.08)
+          (xy -3.175 -3.81)
+          (xy -2.54 -5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 3.81)
+          (xy -3.81 3.81)
+          (xy -3.175 5.08)
+          (xy -2.54 3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.635 -0.381)
+          (xy -0.635 -0.381)
+          (xy 0 0.889)
+          (xy 0.635 -0.381)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 -5.08)
+          (xy 2.54 -5.08)
+          (xy 3.175 -3.81)
+          (xy 3.81 -5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 3.81)
+          (xy 2.54 3.81)
+          (xy 3.175 5.08)
+          (xy 3.81 3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -5.08)
+          (xy 5.08 -5.08)
+          (xy 5.715 -3.81)
+          (xy 6.35 -5.08)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 3.81)
+          (xy 5.08 3.81)
+          (xy 5.715 5.08)
+          (xy 6.35 3.81)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+    )
+    (symbol "TPD4EUSB30_1_1"
+      (pin passive line (at -12.7 2.54 0) (length 5.08)
+        (name "D1+" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -12.7 -2.54 0) (length 5.08)
+        (name "D1-" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 0 -12.7 90) (length 5.08)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 12.7 2.54 180) (length 5.08)
+        (name "D2+" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 12.7 -2.54 180) (length 5.08)
+        (name "D2-" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 0 -12.7 90) (length 5.08) hide
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "8" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -12.7 2.54 0) (length 5.08) hide
+        (name "D1+" (effects (font (size 1.27 1.27))))
+        (number "10" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 12.7 2.54 180) (length 5.08) hide
+        (name "D2+" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 12.7 -2.54 180) (length 5.08) hide
+        (name "D2-" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -12.7 -2.54 0) (length 5.08) hide
+        (name "D1-" (effects (font (size 1.27 1.27))))
+        (number "9" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
   (symbol "LightBlue:TPS23734" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -16.51 30.48 0)
       (effects (font (size 1.27 1.27)))
