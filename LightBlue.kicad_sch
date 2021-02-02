@@ -1508,7 +1508,7 @@
       (reference "D1") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/1247548e-da2d-4da5-8e9d-cdb0bd0eeb39"
-      (reference "J10") (unit 1) (value "Bus_M.2_Socket_M") (footprint "LightBlue:TE_2199230_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal")
+      (reference "J10") (unit 1) (value "Bus_M.2_Socket_M") (footprint "LightBlue:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal")
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/5b8b037f-ca81-48f3-8275-7d782584ea4f"
       (reference "R21") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
