@@ -602,7 +602,7 @@
     (in_bom yes) (on_board yes)
     (uuid "373fcc4a-3c8e-404b-9d19-ec794dcc77e4")
     (property "Reference" "R36" (id 0) (at 66.675 85.725 90))
-    (property "Value" "10k" (id 1) (at 70.485 85.725 90))
+    (property "Value" "10k" (id 1) (at 71.755 85.725 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 69.215 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )

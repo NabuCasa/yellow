@@ -2799,7 +2799,7 @@
     (uuid "955f6f4b-9ebf-41c3-8a36-26da150f4b3b")
     (property "Reference" "SW3" (id 0) (at 53.975 117.475 0))
     (property "Value" "SW_RECOVERY" (id 1) (at 53.975 120.015 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7C" (id 2) (at 53.34 124.46 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-3100P-B" (id 2) (at 53.34 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 53.34 124.46 0)
