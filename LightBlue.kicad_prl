@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 37,
-    "active_layer_preset": "Front Layers",
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 1,
@@ -18,7 +18,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -61,8 +61,8 @@
       37,
       38
     ],
-    "visible_layers": "00290ba_00000001",
-    "zone_display_mode": 0
+    "visible_layers": "00290ba_80000001",
+    "zone_display_mode": 2
   },
   "meta": {
     "filename": "LightBlue.kicad_prl",

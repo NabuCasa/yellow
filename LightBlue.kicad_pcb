@@ -18165,6 +18165,12 @@
   (gr_arc (start 135 44.999998) (end 135 30) (angle 90) (layer "Edge.Cuts") (width 0.05) (tstamp a715eff4-9433-4d3a-9fad-921cea1f6ba2))
   (gr_line (start 135 150) (end 45 150) (layer "Edge.Cuts") (width 0.05) (tstamp c4d5b6a7-efa5-4611-b488-2db7266442af))
   (gr_line (start 150 45) (end 150 135) (layer "Edge.Cuts") (width 0.05) (tstamp cc6634d1-e344-4527-aaa0-957c8adc6353))
+  (gr_text "Light Blue" (at 54.5 138) (layer "F.SilkS") (tstamp 1f4288d5-332b-402c-aa04-192ad4d53bcd)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+  )
+  (gr_text "Rev: 0.1" (at 54.5 140.5) (layer "F.SilkS") (tstamp 77d41c22-6032-424c-8f0b-0ab345e909f9)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
 
   (segment (start 65.15 109.8) (end 65.15 111.27) (width 0.4) (layer "F.Cu") (net 1) (tstamp 26bba75d-4752-4c7d-829d-0eacb62d9497))
   (segment (start 67.02 100.04) (end 63.3 103.76) (width 0.4) (layer "F.Cu") (net 1) (tstamp 90e63b9f-c8c3-4127-8f60-0da1ffa34f80))
