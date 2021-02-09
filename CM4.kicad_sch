@@ -3712,7 +3712,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x05_Odd_Even") (at 121.92 171.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "2780d134-4b5f-45db-8d3c-ff5c1e9c4b1a")
-    (property "Reference" "J1" (id 0) (at 123.19 160.8898 0))
+    (property "Reference" "J11" (id 0) (at 123.19 160.8898 0))
     (property "Value" "Conn_02x05_Odd_Even" (id 1) (at 123.19 163.1885 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (id 2) (at 121.92 171.45 0)
       (effects (font (size 1.27 1.27)) hide)

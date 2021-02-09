@@ -2232,7 +2232,7 @@
   (symbol (lib_id "Connector:Barrel_Jack") (at 36.83 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7")
-    (property "Reference" "J11" (id 0) (at 38.227 35.0582 0))
+    (property "Reference" "J1" (id 0) (at 38.227 35.0582 0))
     (property "Value" "Barrel_Jack" (id 1) (at 38.227 37.3569 0))
     (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (id 2) (at 38.1 44.196 0)
       (effects (font (size 1.27 1.27)) hide)
