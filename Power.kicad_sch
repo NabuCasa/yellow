@@ -2213,7 +2213,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 72.39 40.64 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "7a0a3281-9283-4334-8fe5-d2ef547e813a")
-    (property "Reference" "D2" (id 0) (at 72.39 35.1598 0))
+    (property "Reference" "D7" (id 0) (at 72.39 35.16 0))
     (property "Value" "B3100-13-F" (id 1) (at 72.39 37.4585 0))
     (property "Footprint" "Diode_SMD:D_SMC" (id 2) (at 72.39 40.64 0)
       (effects (font (size 1.27 1.27)) hide)

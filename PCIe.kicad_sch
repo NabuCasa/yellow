@@ -848,7 +848,7 @@
   (symbol (lib_id "Device:LED_Small") (at 144.78 93.98 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "14257d11-70b4-4524-bbc7-c9c364d35ee5")
-    (property "Reference" "D1" (id 0) (at 147.32 92.71 90)
+    (property "Reference" "D6" (id 0) (at 147.32 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED_Small" (id 1) (at 147.32 95.25 90)
