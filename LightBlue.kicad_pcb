@@ -3378,7 +3378,7 @@
     (property "Sheet name" "PoE")
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/fc4d5612-7453-4d10-80b0-46c2f8aaee40")
     (attr smd)
-    (fp_text reference "R47" (at 0 -1.17) (layer "F.SilkS") hide
+    (fp_text reference "R47" (at -0.13 -13.01) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 205b872c-6a59-46ad-9b7b-1f995cdc2a57)
     )
@@ -4541,7 +4541,7 @@
     (property "Sheet name" "PoE")
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/3b925a1b-db2d-479b-b224-747f09f9d928")
     (attr smd)
-    (fp_text reference "R43" (at 0 -1.17) (layer "F.SilkS") hide
+    (fp_text reference "R43" (at -0.05 -13) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 907de2fc-ae10-4d7b-8f1c-766f9ff72109)
     )
@@ -6482,7 +6482,7 @@
     (property "Sheet name" "PoE")
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/707e324f-918c-49dd-8b17-2356e325660c")
     (attr smd)
-    (fp_text reference "C72" (at -0.2 1.55) (layer "F.SilkS")
+    (fp_text reference "C72" (at 0.1 1.25) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp b8c37f21-44e3-4866-8f95-710b34eb5741)
     )
@@ -7446,7 +7446,7 @@
     (property "Sheet name" "PoE")
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/97e5892a-cda2-4406-8067-2f549c20a766")
     (attr smd)
-    (fp_text reference "R45" (at 0 -1.17 90) (layer "F.SilkS") hide
+    (fp_text reference "R45" (at -12.56 0.18 90) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp ab66a6cc-6e5d-4e0d-a5b6-871bb7801384)
     )
@@ -8342,7 +8342,7 @@
     (property "Sheet name" "PoE")
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/77aef7fd-34cc-473c-a422-f10d9ef805b9")
     (attr smd)
-    (fp_text reference "R46" (at 0 -1.17 90) (layer "F.SilkS") hide
+    (fp_text reference "R46" (at -12.56 0.03 90) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 121f5f43-73b9-4df0-a7ed-1668f995fc63)
     )
@@ -14073,7 +14073,7 @@
     (property "Sheet name" "SDCard")
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/2139362a-74c4-4abb-a86d-88efcc2a2b11")
     (attr smd)
-    (fp_text reference "J12" (at 3.75 0) (layer "B.SilkS")
+    (fp_text reference "J12" (at 7 0.05) (layer "B.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
       (tstamp 4da09e3e-546c-48f6-ab39-4c842b52ebe6)
     )
@@ -14151,6 +14151,7 @@
 
   (gr_line (start 80.25 91.45) (end 80.35 91.45) (layer "F.SilkS") (width 0.12) (tstamp 15c65c0c-14c0-4c96-a1d4-1d1f2ecbdbaa))
   (gr_line (start 78.05 91.2) (end 78.05 91.45) (layer "F.SilkS") (width 0.12) (tstamp 63966e62-026f-4e7a-973a-1f38c413b037))
+  (gr_rect (start 33.4 90.4) (end 39.45 93) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 7f9439a1-1662-4587-9bc0-ce45812cc590))
   (gr_line (start 77.65 92.35) (end 77.65 94.2) (layer "F.SilkS") (width 0.12) (tstamp 8b645a81-44a0-4e13-bb66-401af1196ec7))
   (gr_line (start 80.35 93.3) (end 80.6 93.3) (layer "F.SilkS") (width 0.12) (tstamp 96a6bce6-e54a-43a3-af61-b11144667794))
   (gr_rect (start 63.8 86.7) (end 68.5 90.05) (layer "F.SilkS") (width 0.12) (fill none) (tstamp a062c1ed-c95a-419e-9aa6-4ff123ca6814))
