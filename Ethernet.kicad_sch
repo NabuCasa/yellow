@@ -2830,6 +2830,9 @@
   (label "VC4" (at 149.86 111.76 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
   )
+  (label "ETH_SHLD" (at 182.88 130.81 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
 
   (hierarchical_label "ETH{ETH}" (shape bidirectional) (at 124.46 53.34 180)
     (effects (font (size 1.27 1.27)) (justify right))
