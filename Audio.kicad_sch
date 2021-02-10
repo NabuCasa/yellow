@@ -1453,7 +1453,7 @@
   (symbol (lib_id "Connector:AudioJack3") (at 158.75 83.185 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "45c3bea5-38ff-4276-ad09-4c18c95d656c")
-    (property "Reference" "J8" (id 0) (at 165.8621 81.4514 0)
+    (property "Reference" "J5" (id 0) (at 165.8621 81.4514 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "AudioJack3" (id 1) (at 165.8621 83.7501 0)
