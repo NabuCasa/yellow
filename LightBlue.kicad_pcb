@@ -7580,7 +7580,7 @@
     (pad "9" thru_hole circle (at -3.07 5.33 180) (locked) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "Shield") (tstamp 999759cb-c013-401c-bf75-ad00bcd81328))
     (model "${KIPRJMOD}/LightBlue.3dshapes/USB_A_Stacked_Wurth_Electronics_-_61400826021.wrl"
-      (offset (xyz 3.5 -7 6))
+      (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -8895,9 +8895,9 @@
     (pad "T" smd rect (at 3.825 3.3) (locked) (size 1.65 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 115 "Net-(J5-PadT)") (tstamp 03ce7fd1-0596-41e4-a717-bb048a630366))
     (model "${KIPRJMOD}/LightBlue.3dshapes/Jack_3.5mm_CUI_SJ2-35953A-SMT-TR_Horizontal.wrl"
-      (offset (xyz 3.15 6 4))
+      (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
