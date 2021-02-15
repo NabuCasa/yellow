@@ -1468,7 +1468,7 @@
     (property "Manufacturer" "CUI Devices" (id 4) (at 158.75 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "SJ2-35954A-SMT-TR" (id 5) (at 158.75 83.185 0)
+    (property "PartNumber" "SJ2-35953A-SMT-TR" (id 5) (at 158.75 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Config" "+Audio" (id 6) (at 158.75 83.185 0)
