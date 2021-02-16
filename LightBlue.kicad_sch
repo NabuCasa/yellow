@@ -2185,7 +2185,7 @@
       (reference "C79") (unit 1) (value "100n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/c9b10441-da14-49c4-aad8-732b445a3393"
-      (reference "C80") (unit 1) (value "47u/63V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C80") (unit 1) (value "47u/63V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/9da166e2-6bfa-449f-a2cf-154b90393ec0"
       (reference "C81") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
