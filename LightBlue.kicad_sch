@@ -1597,10 +1597,10 @@
       (reference "J2") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/6cf869b7-4906-4269-be48-72d89d3fa069"
-      (reference "R18") (unit 1) (value "470Ω") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R18") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/021dd781-c0a2-4e06-a8a9-18b3d36b8b01"
-      (reference "R19") (unit 1) (value "470Ω") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R19") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/402630fe-21db-4aab-bf2b-692ed43189bc"
       (reference "R20") (unit 1) (value "0R") (footprint "Resistor_SMD:R_1206_3216Metric")
