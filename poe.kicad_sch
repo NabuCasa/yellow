@@ -6092,7 +6092,7 @@
     (property "Manufacturer" "Würth Elektronik" (id 5) (at 199.39 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "749119550" (id 6) (at 199.39 45.72 0)
+    (property "PartNumber" "7491195112" (id 6) (at 199.39 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 43b7e3d5-a2c4-4719-82f3-6555b7a33d89))
