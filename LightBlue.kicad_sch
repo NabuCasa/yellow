@@ -789,9 +789,9 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid d755ead0-5518-4bd2-ae4a-ac3a4462d0d4)
     )
-    (pin "Radio{UART SWD ~RESET BOOT}" bidirectional (at 175.26 80.01 180)
+    (pin "Radio{UART SWD ~RESET ~BOOT}" bidirectional (at 175.26 80.01 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid a6bbb91a-f576-49e0-af8f-c5ac31a15a93)
+      (uuid 411ed783-a9dc-4822-9f29-8f6dfad67edd)
     )
   )
 
@@ -885,13 +885,13 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 9fdef8b1-1ed1-4a09-9c65-439d27d4943e)
     )
-    (pin "Radio{UART SWD ~RESET BOOT}" bidirectional (at 158.115 80.01 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 3b1b05bc-f561-4afd-ab7d-fd9045321a0d)
-    )
     (pin "~SW_USER" input (at 158.115 68.58 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid dfc2f854-fca3-4067-9741-b39129ff0354)
+    )
+    (pin "Radio{UART SWD ~RESET ~BOOT}" bidirectional (at 158.115 80.01 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 2f0b0fda-42bd-4c5a-ba78-88beb8cf9b7e)
     )
   )
 
@@ -1305,6 +1305,9 @@
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/8da3dc08-e8c7-49d7-bc66-158e809cda9f"
       (reference "#PWR0150") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/6eadb819-6e10-4358-a1f5-27e62d1063e8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/28c3a820-3c81-4c70-865d-f4372a81689d"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -1355,6 +1358,9 @@
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/f6844e82-d36d-4f7b-89e8-6b9d63b80c11"
       (reference "C18") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/057b3f3e-71d6-4e24-8ee0-04feb37f7702"
+      (reference "C?") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/e0469852-771a-434b-963a-8ecb4c38b617"
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
@@ -1449,6 +1455,12 @@
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/a55e3a9a-b971-4140-877a-16489c505efc"
       (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
     )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/03ebd447-e57d-4441-9d75-027b7fbfada0"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/6e5a5be6-cf85-47db-9594-c5ba782ec7ce"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09c8cca-c855-4542-a876-1781079d5d54"
       (reference "J7") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
     )
@@ -1457,6 +1469,15 @@
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/7e85724a-4aa3-487a-9578-39b3371d9abd"
       (reference "J9") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/2d75dfee-ac09-45c1-81e5-2a0d40c4d6bd"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/48f087d3-6913-48e0-9a81-b5a4d1062cb0"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/4cc6d309-4f77-41d2-b317-a1c1631529ab"
+      (reference "R?") (unit 1) (value "1k") (footprint "")
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09bd077-0d29-41a3-91d8-7b26a3246dec"
       (reference "U9") (unit 1) (value "SiliconLabs-MGM210P") (footprint "LightBlue:SiliconLabs_MGM210P")
@@ -2025,6 +2046,9 @@
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/d02bb5fa-8221-4984-a2df-a6e9c5d6f740"
       (reference "#PWR0243") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/6768938c-01e5-466e-aed5-9432d5d4e836"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/e9a5777f-df06-4d95-b759-a9735a0efa7c"
       (reference "C69") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -2033,6 +2057,9 @@
     )
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/373fcc4a-3c8e-404b-9d19-ec794dcc77e4"
       (reference "R36") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/0cc85d72-d8a5-4c7a-9558-d741ba5bb7fd"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/231e698e-ef39-4cba-a7bd-26a17d9db0c5"
       (reference "U19") (unit 1) (value "RT9742GGJ5") (footprint "Package_TO_SOT_SMD:SOT-23-5")
