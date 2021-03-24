@@ -1573,7 +1573,7 @@
       (reference "C27") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c"
-      (reference "J5") (unit 1) (value "AudioJack3") (footprint "LightBlue:Jack_3.5mm_CUI_SJ2-35953A-SMT_Horizontal")
+      (reference "J5") (unit 1) (value "AudioJack") (footprint "LightBlue:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/30b27367-128e-4e9c-a77a-a4ce0c7c99c9"
       (reference "R15") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
