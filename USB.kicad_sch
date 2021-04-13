@@ -5019,7 +5019,7 @@
     (uuid 15a1c1c3-ed5e-4bb3-a60a-04e93ff6b7c2)
     (property "Reference" "U2" (id 0) (at 35.56 160.655 0))
     (property "Value" "CP2102N-Axx-xQFN20" (id 1) (at 58.42 160.655 0))
-    (property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm" (id 2) (at 77.47 160.655 0)
+    (property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm" (id 2) (at 77.47 160.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf" (id 3) (at 46.99 153.035 0)
