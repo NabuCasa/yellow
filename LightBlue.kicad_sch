@@ -1540,7 +1540,7 @@
       (reference "C36") (unit 1) (value "10u/35V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/e2c3273e-aab9-4adc-a26b-a0eb9f9d19a1"
-      (reference "C38") (unit 1) (value "10u/35V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C38") (unit 1) (value "33u/35V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/dcdf93a2-b9e8-4a1e-976a-9ab915034648"
       (reference "C39") (unit 1) (value "100n/35V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -1582,19 +1582,19 @@
       (reference "C53") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/6c816f23-fb57-43f0-bd49-2dd1410ad6f6"
-      (reference "C54") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C54") (unit 1) (value "33u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/31c3d4f2-55c1-4037-9d8d-f9e73aac711b"
       (reference "C55") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/0d323ccc-795c-4624-aba1-c5da299b125b"
-      (reference "C56") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C56") (unit 1) (value "33u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/0f77d53f-e077-45dc-8f3f-ea587af573db"
-      (reference "C57") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C57") (unit 1) (value "33u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/c811795c-c5aa-4729-9802-f0f1a1c835f9"
-      (reference "C59") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C59") (unit 1) (value "33u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/2bd2756a-e05b-4556-b8ea-a98c93b5efc2"
       (reference "C61") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0402_1005Metric")
