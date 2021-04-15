@@ -1653,8 +1653,14 @@
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/ee9b63bf-a005-450b-85ad-54a93cb76e70"
       (reference "R29") (unit 1) (value "22k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/06ba0f9b-942a-4517-aa85-df810de1842e"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/b25c0f71-a624-426a-8263-7b4f25e724a8"
       (reference "R?") (unit 1) (value "12k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/bd7b8993-1727-4234-921e-130f6ac0f3ba"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/75aef2d6-e5fc-4108-99b3-c7b178112cb3"
       (reference "U14") (unit 1) (value "BD9D321EFJ") (footprint "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias")
