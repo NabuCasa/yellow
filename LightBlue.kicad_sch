@@ -2155,7 +2155,7 @@
       (reference "L3") (unit 1) (value "3u3") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/8e4bf553-ed00-4225-96a1-870ada5deeea"
-      (reference "Q2") (unit 1) (value "BSZ440N10NS3GATMA1") (footprint "Package_TO_SOT_SMD:TDSON-8-1")
+      (reference "Q2") (unit 1) (value "BSZ440N10NS3GATMA1") (footprint "LightBlue:PG-TSDSON-8")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/370c9c10-1518-4957-93ad-02e83a7c3281"
       (reference "R41") (unit 1) (value "25k5/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
