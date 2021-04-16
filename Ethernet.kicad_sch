@@ -3146,7 +3146,7 @@
   (symbol (lib_id "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal") (at 177.8 86.36 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6dd5e861-e5d4-4759-b127-4958e3f04beb)
-    (property "Reference" "J12" (id 0) (at 157.48 48.26 0)
+    (property "Reference" "J2" (id 0) (at 157.48 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RJ45_LINK-PP_LPJG0926HENL_Horizontal" (id 1) (at 182.88 48.26 0))

@@ -972,20 +972,20 @@
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/1cb8c7f0-9dee-42f2-ab73-15b998063e93"
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric")
     )
-    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/2780d134-4b5f-45db-8d3c-ff5c1e9c4b1a"
-      (reference "J1") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
-    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/e968abf9-4624-4f9a-a426-43f6f969f7bc"
-      (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/65722b3e-bd11-4d53-9b38-148a204070a3"
-      (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/7bfd1035-1969-40a2-b79e-5a744cd6676d"
-      (reference "J4") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
-      (reference "J5") (unit 1) (value "HDMI_A_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
+      (reference "J7") (unit 1) (value "HDMI_A_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/65722b3e-bd11-4d53-9b38-148a204070a3"
+      (reference "J11") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/7bfd1035-1969-40a2-b79e-5a744cd6676d"
+      (reference "J12") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/2780d134-4b5f-45db-8d3c-ff5c1e9c4b1a"
+      (reference "J16") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/f65f5283-bc09-4a32-875e-7aff6fe23fca"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1180,13 +1180,13 @@
       (reference "C21") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/e0469852-771a-434b-963a-8ecb4c38b617"
-      (reference "J6") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/66323853-f1bb-4a57-9741-65f7b746b19e"
-      (reference "J7") (unit 1) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
+      (reference "J4") (unit 1) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/775321c9-14c9-4076-965a-fb87a5647947"
-      (reference "J7") (unit 2) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
+      (reference "J4") (unit 2) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/21f085b4-1176-4778-97ba-f2d2acc22e65"
       (reference "JP1") (unit 1) (value "JP_USB_DEVICE_SEL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -1390,7 +1390,7 @@
       (reference "C30") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c"
-      (reference "J11") (unit 1) (value "AudioJack") (footprint "LightBlue:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal")
+      (reference "J5") (unit 1) (value "AudioJack") (footprint "LightBlue:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/30b27367-128e-4e9c-a77a-a4ce0c7c99c9"
       (reference "R19") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1432,7 +1432,7 @@
       (reference "C32") (unit 1) (value "100n/1kV") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/6dd5e861-e5d4-4759-b127-4958e3f04beb"
-      (reference "J12") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
+      (reference "J2") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/6cf869b7-4906-4269-be48-72d89d3fa069"
       (reference "R22") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1636,7 +1636,7 @@
       (reference "FB1") (unit 1) (value "300R/3A") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7"
-      (reference "J14") (unit 1) (value "Barrel_Jack") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/4701c6aa-fbd2-4fa6-be11-8236f43a0356"
       (reference "L1") (unit 1) (value "3u3") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx")
@@ -2008,7 +2008,7 @@
       (reference "C74") (unit 1) (value "1n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/1f04b456-d9f2-43b1-892f-02d4abc78ea2"
-      (reference "C75") (unit 1) (value "1n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C75") (unit 1) (value "1n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/707e324f-918c-49dd-8b17-2356e325660c"
       (reference "C76") (unit 1) (value "1n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -2050,7 +2050,7 @@
       (reference "C88") (unit 1) (value "100p/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/d7278340-43b9-4d50-bb1c-b04eab7d06a6"
-      (reference "C89") (unit 1) (value "1n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C89") (unit 1) (value "1n/25V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/9d3db2e8-03fd-4bd8-a39b-35bccc275c54"
       (reference "C90") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -2062,7 +2062,7 @@
       (reference "C92") (unit 1) (value "100n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/432cb219-d1cd-4572-89b9-d8b55fada2cb"
-      (reference "C93") (unit 1) (value "2n2/2kV") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C93") (unit 1) (value "2n2/2kV") (footprint "Capacitor_SMD:C_1812_4532Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/cd22499b-6b90-4aab-a8f9-9b7a2f17d309"
       (reference "C94") (unit 1) (value "1n/25V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2212,7 +2212,7 @@
       (reference "R58") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/cccf09fb-d5ec-4531-b15b-b784374193e6"
-      (reference "R59") (unit 1) (value "3R9") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R59") (unit 1) (value "3R9/1%") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/10e0bba8-b3cc-4b72-9d6f-290e39b1d8f4"
       (reference "R60") (unit 1) (value "0R1") (footprint "Resistor_SMD:R_0805_2012Metric")

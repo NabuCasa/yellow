@@ -1707,7 +1707,7 @@
   (symbol (lib_id "Connector:AudioJack4_SwitchTR1") (at 165.1 83.185 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 45c3bea5-38ff-4276-ad09-4c18c95d656c)
-    (property "Reference" "J11" (id 0) (at 174.1171 86.5314 0)
+    (property "Reference" "J5" (id 0) (at 174.1171 86.5314 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "AudioJack" (id 1) (at 174.117 88.83 0)
