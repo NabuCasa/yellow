@@ -1116,6 +1116,18 @@
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/83d725b2-f835-4b4f-bb91-807890636371"
       (reference "#PWR054") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/362eeec6-5f72-45c1-8735-45caa1f98e0d"
+      (reference "#PWR?") (unit 1) (value "+3.3VP") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/3750485f-4a30-4f9d-9aff-b5f0a297e551"
+      (reference "#PWR?") (unit 1) (value "+3.3VP") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/da595644-2876-4114-952d-c1e89d00254b"
+      (reference "#PWR?") (unit 1) (value "+3.3VP") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/dab7960c-a831-4b41-bd4e-6d36c84c7492"
+      (reference "#PWR?") (unit 1) (value "+3.3VP") (footprint "")
+    )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/28c3a820-3c81-4c70-865d-f4372a81689d"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
