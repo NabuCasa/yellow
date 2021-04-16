@@ -2233,7 +2233,7 @@
       (reference "R65") (unit 1) (value "5R1") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/897f43a2-d08b-4609-bc6b-c864c929a423"
-      (reference "T1") (unit 1) (value "PA2467NL") (footprint "LightBlue:Transformer_EPQ-13")
+      (reference "T1") (unit 1) (value "PA2467NL") (footprint "LightBlue:Transformer_Pulse_PA2467NL")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/3b445175-7af8-4e6d-bb04-cfc261115f37"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")

@@ -5014,7 +5014,7 @@
     (uuid 897f43a2-d08b-4609-bc6b-c864c929a423)
     (property "Reference" "T1" (id 0) (at 199.39 31.75 0))
     (property "Value" "PA2467NL" (id 1) (at 199.39 34.29 0))
-    (property "Footprint" "LightBlue:Transformer_EPQ-13" (id 2) (at 199.39 45.72 0)
+    (property "Footprint" "LightBlue:Transformer_Pulse_PA2467NL" (id 2) (at 199.39 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://productfinder.pulseeng.com/products/datasheets/P675.pdf" (id 3) (at 199.39 45.72 0)
