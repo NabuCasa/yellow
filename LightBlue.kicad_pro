@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -68,9 +68,20 @@
           "gap": 0.127,
           "via_gap": 0.13,
           "width": 0.149
+        },
+        {
+          "gap": 0.127,
+          "via_gap": 0.13,
+          "width": 0.238
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|31400000|52020000|250a294e-035b-4058-980f-eee3453fc692|9107b7b3-0654-4a35-9cfc-8e51553a3295",
+        "clearance|36900000|52020000|1e5277ff-2806-4c72-b9fc-f481d088362c|d64961f5-517b-4490-b68f-140e594549f6",
+        "clearance|38900000|52720000|37a9dcee-cf03-4653-9ee1-05cf43670197|931c23fe-5f56-4f5a-bff5-77f1cb024eb6",
+        "clearance|44400000|52020000|ff995202-2ab7-4018-96ca-c0ccb9427b2f|07fd0146-3d92-4406-b764-00cf12c2f9a9",
+        "diff_pair_gap_out_of_range|115567511|124550605|1bbd4b53-e008-4bfb-8c5b-a9ddf0ada7d0|c35ac83e-d9e1-424e-abf7-ce6834fa8260"
+      ],
       "meta": {
         "version": 2
       },
@@ -118,14 +129,14 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_copper_edge_clearance": 0.3,
-        "min_hole_clearance": 0.254,
+        "min_hole_clearance": 0.127,
         "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.127,
-        "min_via_annular_width": 0.19999999999999998,
+        "min_via_annular_width": 0.125,
         "min_via_diameter": 0.44999999999999996
       },
       "track_widths": [
@@ -133,6 +144,7 @@
         0.127,
         0.15,
         0.2,
+        0.238,
         0.25,
         0.3,
         0.4,
@@ -619,12 +631,12 @@
       "PCIe"
     ],
     [
-      "c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42",
-      "Power"
-    ],
-    [
       "441a9908-1e74-440b-b462-bdf6815583fe",
       "Control/RTC"
+    ],
+    [
+      "c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42",
+      "Power"
     ],
     [
       "67ada73c-6692-4fd8-8c20-5be89f2b8650",

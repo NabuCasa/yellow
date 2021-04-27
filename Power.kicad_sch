@@ -2720,7 +2720,7 @@
     (uuid eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7)
     (property "Reference" "J1" (id 0) (at 28.702 31.8832 0))
     (property "Value" "Barrel_Jack" (id 1) (at 28.702 34.1819 0))
-    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (id 2) (at 28.575 41.021 0)
+    (property "Footprint" "LightBlue:BarrelJack_CUI_PJ-002A" (id 2) (at 28.575 41.021 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 28.575 41.021 0)
