@@ -739,7 +739,7 @@
   (symbol (lib_id "Connector:Micro_SD_Card_Det") (at 102.87 71.12 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2139362a-74c4-4abb-a86d-88efcc2a2b11)
-    (property "Reference" "J15" (id 0) (at 85.09 53.34 0))
+    (property "Reference" "J7" (id 0) (at 85.09 53.34 0))
     (property "Value" "Micro_SD_Card_Det" (id 1) (at 109.22 53.34 0))
     (property "Footprint" "Connector_Card:microSD_HC_Molex_104031-0811" (id 2) (at 154.94 53.34 0)
       (effects (font (size 1.27 1.27)) hide)

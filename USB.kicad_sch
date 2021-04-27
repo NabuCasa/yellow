@@ -1937,9 +1937,9 @@
     )
   )
 
-  (bus_alias "I2C" (members "SDA" "SCL"))
-  (bus_alias "CM4_USB" (members "CM4_USB_D+" "CM4_USB_D-" "CM4_USB_OTG_ID"))
   (bus_alias "USB" (members "D+" "D-"))
+  (bus_alias "CM4_USB" (members "CM4_USB_D+" "CM4_USB_D-" "CM4_USB_OTG_ID"))
+  (bus_alias "I2C" (members "SDA" "SCL"))
   (junction (at 22.86 80.01) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 22.86 88.9) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 24.765 187.325) (diameter 0.9144) (color 0 0 0 0))
