@@ -80,6 +80,8 @@
         "clearance|36900000|52020000|1e5277ff-2806-4c72-b9fc-f481d088362c|d64961f5-517b-4490-b68f-140e594549f6",
         "clearance|38900000|52720000|37a9dcee-cf03-4653-9ee1-05cf43670197|931c23fe-5f56-4f5a-bff5-77f1cb024eb6",
         "clearance|44400000|52020000|ff995202-2ab7-4018-96ca-c0ccb9427b2f|07fd0146-3d92-4406-b764-00cf12c2f9a9",
+        "courtyards_overlap|139466001|62992000|002acccc-be8a-4e21-8de4-c1e92b9d1a43|b3ef7ab8-c316-4700-9910-38dbd54503b6",
+        "courtyards_overlap|139974001|96774000|9e4674ec-ef29-4b71-bc7f-598a5332477c|b3ef7ab8-c316-4700-9910-38dbd54503b6",
         "diff_pair_gap_out_of_range|115567511|124550605|1bbd4b53-e008-4bfb-8c5b-a9ddf0ada7d0|c35ac83e-d9e1-424e-abf7-ce6834fa8260"
       ],
       "meta": {
@@ -110,8 +112,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -560,7 +562,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "LightBlue_0.2pre3.step",
+      "step": "LightBlue_0.2pre4.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
