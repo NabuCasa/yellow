@@ -1603,7 +1603,7 @@
       (reference "C51") (unit 1) (value "3n3") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/1a9a20c4-b91a-4b31-a99b-ca948e3c2751"
-      (reference "C52") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C52") (unit 1) (value "100n/25V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/c597bbf2-e110-4260-b76a-d6c6e82e2793"
       (reference "C53") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2218,7 +2218,7 @@
       (reference "R52") (unit 1) (value "39k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/67c67750-cc0f-419d-af64-dec5b532c446"
-      (reference "R53") (unit 1) (value "49R9/%") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R53") (unit 1) (value "49R9/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/78f1ef02-fc0c-4c69-b5c9-c1dfabc3f043"
       (reference "R54") (unit 1) (value "24k9/1%") (footprint "Resistor_SMD:R_0402_1005Metric")

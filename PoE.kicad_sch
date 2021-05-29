@@ -3612,7 +3612,7 @@
     (property "Reference" "R53" (id 0) (at 160.2487 164.5856 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "49R9/%" (id 1) (at 160.249 166.884 0)
+    (property "Value" "49R9/1%" (id 1) (at 160.249 166.884 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 158.75 165.735 0)

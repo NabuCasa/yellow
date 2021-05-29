@@ -2402,7 +2402,7 @@
     (property "Reference" "C52" (id 0) (at 109.22 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (id 1) (at 109.22 42.545 0)
+    (property "Value" "100n/25V" (id 1) (at 109.22 42.545 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 106.68 42.545 0)
