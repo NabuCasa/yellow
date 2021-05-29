@@ -973,7 +973,7 @@
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
-      (reference "J6") (unit 1) (value "HDMI_A_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
+      (reference "J6") (unit 1) (value "HDMI_D_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/2780d134-4b5f-45db-8d3c-ff5c1e9c4b1a"
       (reference "J11") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
