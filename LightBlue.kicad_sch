@@ -2065,7 +2065,7 @@
       (reference "C85") (unit 1) (value "47u/63V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/9da166e2-6bfa-449f-a2cf-154b90393ec0"
-      (reference "C86") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C86") (unit 1) (value "2u2/25V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/1080aeba-e735-4ad7-be0a-6a2d6a01752a"
       (reference "C87") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -2077,7 +2077,7 @@
       (reference "C89") (unit 1) (value "1n/25V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/9d3db2e8-03fd-4bd8-a39b-35bccc275c54"
-      (reference "C90") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C90") (unit 1) (value "2u2/25V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/ef0c4597-afa6-4010-81d3-9e1dc77e1381"
       (reference "C91") (unit 1) (value "2u2/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
