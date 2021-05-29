@@ -2344,7 +2344,7 @@
       (net 107 "Net-(D9-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp c7e59689-1232-4102-9a52-203fceea68ec))
     (pad "4" smd rect (at -0.425 0.725) (locked) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp d63383e1-e10b-4068-b8f2-cf09c3e266c4))
-    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10026,7 +10026,7 @@
       (net 81 "Net-(D7-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 04d00f8a-e1c1-4982-8cfb-d8b1d24991c0))
     (pad "4" smd rect (at -0.425 0.725) (locked) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp 6410c683-9792-4179-a955-78813f970a85))
-    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -18444,7 +18444,7 @@
       (net 93 "Net-(D8-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 52aecdf3-f8b2-4976-9ac7-68d05695113b))
     (pad "4" smd rect (at -0.425 0.725) (locked) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp 8bd43bd4-49ed-4800-84ec-db4a024cf30d))
-    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
