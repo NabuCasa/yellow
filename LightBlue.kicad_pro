@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 5.0,
+          "drill": 6.0,
           "height": 3.3,
-          "width": 5.3
+          "width": 6.3
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -77,11 +77,21 @@
       ],
       "drc_exclusions": [
         "clearance|31400000|52020000|250a294e-035b-4058-980f-eee3453fc692|9107b7b3-0654-4a35-9cfc-8e51553a3295",
+        "clearance|35775000|51175000|078fc9ba-15b5-4a24-a89a-53f25bdd130b|9ca51802-935d-47e0-bc89-e3e4ca7804f9",
+        "clearance|35775000|51175000|e4569341-ab08-40aa-88cd-139078f06604|9ca51802-935d-47e0-bc89-e3e4ca7804f9",
+        "clearance|36000000|65400000|1bc16b4a-972f-4257-9948-56db064bca0e|d64961f5-517b-4490-b68f-140e594549f6",
+        "clearance|36425000|65400000|7a065aca-062b-4318-a346-8f378198772c|d64961f5-517b-4490-b68f-140e594549f6",
+        "clearance|36850000|65400000|8b785389-58b0-42c4-8e78-61072e33a088|d64961f5-517b-4490-b68f-140e594549f6",
         "clearance|36900000|52020000|1e5277ff-2806-4c72-b9fc-f481d088362c|d64961f5-517b-4490-b68f-140e594549f6",
+        "clearance|37450000|52400000|62909aef-890b-4319-804d-15f430838b56|37a9dcee-cf03-4653-9ee1-05cf43670197",
+        "clearance|37525000|52400000|37a9dcee-cf03-4653-9ee1-05cf43670197|931c23fe-5f56-4f5a-bff5-77f1cb024eb6",
         "clearance|38900000|52720000|37a9dcee-cf03-4653-9ee1-05cf43670197|931c23fe-5f56-4f5a-bff5-77f1cb024eb6",
+        "clearance|42750000|51900000|ff995202-2ab7-4018-96ca-c0ccb9427b2f|07fd0146-3d92-4406-b764-00cf12c2f9a9",
         "clearance|44400000|52020000|ff995202-2ab7-4018-96ca-c0ccb9427b2f|07fd0146-3d92-4406-b764-00cf12c2f9a9",
         "courtyards_overlap|139466001|62992000|002acccc-be8a-4e21-8de4-c1e92b9d1a43|b3ef7ab8-c316-4700-9910-38dbd54503b6",
         "courtyards_overlap|139974001|96774000|9e4674ec-ef29-4b71-bc7f-598a5332477c|b3ef7ab8-c316-4700-9910-38dbd54503b6",
+        "diff_pair_gap_out_of_range|112395511|94524154|d3ae5bb6-0115-40fe-98ce-7a4859e602ac|22785886-4987-47a8-8982-d7316e1662f9",
+        "diff_pair_gap_out_of_range|114917500|125575594|a9f28c6a-9ae7-47fd-9f4e-57214364999c|d22594ac-896f-4c53-8a94-4158e4a98bd1",
         "diff_pair_gap_out_of_range|115567511|124550605|1bbd4b53-e008-4bfb-8c5b-a9ddf0ada7d0|c35ac83e-d9e1-424e-abf7-ce6834fa8260"
       ],
       "meta": {
@@ -139,7 +149,8 @@
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.127,
         "min_via_annular_width": 0.125,
-        "min_via_diameter": 0.44999999999999996
+        "min_via_diameter": 0.44999999999999996,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -562,7 +573,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "LightBlue_0.2.step",
+      "step": "LightBlue_0.3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -594,7 +605,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "output/",
@@ -633,12 +645,12 @@
       "PCIe"
     ],
     [
-      "c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42",
-      "Power"
-    ],
-    [
       "441a9908-1e74-440b-b462-bdf6815583fe",
       "Control/RTC"
+    ],
+    [
+      "c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42",
+      "Power"
     ],
     [
       "67ada73c-6692-4fd8-8c20-5be89f2b8650",
