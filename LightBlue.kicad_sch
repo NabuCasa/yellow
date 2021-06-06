@@ -2300,10 +2300,10 @@
       (reference "U1") (unit 2) (value "RaspberryPi-CM4Lite") (footprint "LightBlue:RaspberryPi-CM4")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/4dd6bcbf-26fd-4425-8fa4-2095d8aa465e"
-      (reference "U2") (unit 1) (value "DF40C-100DS-0.4V(51)") (footprint "LightBlue:DF40C-100DS-0.4V51_virtual")
+      (reference "U2") (unit 1) (value "DF40C-100DS-0.4V") (footprint "LightBlue:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/736345e1-e2da-4fe0-b090-447995db5e70"
-      (reference "U3") (unit 1) (value "DF40C-100DS-0.4V(51)") (footprint "LightBlue:DF40C-100DS-0.4V51_virtual")
+      (reference "U3") (unit 1) (value "DF40C-100DS-0.4V") (footprint "LightBlue:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/15a1c1c3-ed5e-4bb3-a60a-04e93ff6b7c2"
       (reference "U4") (unit 1) (value "CP2102N-Axx-xQFN20") (footprint "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm")
