@@ -2293,6 +2293,12 @@
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/57cab823-3803-4c18-aa3b-8c1b81a80634"
       (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/78bd2b68-828f-4361-ace8-1272b2bf5f0e"
+      (reference "TP11") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/3c4e847d-04b4-45ff-a9d8-5b4332a784d3"
+      (reference "TP12") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b131b144-fc54-40cc-8411-449b069a57ca"
       (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "LightBlue:RaspberryPi-CM4")
     )
