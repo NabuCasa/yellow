@@ -150,7 +150,7 @@
   (pad "MP" thru_hole circle (at 0 59.75) (locked) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask) (tstamp 8a99eba8-9795-4cda-91d1-7323e13c8777))
   (pad "MP" smd rect (at -10.35 -3) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d19c5b07-e21b-4cc7-9fe9-f6570566f593))
   (pad "MP" thru_hole circle (at 0 41.75) (locked) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask) (tstamp e8966a01-09d5-4c01-a00e-6f115de00b33))
-  (model "${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_2199230_Bus_M.2_M_H4.2mm_P0.5mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_2199230_Bus_M.2_M_H4.2mm_P0.5mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

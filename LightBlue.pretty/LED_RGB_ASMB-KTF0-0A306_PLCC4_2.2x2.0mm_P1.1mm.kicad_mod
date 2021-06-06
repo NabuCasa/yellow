@@ -38,7 +38,7 @@
   (pad "2" smd rect (at 0.9 -0.6) (locked) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66701ea1-5aa5-47ba-b6fa-658bb67d2efd))
   (pad "3" smd rect (at -0.9 -0.6) (locked) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f37adb7b-622c-4ad8-9983-2ad692e90302))
   (pad "4" smd rect (at -0.9 0.6) (locked) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 80161c47-ec01-402e-a9a2-1e22a6d2256a))
-  (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

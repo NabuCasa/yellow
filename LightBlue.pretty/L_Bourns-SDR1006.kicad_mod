@@ -32,7 +32,7 @@
     (chamfer_ratio 0) (chamfer top_right bottom_right) (tstamp a3a3c313-b7b6-4033-b4e6-382dc449099f))
   (pad "2" smd roundrect (at 3.2 0) (locked) (size 3.6 10) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (chamfer_ratio 0) (chamfer top_left bottom_left) (tstamp 6c66381e-ef84-4e9a-b1d6-81c359f0ff75))
-  (model "${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns-SRN1060.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN1060.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

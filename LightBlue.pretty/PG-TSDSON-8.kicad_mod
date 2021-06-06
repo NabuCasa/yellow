@@ -61,7 +61,7 @@
   (pad "4" smd rect (at -1.5 0.975) (locked) (size 0.8 0.34) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin -0.05) (tstamp 1da53390-0f18-4bac-a223-8c4394b004be))
   (pad "5" smd rect (at 0.72 0) (locked) (size 2.36 2.29) (layers "F.Cu") (tstamp ae017e7d-8ff2-4f7e-a678-d41ed44def2a))
-  (model "${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TDSON-8-1.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TDSON-8-1.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -106,7 +106,7 @@
   (pad "75" smd rect (at 9.25 -3.75) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a239ecea-b19c-4497-8124-791da7ed547e))
   (pad "MP" smd rect (at -10.35 -3) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82a7e0e7-e7af-4aa2-910b-bfc847c1fed2))
   (pad "MP" smd rect (at 10.35 -3) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de60722d-67fb-42f0-ba28-66797312b0af))
-  (model "${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

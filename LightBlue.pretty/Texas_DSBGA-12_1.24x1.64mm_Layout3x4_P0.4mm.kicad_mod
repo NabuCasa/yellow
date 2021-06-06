@@ -55,7 +55,7 @@
   (pad "C2" smd circle (at -0.2 0.4 270) (locked) (size 0.225 0.225) (property pad_prop_bga) (layers "F.Cu" "F.Mask") (tstamp 886ce362-24bf-431b-8333-2b42c3fde051))
   (pad "C3" smd circle (at 0.2 0.4 270) (locked) (size 0.225 0.225) (property pad_prop_bga) (layers "F.Cu" "F.Mask") (tstamp 9ceab821-3f17-4c03-a626-1514639b9314))
   (pad "C4" smd circle (at 0.6 0.4 270) (locked) (size 0.225 0.225) (property pad_prop_bga) (layers "F.Cu" "F.Mask") (tstamp 4adc2e1e-dc56-46d9-9bf9-317579030b07))
-  (model "${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
