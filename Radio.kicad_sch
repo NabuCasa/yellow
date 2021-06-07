@@ -1244,7 +1244,7 @@
     (property "Manufacturer" "Silicon Laboratories" (id 4) (at 137.16 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "MGM210PB32JIA2" (id 5) (at 137.16 83.82 0)
+    (property "PartNumber" "MGM210PA32JIA2" (id 5) (at 137.16 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bdeccfdb-9b7f-4c3d-a021-cb13485bd539))
