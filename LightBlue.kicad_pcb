@@ -21152,7 +21152,7 @@
     (property "Sheetfile" "Audio.kicad_sch")
     (property "Sheetname" "Audio")
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c")
-    (attr smd)
+    (attr through_hole)
     (fp_text reference "J5" (at -4.5 1.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 883a59b1-a81d-4d38-a818-e56bc7c36788)
