@@ -10,7 +10,7 @@
     (rev "0.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
-    (comment 2 "Light Blue")
+    (comment 2 "Amber")
   )
 
   (lib_symbols
@@ -1823,7 +1823,7 @@
     (property "Value" "AudioJack" (id 1) (at 174.117 89.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LightBlue:Jack_3.5mm_XKB_PJ-3270_Horizontal" (id 2) (at 166.37 83.82 0)
+    (property "Footprint" "Amber:Jack_3.5mm_XKB_PJ-3270_Horizontal" (id 2) (at 166.37 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2002271813_XKB-Connectivity-PJ-3270_C381134.pdf" (id 3) (at 166.37 83.82 0)

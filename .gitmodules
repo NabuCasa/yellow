@@ -1,3 +1,3 @@
-[submodule "LightBlue.3dshapes"]
-	path = LightBlue.3dshapes
-	url = git@github.com:NabuCasa/light-blue-3dshapes.git 
+[submodule "Amber.3dshapes"]
+	path = Amber.3dshapes
+	url = https://github.com/NabuCasa/amber-3dshapes/

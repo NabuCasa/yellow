@@ -10,7 +10,7 @@
     (rev "0.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
-    (comment 2 "Light Blue")
+    (comment 2 "Amber")
   )
 
   (lib_symbols
@@ -223,7 +223,7 @@
         )
       )
     )
-    (symbol "LightBlue:RT9742GGJ5" (in_bom yes) (on_board yes)
+    (symbol "Amber:RT9742GGJ5" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -5.08 8.89 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -707,7 +707,7 @@
     (pin "2" (uuid baca65bf-62b2-4993-928a-27ac651df2a1))
   )
 
-  (symbol (lib_id "LightBlue:RT9742GGJ5") (at 91.44 111.76 0) (unit 1)
+  (symbol (lib_id "Amber:RT9742GGJ5") (at 91.44 111.76 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 231e698e-ef39-4cba-a7bd-26a17d9db0c5)
     (property "Reference" "U22" (id 0) (at 85.09 102.87 0)

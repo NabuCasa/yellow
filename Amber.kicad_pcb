@@ -6,12 +6,12 @@
 
   (paper "A4")
   (title_block
-    (title "Light Blue PCB")
+    (title "Amber PCB")
     (date "2021-04-22")
     (rev "0.2")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
-    (comment 2 "Light Blue")
+    (comment 2 "Amber")
   )
 
   (layers
@@ -476,7 +476,7 @@
     (at 137.616 62.992)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/d7909674-1922-4ddb-8b1b-9c714bef3b92")
@@ -711,7 +711,7 @@
     )
   )
 
-  (footprint "LightBlue:SiliconLabs_MGM210P" (layer "F.Cu")
+  (footprint "Amber:SiliconLabs_MGM210P" (layer "F.Cu")
     (tedit 6022E6CC) (tstamp 0252c83b-9d93-485e-9432-481c805f1316)
     (at 40.6 120 90)
     (property "Manufacturer" "Silicon Laboratories")
@@ -817,7 +817,7 @@
         )
       )
     )
-    (model "${KIPRJMOD}/LightBlue.3dshapes/SiliconLabs-MGM210P.step"
+    (model "${KIPRJMOD}/Amber.3dshapes/SiliconLabs-MGM210P.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1598,7 +1598,7 @@
     )
   )
 
-  (footprint "LightBlue:PG-TSDSON-8" (layer "F.Cu")
+  (footprint "Amber:PG-TSDSON-8" (layer "F.Cu")
     (tedit 60BD4D86) (tstamp 0d6ee9a4-0283-4348-bbed-0d5d1a4e0a02)
     (at 54.45 61.15)
     (descr "Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)")
@@ -2392,7 +2392,7 @@
       (net 105 "Net-(D9-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp c7e59689-1232-4102-9a52-203fceea68ec))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp d63383e1-e10b-4068-b8f2-cf09c3e266c4))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2502,7 +2502,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp 1fb1df66-d7be-4e74-aa33-5b94c2bc5ae2)
     (at 55 129)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -2609,7 +2609,7 @@
     (at 141.5 147.7)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/397a81dd-bc3b-4d75-ac01-0741f48b79fe")
@@ -2765,7 +2765,7 @@
     (at 50.3 111.6)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/6e1877e9-cf72-4c13-a5dc-d95b870bb6c9")
@@ -2871,7 +2871,7 @@
       (net 22 "Net-(C53-Pad1)") (pintype "passive") (tstamp b11f8330-0584-47d8-a397-abdf8b8de411))
     (pad "2" smd rect locked (at 2.8 0) (size 1.8 7.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "+5V") (pintype "passive") (tstamp 1799c222-5b82-4ef6-bb09-be41e7d9ecdc))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2998,7 +2998,7 @@
       (net 7 "Earth") (pinfunction "SHIELD") (pintype "passive") (tstamp 3759a3b8-d619-4fa1-b340-7be5c82dfc61))
     (pad "S1" thru_hole oval locked (at -4.32 1.05 180) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "SHIELD") (pintype "passive") (tstamp 93687bc2-e162-406b-b32a-5d33ea43f9fa))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
       (offset (xyz -4.5 -3.65 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3048,7 +3048,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_UART-USB-Mux" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_UART-USB-Mux" (layer "F.Cu")
     (tedit 60F66F4A) (tstamp 29875b11-e4ba-4d0e-8560-e2c682948b18)
     (at 81 58.4)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -5271,7 +5271,7 @@
     )
   )
 
-  (footprint "LightBlue:Logo_HomeAssitant_Inverted" (layer "F.Cu")
+  (footprint "Amber:Logo_HomeAssitant_Inverted" (layer "F.Cu")
     (tedit 60F66FFC) (tstamp 47548342-7fd4-48f6-a91b-94f99554ef72)
     (at 90 88.1)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -9543,7 +9543,7 @@
     (at 38 33 90)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/d6694e6a-eae0-4147-bc94-8d2c65eec42f")
@@ -9698,7 +9698,7 @@
     (at 36.025 143.225)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/902787ce-17d4-4a85-914c-caf2c76e7348")
@@ -9721,7 +9721,7 @@
       (solder_mask_margin 0.5) (clearance 0.5) (tstamp f6dd5542-e553-4892-b759-897adccd4714))
   )
 
-  (footprint "LightBlue:RJ45_LINK-PP_LPJG0926HENL_Horizontal" locked (layer "F.Cu")
+  (footprint "Amber:RJ45_LINK-PP_LPJG0926HENL_Horizontal" locked (layer "F.Cu")
     (tedit 608436FF) (tstamp 4dd68386-b773-4833-aea1-9aa356b49f07)
     (at 65.715 47.76 180)
     (descr "Ethernet PoE+ capable MagJack LINK-PP LPJG0926HENL 10/100/1000 BaseT")
@@ -9806,7 +9806,7 @@
       (net 16 "/Ethernet/ETH_SHLD") (pintype "passive") (tstamp 0b392600-cd4e-4afd-bba0-f1144e6b8e46))
     (pad "SH" thru_hole oval locked (at 13.59 5.84) (size 1.25 2.1) (drill oval 0.75 1.6) (layers *.Cu *.Mask)
       (net 16 "/Ethernet/ETH_SHLD") (pintype "passive") (tstamp a7366f92-ede7-45cf-b7b4-a55e381b0892))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/RJ45_TE_2337992-8_Horizontal.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/RJ45_TE_2337992-8_Horizontal.wrl"
       (offset (xyz 5.7 -19.65 6.9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -10074,7 +10074,7 @@
       (net 79 "Net-(D7-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 04d00f8a-e1c1-4982-8cfb-d8b1d24991c0))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp 6410c683-9792-4179-a955-78813f970a85))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10538,7 +10538,7 @@
     )
   )
 
-  (footprint "LightBlue:Logo_NabuCasa" (layer "F.Cu")
+  (footprint "Amber:Logo_NabuCasa" (layer "F.Cu")
     (tedit 60F67004) (tstamp 5e877a92-6dcc-4388-b75b-2a87f8341e8e)
     (at 80 109.4)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -11636,7 +11636,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A35) (tstamp 5f81f0cf-73e8-48af-aa71-d1a8fcdfb016)
     (at 65 120)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -11990,7 +11990,7 @@
     (at 33 140)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/1719aa9c-b7b4-4351-ae6a-b606de4554d5")
@@ -12340,7 +12340,7 @@
     )
   )
 
-  (footprint "LightBlue:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual" locked (layer "F.Cu")
+  (footprint "Amber:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual" locked (layer "F.Cu")
     (tedit 60BC9132) (tstamp 6bc39afa-6164-41e8-b271-98b93a953e22)
     (at 121.9 63)
     (descr "Hirose board to board connector DF40C-100DS-0.4V, https://www.hirose.com/en/product/document?clcode=CL0684-4033-4-51&productname=DF40C-100DS-0.4V(51)&series=DF40&documenttype=2DDrawing&lang=en&documentid=0001001229")
@@ -12380,7 +12380,7 @@
     (fp_line (start 11.4046 -1.7907) (end -11.4046 -1.7907) (layer "F.Fab") (width 0.1) (tstamp 6b225a61-d46c-4e20-a6ff-729fe7dc4556))
     (fp_line (start 11.4046 1.7907) (end 11.4046 -1.7907) (layer "F.Fab") (width 0.1) (tstamp 9591902a-ac4b-4217-84a6-0feb3195624b))
     (fp_line (start -11.4046 1.7907) (end 11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp c62edc0a-1494-42a3-9628-d00217c6b751))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12507,14 +12507,14 @@
       (net 32 "Net-(C54-Pad1)") (pintype "passive") (tstamp 5cc3d7a4-72df-4de6-a7cc-604187cb0aa5))
     (pad "2" smd rect locked (at 1.8 0 270) (size 1.5 4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 17 "+3.3VP") (pintype "passive") (tstamp 25fce615-1e21-49f2-bd17-6f2463c1a004))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/L_Taiyo-Yuden_NR-50xx.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/L_Taiyo-Yuden_NR-50xx.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "LightBlue:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal" locked (layer "F.Cu")
+  (footprint "Amber:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal" locked (layer "F.Cu")
     (tedit 60875477) (tstamp 6ea2ab41-1206-4a2b-98b2-fec45467e5bc)
     (at 135 136 -90)
     (descr "TE M.2 Key-M 4.2mm height connector https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2199230%7FB3%7Fpdf%7FEnglish%7FENG_CD_2199230_B3.pdf%7F2199230-4")
@@ -12739,7 +12739,7 @@
     (pad "MP" smd rect locked (at 10.35 -3 270) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 74156d5c-2161-4f91-8f01-ba9b3dc19773))
     (pad "MP" thru_hole circle locked (at 0 29.75 270) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask) (tstamp 9caf5478-7fe6-4c26-af68-4fd143e33bae))
     (pad "MP" smd rect locked (at -10.35 -3 270) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d679f848-13e9-4479-9261-5db567af02db))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/TE_1-2199119-5_Bus_M.2_M_H3.2mm_P0.5mm_Horizontal.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/TE_1-2199119-5_Bus_M.2_M_H3.2mm_P0.5mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12788,7 +12788,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_USB-Boot" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_USB-Boot" (layer "F.Cu")
     (tedit 60F66F4F) (tstamp 6fad409b-8f20-47be-a020-95cc48bb1b52)
     (at 143.9 132.2)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -13974,7 +13974,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp 7f3486ec-8ae5-40a3-bfea-b9f34d22f475)
     (at 75 129)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -14125,7 +14125,7 @@
     )
   )
 
-  (footprint "LightBlue:Texas_VQFN-47-2EP_5x7mm_P0.4mm_ThermalVias" (layer "F.Cu")
+  (footprint "Amber:Texas_VQFN-47-2EP_5x7mm_P0.4mm_ThermalVias" (layer "F.Cu")
     (tedit 6022E559) (tstamp 81b7039e-d6f1-40a2-8044-57652eacef73)
     (at 45.695 83.15 90)
     (descr "45-Lead Plastic Quad Flat, No Lead Package - 5x7x1mm Body (https://www.ti.com/lit/ds/symlink/tps23734.pdf)")
@@ -14401,7 +14401,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_PoE-Text" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_PoE-Text" (layer "F.Cu")
     (tedit 60F66F3C) (tstamp 836d9b0a-a68d-41c2-8dfc-d3252ecd16a4)
     (at 64.5 64.2)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -17317,10 +17317,10 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_3.5x2.5mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_3.5x2.5mm" (layer "F.Cu")
     (tedit 60BC8A4C) (tstamp 8535ad2b-f229-44f8-b25f-1ffd579f74a2)
     (at 59 120)
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/37de04fb-2d22-493d-a648-e024c9d5a4fc")
@@ -17467,7 +17467,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_Radio-Text" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_Radio-Text" (layer "F.Cu")
     (tedit 60F66F43) (tstamp 875d9e1f-2c53-4793-9f24-565af976d6eb)
     (at 35.4 129.3)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -19716,7 +19716,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A51) (tstamp 89a383da-1079-475b-a2f3-0f810f1eda7b)
     (at 80 124.5)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -19734,7 +19734,7 @@
     (pad "" thru_hole oval (at 0 0) (size 6.3 3.3) (drill oval 6 3) (layers *.Cu *.Mask) (tstamp 8d7ceaae-a36f-4085-97c4-2a92492f1f00))
   )
 
-  (footprint "LightBlue:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual" locked (layer "F.Cu")
+  (footprint "Amber:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual" locked (layer "F.Cu")
     (tedit 60BC9132) (tstamp 8b01e00f-e7e3-454a-a3aa-3958d36f3a1b)
     (at 121.9 97)
     (descr "Hirose board to board connector DF40C-100DS-0.4V, https://www.hirose.com/en/product/document?clcode=CL0684-4033-4-51&productname=DF40C-100DS-0.4V(51)&series=DF40&documenttype=2DDrawing&lang=en&documentid=0001001229")
@@ -19774,7 +19774,7 @@
     (fp_line (start 11.4046 1.7907) (end 11.4046 -1.7907) (layer "F.Fab") (width 0.1) (tstamp a61ca0da-5b50-4139-8329-b183c9add9af))
     (fp_line (start -11.4046 -1.7907) (end -11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp bcceac89-0f6f-4916-917a-7d485190ebeb))
     (fp_line (start -11.4046 1.7907) (end 11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp f1c6c6f7-c78b-44b9-ac4c-82297de32d55))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -19908,7 +19908,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60BBAD3F) (tstamp 8d63b96e-ec92-416b-9a78-e97aec6c6a8a)
     (at 85 119.8)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -19926,7 +19926,7 @@
     (pad "" thru_hole oval (at 0 0.2) (size 6.3 3.3) (drill oval 6 3) (layers *.Cu *.Mask) (tstamp 1448a15c-9a04-4fa5-81b0-1d63709b9a13))
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A23) (tstamp 8df7f7ee-700d-4e1d-8630-49a1a21cf7bc)
     (at 70 115.5)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -20044,7 +20044,7 @@
       (net 7 "Earth") (pinfunction "Shield") (pintype "passive") (tstamp 969ea7e0-fe7b-421f-9114-7a24266d1fa0))
     (pad "9" thru_hole circle locked (at -3.07 5.33 180) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "Shield") (pintype "passive") (tstamp 999759cb-c013-401c-bf75-ad00bcd81328))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/USB_A_Stacked_Wurth_Electronics_-_61400826021.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/USB_A_Stacked_Wurth_Electronics_-_61400826021.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -20192,7 +20192,7 @@
     (at 141 33)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/cb680c0b-5011-49fe-ab2c-b8e25dd08527")
@@ -20677,7 +20677,7 @@
     (at 138.124 96.774)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/be733b35-4e5a-4d02-bba2-5bd334942370")
@@ -20785,7 +20785,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp 9eeaba49-d7bb-4a92-9dfc-7626b2a45110)
     (at 85 129)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -21140,7 +21140,7 @@
     )
   )
 
-  (footprint "LightBlue:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal" locked (layer "F.Cu")
+  (footprint "Amber:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal" locked (layer "F.Cu")
     (tedit 605B6DA1) (tstamp a5df543b-dbcc-4b29-a85a-efcebb374621)
     (at 105 30)
     (descr "3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)")
@@ -21198,14 +21198,14 @@
       (net 51 "Net-(C108-Pad2)") (pintype "passive") (tstamp 98f4303e-4864-4f09-aa4c-f2715a2a4c36))
     (pad "TN" thru_hole oval locked (at 1.8 11.5 90) (size 2 1) (drill oval 1.5 0.5) (layers *.Cu *.Mask)
       (net 134 "unconnected-(J5-PadTN)") (pintype "passive+no_connect") (tstamp 68fbcd25-57a0-4657-8361-a21a7ab9b4a7))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "LightBlue:SilkScreen_CM4-Text" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_CM4-Text" (layer "F.Cu")
     (tedit 60F66F22) (tstamp a79a449c-31d4-443c-8b77-ee2f3b39c8dc)
     (at 140.7 50.2)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -25312,7 +25312,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp ace94422-c4fb-48e3-8a09-9bfdd521967a)
     (at 60 124.5)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -25798,14 +25798,14 @@
       (net 7 "Earth") (pinfunction "SH") (pintype "passive") (tstamp ab7b131c-1a2d-48a3-a640-9f5439566a3e))
     (pad "SH" thru_hole oval locked (at 3.1 -3.36 180) (size 1.5 2.55) (drill oval 0.65 1.7) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "SH") (pintype "passive") (tstamp fc35afc7-06f8-4a08-ac32-6e601e5a3396))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "LightBlue:RaspberryPi-CM4" locked (layer "F.Cu")
+  (footprint "Amber:RaspberryPi-CM4" locked (layer "F.Cu")
     (tedit 60156434) (tstamp b3ef7ab8-c316-4700-9910-38dbd54503b6)
     (at 119.4 80 90)
     (descr "RaspberryPi Compute Module 4, https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf#page=11")
@@ -26278,7 +26278,7 @@
       (net 77 "/CM4/HDMI.SDA") (pinfunction "HDMI0_SDA") (pintype "bidirectional") (tstamp 963e026b-6111-4d00-a204-1ef37f719a0e))
     (pad "200" smd rect locked (at 18.54 12.3 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 78 "/CM4/HDMI.SCL") (pinfunction "HDMI0_SCL") (pintype "bidirectional") (tstamp b47bbe1f-5ff4-4c35-a30a-2503f4a5de57))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/RaspberryPi-CM4.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/RaspberryPi-CM4.wrl"
       (offset (xyz 36 -27.5 1.6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -26466,7 +26466,7 @@
     )
   )
 
-  (footprint "LightBlue:BarrelJack_CUI_PJ-002A" locked (layer "F.Cu")
+  (footprint "Amber:BarrelJack_CUI_PJ-002A" locked (layer "F.Cu")
     (tedit 6084324E) (tstamp b9258387-3537-49da-ae70-19ff0b84d5d4)
     (at 44.5 41.7 -90)
     (descr "DC Barrel Jack")
@@ -26521,14 +26521,14 @@
     (pad "2" thru_hole roundrect locked (at -6 0 270) (size 3 3.5) (drill oval 1 3) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 2 "GND") (pintype "passive") (tstamp d8a1480d-4833-48f3-b0c3-eff946b80fdc))
     (pad "3" thru_hole roundrect locked (at -3 4.7 270) (size 3.5 3.5) (drill oval 3 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp ed2f6589-d077-4a1a-803c-8bbccaf8f28c))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/BarrelJack_CUI_PJ-002A_Horizontal.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/BarrelJack_CUI_PJ-002A_Horizontal.wrl"
       (offset (xyz -6.6 0.1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp ba251bed-0095-43b7-95fc-d9ea10272e4e)
     (at 65 129)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -26974,7 +26974,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60BBAD52) (tstamp c0fb8c3b-19b2-4852-9d26-d18030c56b88)
     (at 90 125)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -27116,7 +27116,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A4A) (tstamp c4a02dc7-18a1-46d1-a167-78081d1bcd32)
     (at 70 124.5)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -27139,7 +27139,7 @@
     (at 33 40)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/13673698-1ae8-48ac-89ad-67bec4817dbe")
@@ -27293,7 +27293,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A14) (tstamp c944e5b1-a314-4fda-bb84-1343b6a3e8c4)
     (at 80 115.5)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -27377,7 +27377,7 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A43) (tstamp cb6896bb-5dea-42f6-a485-e63918dc8430)
     (at 95 129)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -27484,7 +27484,7 @@
     (at 147 140)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/27427d47-315e-474e-8985-0b3c80fdd220")
@@ -27511,7 +27511,7 @@
     (at 147 40)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/f42b7aad-88a1-4721-b564-f8f879d7e253")
@@ -27618,7 +27618,7 @@
       (net 91 "Net-(D8-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 52aecdf3-f8b2-4976-9ac7-68d05695113b))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp 8bd43bd4-49ed-4800-84ec-db4a024cf30d))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -28319,7 +28319,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_Class-Selection" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_Class-Selection" (layer "F.Cu")
     (tedit 60F66F2E) (tstamp da406f4c-2f5d-438b-b732-13a58b34d7b4)
     (at 36.2 94.4)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -30172,7 +30172,7 @@
       (net 31 "+48V") (pintype "passive") (tstamp 55fd4187-fa42-4d63-b413-2f75f0aa2c12))
     (pad "2" smd rect locked (at 2.8 0) (size 1.8 7.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 41 "/PoE/N1B") (pintype "passive") (tstamp de5df911-3da9-40d6-aae8-905aa8dd8a06))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -30346,7 +30346,7 @@
     )
   )
 
-  (footprint "LightBlue:Transformer_Pulse_PA2467NL" (layer "F.Cu")
+  (footprint "Amber:Transformer_Pulse_PA2467NL" (layer "F.Cu")
     (tedit 60F69DFD) (tstamp f2769376-342f-4072-9b78-5ab423cd4179)
     (at 65.925 70.7 90)
     (descr "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm")
@@ -30401,7 +30401,7 @@
     (pad "9" smd rect (at -2.5 7.96) (size 2.54 1.22) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e145c45-ac0c-4b91-a41e-ae5801d6880f))
     (pad "10" smd rect (at -5 7.96) (size 2.54 1.22) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "N2B") (pintype "passive") (tstamp 7203d1ae-c17d-42a3-86a0-bc3900dada09))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/Transformer_Pulse_PA2467NL.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/Transformer_Pulse_PA2467NL.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
@@ -30683,7 +30683,7 @@
     )
   )
 
-  (footprint "LightBlue:SilkScreen_M.2-Text" (layer "F.Cu")
+  (footprint "Amber:SilkScreen_M.2-Text" (layer "F.Cu")
     (tedit 60F66F35) (tstamp f7cd25ec-4a4c-4eb0-b1f3-acd02649cbae)
     (at 108.078879 135.540737)
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -37638,7 +37638,7 @@
       (xy 14.298479 8.105813)) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp fe82eef3-75b9-4603-8769-8ce1ca4a750b))
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_5x3mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_5x3mm" (layer "F.Cu")
     (tedit 60B90A2D) (tstamp f8db48e7-4a29-4955-9045-8ee3c1cef5b3)
     (at 75 120)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -37661,7 +37661,7 @@
     (at 34.6 79.7)
     (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
     (tags "fiducial")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/a3f36d21-b692-4657-b96e-b6fe5eae0384")
@@ -37731,10 +37731,10 @@
     )
   )
 
-  (footprint "LightBlue:DrillSlot_Plated_3.5x2.5mm" (layer "F.Cu")
+  (footprint "Amber:DrillSlot_Plated_3.5x2.5mm" (layer "F.Cu")
     (tedit 60BC8A4C) (tstamp fae2a9b2-61e3-4cf4-8acc-2df6d4d4d2ca)
     (at 121 120)
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
     (path "/bfcec0b4-32c4-4ebf-8bb4-4766287797f1")
@@ -37892,12 +37892,12 @@
     )
   )
 
-  (footprint "LightBlue:Heatsink_56x56mm_2xFixation3.2mm" locked (layer "F.Cu")
+  (footprint "Amber:Heatsink_56x56mm_2xFixation3.2mm" locked (layer "F.Cu")
     (tedit 60B235E1) (tstamp ff529642-ffd3-4ead-8671-1e74f714598c)
     (at 114.9125 76.975)
     (descr "Heatsink, 56 x 56mm, 2x 3.2mm Drills,")
     (tags "heatsink")
-    (property "Sheetfile" "LightBlue.kicad_sch")
+    (property "Sheetfile" "Amber.kicad_sch")
     (property "Sheetname" "")
     (path "/cd73f910-31d6-4226-a110-18f09eef8514")
     (attr through_hole)
@@ -37923,7 +37923,7 @@
     (fp_line (start 28 28) (end -28 28) (layer "F.Fab") (width 0.1) (tstamp ccb3ef21-eeba-4a48-89d5-f74fc243b121))
     (pad "" np_thru_hole circle locked (at 25 -25) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp 1bf97de5-c320-4a22-a078-9396b21d91f7))
     (pad "" np_thru_hole circle locked (at -25 25) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp 8646fee5-4709-47b5-9875-9e3cee956b75))
-    (model "${KIPRJMOD}/LightBlue.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl"
+    (model "${KIPRJMOD}/Amber.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl"
       (offset (xyz 30 30 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))

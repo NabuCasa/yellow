@@ -46,7 +46,7 @@
   (fp_line (start -2.25 5.2) (end 2.25 5.2) (layer "F.Fab") (width 0.1) (tstamp b0e788fa-2b28-499e-af2a-fe5606c22682))
   (pad "" np_thru_hole circle (at 1.25 0) (locked) (size 1.2 1.2) (drill 1.2) (layers F&B.Cu *.Mask) (tstamp 7c1b8897-ab53-456a-847d-5f5d4c257e4d))
   (pad "" np_thru_hole circle (at -1.25 0) (locked) (size 1.2 1.2) (drill 1.2) (layers F&B.Cu *.Mask) (tstamp 92bbef6a-f9c5-4be3-a48e-d338d3f27cb0))
-  (model "${KIPRJMOD}/LightBlue.3dshapes/Lightpipe_Bivar-SLP3-150-100-F.wrl"
+  (model "${KIPRJMOD}/Amber.3dshapes/Lightpipe_Bivar-SLP3-150-100-F.wrl"
     (offset (xyz 2.26 1.13 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

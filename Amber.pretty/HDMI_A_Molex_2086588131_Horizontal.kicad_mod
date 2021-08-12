@@ -43,7 +43,7 @@
   (pad "SH" thru_hole oval (at 7.25 0) (size 1.5 3.3) (drill oval 0.9 2.7) (layers *.Cu *.Mask) (tstamp 3f89efd5-0576-498d-85b9-f8c134312c82))
   (pad "SH" thru_hole oval (at -7.25 0) (size 1.5 3.3) (drill oval 0.9 2.7) (layers *.Cu *.Mask) (tstamp b39c5c9c-8159-45c2-aac2-154c969325ce))
   (pad "SH" thru_hole oval (at 7.25 5.96) (size 1.5 2.3) (drill oval 0.9 1.7) (layers *.Cu *.Mask) (tstamp e2cf5b16-1d26-4df9-b5a0-e9e0f2e38867))
-  (model "${KIPRJMOD}/LightBlue.3dshapes/HDMI_A_2.0_Molex_2086588131.wrl"
+  (model "${KIPRJMOD}/Amber.3dshapes/HDMI_A_2.0_Molex_2086588131.wrl"
     (offset (xyz 0.2 1.6 7.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

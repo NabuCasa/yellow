@@ -128,7 +128,7 @@
   (pad "98" smd rect (at 9.4 -1.54 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5cc004cc-9476-4ed9-8967-8735d5ad4f8f))
   (pad "99" smd rect (at 9.8 1.54 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66d00516-0bac-41df-9868-535f3559623f))
   (pad "100" smd rect (at 9.8 -1.54 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5d5f9da5-1412-44b9-8b1d-6c6b2823378d))
-  (model "${KIPRJMOD}/LightBlue.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
+  (model "${KIPRJMOD}/Amber.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

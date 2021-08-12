@@ -10,7 +10,7 @@
     (rev "0.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
-    (comment 2 "Light Blue")
+    (comment 2 "Amber")
   )
 
   (lib_symbols
@@ -799,7 +799,7 @@
         )
       )
     )
-    (symbol "LightBlue:LP5569" (in_bom yes) (on_board yes)
+    (symbol "Amber:LP5569" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -10.16 21.59 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -3508,7 +3508,7 @@
     (pin "8" (uuid ec614244-c31b-4de1-acf3-d893a1fa6280))
   )
 
-  (symbol (lib_id "LightBlue:LP5569") (at 191.77 50.8 0) (unit 1)
+  (symbol (lib_id "Amber:LP5569") (at 191.77 50.8 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ded4bbd4-a021-46fb-849a-2c1cc4f3c785)
     (property "Reference" "U20" (id 0) (at 181.61 29.21 0))

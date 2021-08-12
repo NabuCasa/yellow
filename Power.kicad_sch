@@ -10,7 +10,7 @@
     (rev "0.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
-    (comment 2 "Light Blue")
+    (comment 2 "Amber")
   )
 
   (lib_symbols
@@ -425,7 +425,7 @@
         )
       )
     )
-    (symbol "LightBlue:BD9D321EFJ" (in_bom yes) (on_board yes)
+    (symbol "Amber:BD9D321EFJ" (in_bom yes) (on_board yes)
       (property "Reference" "U16" (id 0) (at 0 13.97 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -2766,7 +2766,7 @@
     (uuid eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7)
     (property "Reference" "J1" (id 0) (at 29.337 32.5182 0))
     (property "Value" "Barrel_Jack" (id 1) (at 29.337 34.8169 0))
-    (property "Footprint" "LightBlue:BarrelJack_CUI_PJ-002A" (id 2) (at 29.21 41.656 0)
+    (property "Footprint" "Amber:BarrelJack_CUI_PJ-002A" (id 2) (at 29.21 41.656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 41.656 0)
@@ -2807,7 +2807,7 @@
     (pin "5" (uuid 47002c4d-6a8d-4b1c-b354-e6565b8c14ad))
   )
 
-  (symbol (lib_id "LightBlue:BD9D321EFJ") (at 114.3 83.82 0) (unit 1)
+  (symbol (lib_id "Amber:BD9D321EFJ") (at 114.3 83.82 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 14fa57a4-cb4b-4300-b2ae-362b44870d97)
     (property "Reference" "U16" (id 0) (at 114.3 69.215 0))
@@ -2835,7 +2835,7 @@
     (pin "9" (uuid edcf70e9-4975-41b3-9004-79d8a8c55e23))
   )
 
-  (symbol (lib_id "LightBlue:BD9D321EFJ") (at 114.3 132.08 0) (unit 1)
+  (symbol (lib_id "Amber:BD9D321EFJ") (at 114.3 132.08 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 75aef2d6-e5fc-4108-99b3-c7b178112cb3)
     (property "Reference" "U17" (id 0) (at 114.3 117.475 0))
