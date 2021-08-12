@@ -2020,7 +2020,7 @@
       (reference "J4") (unit 2) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c"
-      (reference "J5") (unit 1) (value "AudioJack") (footprint "LightBlue:Jack_3.5mm_HRO_PJ-3973-6A_Horizontal")
+      (reference "J5") (unit 1) (value "AudioJack") (footprint "LightBlue:Jack_3.5mm_XKB_PJ-3270_Horizontal")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
       (reference "J6") (unit 1) (value "HDMI_D_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
