@@ -1519,6 +1519,9 @@
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/04123254-f960-4282-8372-2cb189431fcb"
       (reference "#PWR0202") (unit 1) (value "+1V8") (footprint "")
     )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/7871e31d-44da-4ee4-85b5-84fa7bb519a7"
+      (reference "#PWR0203") (unit 1) (value "GND") (footprint "")
+    )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/8315a3b5-025a-4501-86bf-a0c1f08f1755"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1060_1x2032")
     )
@@ -2373,6 +2376,9 @@
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/facccdfa-9875-4bdc-aa78-dfb84f69ada3"
       (reference "U24") (unit 1) (value "TCMT1107") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/eb362628-f095-47c0-93ca-dcd7a418cbee"
+      (reference "U25") (unit 1) (value "PCF8563TS") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/fbf0dbc2-bf7a-418f-bca2-8248332c89a0"
       (reference "Y1") (unit 1) (value "24MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
