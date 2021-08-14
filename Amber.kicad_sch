@@ -1101,9 +1101,6 @@
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/a55e3a9a-b971-4140-877a-16489c505efc"
       (reference "#PWR061") (unit 1) (value "GND") (footprint "")
     )
-    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/fb9f97a1-fcca-4b7c-bcf8-c03e826f303d"
-      (reference "#PWR062") (unit 1) (value "GND") (footprint "")
-    )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/f3b7aca5-8a56-4a51-97ff-4ecfe4bcb580"
       (reference "#PWR063") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -2051,9 +2048,6 @@
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09c8cca-c855-4542-a876-1781079d5d54"
       (reference "J9") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
-    )
-    (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/7e85724a-4aa3-487a-9578-39b3371d9abd"
-      (reference "J10") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/2780d134-4b5f-45db-8d3c-ff5c1e9c4b1a"
       (reference "J11") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
