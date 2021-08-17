@@ -1503,7 +1503,7 @@
     (uuid 30b27367-128e-4e9c-a77a-a4ce0c7c99c9)
     (property "Reference" "R19" (id 0) (at 110.49 50.9208 90))
     (property "Value" "0R" (id 1) (at 110.49 55.48 90))
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 110.49 52.832 0)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 110.49 52.832 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 110.49 52.832 0)
