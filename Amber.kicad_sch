@@ -626,7 +626,7 @@
   )
 
   (symbol (lib_id "Mechanical:Heatsink") (at 133.35 185.42 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid cd73f910-31d6-4226-a110-18f09eef8514)
     (property "Reference" "HS1" (id 0) (at 136.9569 182.3656 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2074,7 +2074,7 @@
       (reference "J13") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/21f085b4-1176-4778-97ba-f2d2acc22e65"
-      (reference "JP1") (unit 1) (value "JP_USB_DEVICE_SEL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "JP1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/e968abf9-4624-4f9a-a426-43f6f969f7bc"
       (reference "JP2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -2422,10 +2422,10 @@
       (reference "U27") (unit 1) (value "74LVC1G07") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/fbf0dbc2-bf7a-418f-bca2-8248332c89a0"
-      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
+      (reference "Y1") (unit 1) (value "12MHz{slash}10pF") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/df3c69bc-5fed-486a-8538-f634d169db1f"
-      (reference "Y2") (unit 1) (value "X32K768S301") (footprint "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm")
+      (reference "Y2") (unit 1) (value "32768Hz{slash}12.5pF") (footprint "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm")
     )
   )
 )

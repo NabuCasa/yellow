@@ -1801,7 +1801,7 @@
     (property "Manufacturer" "Taiyo Yuden" (id 4) (at 137.16 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "‎NRS5040T2R2NMGJ‎" (id 5) (at 137.16 125.73 0)
+    (property "PartNumber" "NRS5040T2R2NMGJ" (id 5) (at 137.16 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e6f54895-463c-4381-9b9a-5d4028766f82))
