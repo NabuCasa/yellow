@@ -4400,7 +4400,7 @@
   )
 
   (symbol (lib_name "Amber:RaspberryPi-CM4Lite_1") (lib_id "Amber:RaspberryPi-CM4Lite") (at 185.42 88.9 0) (unit 2)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid e774090e-475c-4e3f-aa6e-6c912d7ab3b3)
     (property "Reference" "U1" (id 0) (at 166.37 30.48 0))
     (property "Value" "RaspberryPi-CM4Lite" (id 1) (at 200.66 30.48 0))
@@ -4519,7 +4519,7 @@
   )
 
   (symbol (lib_id "Amber:RaspberryPi-CM4Lite") (at 63.5 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid b131b144-fc54-40cc-8411-449b069a57ca)
     (property "Reference" "U1" (id 0) (at 43.18 30.48 0))
     (property "Value" "RaspberryPi-CM4Lite" (id 1) (at 76.2 30.48 0))
