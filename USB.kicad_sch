@@ -5531,7 +5531,7 @@
     (uuid b337577e-6c96-4ffa-abfa-23bf93ebc568)
     (property "Reference" "U7" (id 0) (at 125.73 33.02 0))
     (property "Value" "FE1.1" (id 1) (at 162.56 33.02 0))
-    (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm" (id 2) (at 144.78 105.41 0)
+    (property "Footprint" "Package_QFP:TQFP-48_7x7mm_P0.5mm" (id 2) (at 144.78 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://elinux.org/images/e/ee/FE11-datasheet.pdf" (id 3) (at 144.78 64.77 0)
