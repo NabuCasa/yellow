@@ -1475,7 +1475,7 @@
       (net 319 "unconnected-(U4-Pad20)") (pinfunction "~{TXT}/GPIO.2") (pintype "bidirectional+no_connect") (tstamp 9b1e3041-1a24-471e-959c-c753be7105eb))
     (pad "21" smd rect locked (at 0 0 270) (size 1.8 1.8) (layers "F.Cu" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp b53a812f-5bb2-4c39-9976-4f7c5dd81180))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -16960,7 +16960,7 @@
     (property "Sheetname" "Audio")
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c")
     (attr through_hole)
-    (fp_text reference "J5" (at 0 -3.5) (layer "F.SilkS")
+    (fp_text reference "J5" (at -4.5 1.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ef066f5b-65a5-4367-9771-c1c36a42acc0)
     )
@@ -48566,7 +48566,7 @@
   (gr_text "SiLabs\nMini" (at 54.6 119.9 90) (layer "F.SilkS") (tstamp 4d937711-afc6-4381-86fb-6eba0cd31f8f)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text "Rev: 0.7" (at 69 148.3) (layer "F.SilkS") (tstamp 77d41c22-6032-424c-8f0b-0ab345e909f9)
+  (gr_text "Rev: 1.0" (at 69 148.3) (layer "F.SilkS") (tstamp 77d41c22-6032-424c-8f0b-0ab345e909f9)
     (effects (font (size 1.2 1.2) (thickness 0.15)) (justify left))
   )
 
