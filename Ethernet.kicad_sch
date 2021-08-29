@@ -6,8 +6,8 @@
 
   (title_block
     (title "Ethernet")
-    (date "2021-01-12")
-    (rev "0.1")
+    (date "2021-08-30")
+    (rev "1.0")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Amber")
@@ -2507,9 +2507,8 @@
     )
   )
 
-  (bus_alias "PoE" (members "VC1" "VC2" "VC3" "VC4"))
   (bus_alias "ETH" (members "TD1+" "TD1-" "TD2+" "TD2-" "TD3+" "TD3-" "TD4+" "TD4-" "LED_YELLOW" "LED_GREEN"))
-
+  (bus_alias "PoE" (members "VC1" "VC2" "VC3" "VC4"))
   (junction (at 153.67 80.01) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 177.8 130.81) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 179.07 139.7) (diameter 0.9144) (color 0 0 0 0))

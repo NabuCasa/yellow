@@ -6,8 +6,8 @@
 
   (title_block
     (title "Power")
-    (date "2021-01-12")
-    (rev "0.1")
+    (date "2021-08-30")
+    (rev "1.0")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Amber")
@@ -811,7 +811,6 @@
       )
     )
   )
-
 
   (junction (at 35.56 77.47) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 35.56 85.09) (diameter 0.9144) (color 0 0 0 0))
