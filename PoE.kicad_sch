@@ -5014,7 +5014,7 @@
     (uuid 59b3b2a4-69cc-4b91-a496-9a2aacf0b558)
     (property "Reference" "FL1" (id 0) (at 73.66 62.23 0))
     (property "Value" "1k@100MHz{slash}500mA" (id 1) (at 73.66 64.135 0))
-    (property "Footprint" "Amber:Murata_DLW5B" (id 2) (at 73.66 68.834 0)
+    (property "Footprint" "Amber:L_CommonModeChoke_Murata_DLW5B" (id 2) (at 73.66 68.834 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.murata.com/en-global/api/pdfdownloadapi?cate=cgsubChipCommoModeChokeCoil&partno=DLW5BTM102SQ2%23" (id 3) (at 73.66 68.834 0)
