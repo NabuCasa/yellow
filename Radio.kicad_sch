@@ -589,6 +589,7 @@
   )
 
   (bus_alias "SWD" (members "SWDIO" "SWCLK" "SWO"))
+
   (junction (at 98.425 90.17) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 133.35 110.49) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 135.89 110.49) (diameter 0.9144) (color 0 0 0 0))
