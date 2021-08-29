@@ -3595,7 +3595,7 @@
   (symbol (lib_id "Diode:BAT54C") (at 158.75 106.68 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 37458669-0432-4a34-989b-11ab7155e9be)
-    (property "Reference" "D30" (id 0) (at 156.21 107.95 90)
+    (property "Reference" "D24" (id 0) (at 156.21 107.95 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BAT54C-7-F" (id 1) (at 156.21 105.41 90)

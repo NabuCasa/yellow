@@ -1959,6 +1959,9 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/f368aebf-2f84-4758-9eed-d9518b0337b8"
       (reference "D23") (unit 1) (value "B340LB-13-F") (footprint "Diode_SMD:D_SMB")
     )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/37458669-0432-4a34-989b-11ab7155e9be"
+      (reference "D24") (unit 1) (value "BAT54C-7-F") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/35fb25ac-1064-4834-86bd-a5bfd3750ccd"
       (reference "D25") (unit 1) (value "LED Blue") (footprint "LED_SMD:LED_0603_1608Metric")
     )
@@ -1973,9 +1976,6 @@
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/1cf18c64-f581-4eb2-83a6-288e7f2dfa94"
       (reference "D29") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_0402_1005Metric")
-    )
-    (path "/441a9908-1e74-440b-b462-bdf6815583fe/37458669-0432-4a34-989b-11ab7155e9be"
-      (reference "D30") (unit 1) (value "BAT54C-7-F") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/1cb8c7f0-9dee-42f2-ab73-15b998063e93"
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric")
