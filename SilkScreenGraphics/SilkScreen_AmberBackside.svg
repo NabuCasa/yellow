@@ -13,7 +13,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ooo="http://xml.openoffice.org/svg/export">
   <sodipodi:namedview
      id="namedview7588"
      pagecolor="#ffffff"
@@ -24,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="113.875"
-     inkscape:cy="320.375"
+     inkscape:zoom="2"
+     inkscape:cx="411.25"
+     inkscape:cy="151.75"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="26"
@@ -100,6 +101,110 @@
        id="style1051">.cls-1{fill:#ccc;}.cls-2{fill:#010101;}.cls-3{fill:#fff;}</style>
     <style
        id="style943">.cls-1{fill:#ccc;}.cls-2{fill:#010101;}.cls-3{fill:#fff;}</style>
+    <clipPath
+       id="presentation_clip_path"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="21590"
+         height="27940"
+         id="rect7" />
+    </clipPath>
+    <clipPath
+       id="presentation_clip_path_shrink"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="21"
+         y="27"
+         width="21547"
+         height="27885"
+         id="rect10" />
+    </clipPath>
+    <g
+       ooo:slide="id1"
+       ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12"
+       id="g14" />
+    <g
+       id="bullet-char-template(57356)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="M 580,1141 1163,571 580,0 -4,571 580,1141 Z"
+         id="path19"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(57354)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="m 8,1128 1129,0 L 1137,0 8,0 8,1128 Z"
+         id="path22"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(10146)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="M 174,0 602,739 174,1481 1456,739 174,0 Z m 1184,739 -1049,607 350,-607 699,0 z"
+         id="path25"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(10132)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="M 2015,739 1276,0 717,0 l 543,543 -1086,0 0,393 1086,0 -543,545 557,0 741,-742 z"
+         id="path28"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(10007)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z"
+         id="path31"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(10004)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 l 0,-122 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z"
+         id="path34"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(9679)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z"
+         id="path37"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(8226)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z"
+         id="path40"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(8211)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="m -4,459 1139,0 0,147 -1139,0 0,-147 z"
+         id="path43"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="bullet-char-template(61548)"
+       transform="scale(4.8828125e-4,-4.8828125e-4)">
+      <path
+         d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"
+         id="path46"
+         inkscape:connector-curvature="0" />
+    </g>
   </defs>
   <g
      inkscape:label="[fixed] BG"
@@ -507,6 +612,225 @@
          d="m 516.95938,128.56925 h -15.06 l -2.87,8.59 h -9.13 l 15.52,-41.679998 h 8 l 15.61,41.689998 h -9.14 z m -12.74,-7 h 10.42 l -5.24,-15.61 z"
          id="path977" />
     </g>
+    <g
+       style="fill-rule:evenodd;stroke-width:28.222;stroke-linejoin:round"
+       id="g20390"
+       transform="matrix(0.00133245,0,0,0.00133245,100,17.654399)">
+      <g
+         id="g50"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id2"
+           class="Master_Slide">
+          <g
+             id="bg-id2"
+             class="Background" />
+          <g
+             id="bo-id2"
+             class="BackgroundObjects" />
+        </g>
+      </g>
+      <g
+         id="g63"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id3">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect66"
+             height="1403"
+             width="1402"
+             y="5300"
+             x="9300"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path68-5"
+             d="m 9999,5300 c 396,0 700,303 700,699 0,396 -304,700 -700,700 -396,0 -699,-304 -699,-700 0,-396 303,-699 699,-699 z m -699,0 z m 1401,1401 z" />
+        </g>
+      </g>
+      <g
+         id="g70"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id4">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect73"
+             height="3000"
+             width="3003"
+             y="4502"
+             x="8499"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path75"
+             d="m 11229,5142 -44,-60 -47,-57 -50,-55 -53,-53 -55,-50 -57,-47 -60,-44 -62,-42 -64,-38 -65,-35 -68,-31 -69,-28 -70,-26 -71,-22 -72,-17 -73,-14 -74,-11 -74,-7 -74,-3 -74,1 -75,4 -74,8 -73,12 -73,15 -72,19 -71,21 -70,26 -68,29 -67,33 -65,36 -63,39 -61,42 -60,45 -56,48 -55,51 -51,53 -49,56 -47,58 -43,61 -40,63 -38,64 -34,66 -30,68 -27,69 -24,70 -20,72 -16,72 -13,73 -10,74 -5,74 -2,75 2,74 5,74 10,74 12,73 17,73 20,71 23,72 27,69 31,68 34,66 36,65 40,62 43,61 46,58 49,56 52,54 54,50 57,49 59,45 61,42 63,39 66,36 66,33 69,29 69,26 71,23 72,19 73,15 74,12 73,8 75,4 74,1 74,-3 74,-7 74,-11 73,-14 72,-17 72,-21 70,-24 69,-28 67,-32 66,-35 63,-38 62,-41 60,-44 58,-48 55,-49 52,-53 50,-55 47,-58 45,-60 -265,-185 -36,46 -37,46 -39,43 -41,41 -43,39 -45,37 -47,35 -48,32 -51,30 -51,28 -53,23 -54,23 -55,19 -56,17 -56,14 -57,11 -58,8 -58,5 -58,3 -59,-1 -58,-3 -58,-6 -58,-9 -57,-12 -56,-15 -56,-17 -54,-21 -54,-24 -52,-25 -51,-28 -50,-31 -48,-33 -46,-35 -45,-38 -42,-40 -41,-42 -38,-44 -36,-45 -34,-48 -31,-49 -29,-50 -27,-52 -23,-53 -22,-55 -18,-55 -16,-56 -13,-57 -10,-57 -7,-58 -5,-58 -1,-59 1,-58 5,-58 7,-58 10,-57 13,-57 16,-56 18,-56 21,-54 24,-53 27,-52 29,-51 31,-49 34,-47 37,-46 39,-44 40,-42 43,-40 44,-37 46,-36 48,-33 50,-30 51,-29 53,-25 53,-22 55,-20 55,-18 57,-15 57,-12 57,-9 58,-6 59,-3 58,-1 58,3 58,5 58,8 57,11 57,14 56,17 55,19 54,22 52,26 52,27 50,30 48,33 47,34 45,37 44,39 41,42 39,43 37,45 33,47 z M 8500,7498 Z m 3000,-2994 z" />
+        </g>
+      </g>
+      <g
+         id="g77"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id5">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect80"
+             height="3002"
+             width="3003"
+             y="4500"
+             x="13000"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path82"
+             d="m 14500,4500 c 850,0 1500,650 1500,1500 0,850 -650,1500 -1500,1500 -850,0 -1500,-650 -1500,-1500 0,-850 650,-1500 1500,-1500 z m -1,329 c 663,0 1170,507 1170,1170 0,663 -507,1170 -1170,1170 -663,0 -1170,-507 -1170,-1170 0,-663 507,-1170 1170,-1170 z m -1499,-329 z m 3001,3001 z" />
+        </g>
+      </g>
+      <g
+         id="g84"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id6">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect87"
+             height="3002"
+             width="3002"
+             y="4500"
+             x="4000"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path89"
+             d="m 5500,4500 c 850,0 1500,650 1500,1500 0,850 -650,1500 -1500,1500 -850,0 -1500,-650 -1500,-1500 0,-850 650,-1500 1500,-1500 z m -1,329 c 663,0 1170,507 1170,1170 0,663 -507,1170 -1170,1170 -663,0 -1170,-507 -1170,-1170 0,-663 507,-1170 1170,-1170 z M 4000,4500 Z m 3001,3001 z" />
+        </g>
+      </g>
+      <g
+         id="g91"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id7">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect94"
+             height="301"
+             width="1701"
+             y="5850"
+             x="6900"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path96"
+             d="m 7750,6150 h -850 v -300 h 1700 v 300 z" />
+        </g>
+      </g>
+      <g
+         id="g98"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id8">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect101"
+             height="301"
+             width="2601"
+             y="5850"
+             x="10450"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path103"
+             d="m 11750,6150 h -1300 v -300 h 2600 v 300 z" />
+        </g>
+      </g>
+      <g
+         id="g105"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id9">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect108"
+             height="301"
+             width="1501"
+             y="5850"
+             x="4750"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path110"
+             d="m 5500,6150 h -750 v -300 h 1500 v 300 z" />
+        </g>
+      </g>
+      <g
+         id="g112"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id10">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect115"
+             height="301"
+             width="1501"
+             y="5850"
+             x="13750"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path117"
+             d="m 14500,6150 h -750 v -300 h 1500 v 300 z" />
+        </g>
+      </g>
+      <g
+         id="g126"
+         class="com.sun.star.drawing.CustomShape"
+         transform="translate(-4000,-4500)">
+        <g
+           id="id12">
+          <rect
+             style="fill:none;stroke:none"
+             id="rect129"
+             height="1501"
+             width="301"
+             y="5250"
+             x="14350"
+             class="BoundingBox" />
+          <path
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             id="path131"
+             d="m 14500,6750 h -150 V 5250 h 300 v 1500 z" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.811211"
+       y="16.775434"
+       id="text88807-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan88805-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
+         x="99.811211"
+         y="16.775434">DC +12V/2A</tspan></text>
   </g>
   <style
      type="text/css"
