@@ -2391,9 +2391,9 @@
   )
 
   (bus_alias "SD" (members "D[0..3]" "CMD" "CLK" "PWR" "DET"))
+  (bus_alias "UART" (members "TXD" "RXD" "CTS" "RTS"))
   (bus_alias "PCIe" (members "~{RST}" "~{CLKREQ}" "CLK+" "CLK-" "TX+" "TX-" "RX+" "RX-"))
   (bus_alias "HDMI" (members "D0+" "D0-" "D1+" "D1-" "D2+" "D2-" "CLK+" "CLK-" "CEC" "HPD" "SDA" "SCL"))
-  (bus_alias "UART" (members "TXD" "RXD" "CTS" "RTS"))
   (junction (at 59.055 173.99) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 121.92 171.45) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 127.508 157.48) (diameter 0.9144) (color 0 0 0 0))
