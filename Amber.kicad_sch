@@ -1551,6 +1551,12 @@
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/5275c46e-d784-4c3a-bf5f-8648aa02487c"
       (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/3660e50c-3178-4dce-a07f-88c07e443d92"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/d5d09655-9206-43a5-a975-1eefe0ca9722"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/8315a3b5-025a-4501-86bf-a0c1f08f1755"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1060_1x2032")
     )
@@ -2103,6 +2109,9 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/55da7b76-bb7c-473f-a280-4b7d4142ff43"
       (reference "Q3") (unit 1) (value "MMBTA06") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/4bae90cf-4650-4b36-ba37-599baa3ffe9e"
+      (reference "Q?") (unit 1) (value "BC817") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/f65f5283-bc09-4a32-875e-7aff6fe23fca"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -2291,6 +2300,18 @@
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/fd8a2cd0-6327-4807-bc2b-28a8e28a4551"
       (reference "R70") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/5782a5bc-78d7-48ef-af53-4f136b6e527c"
+      (reference "R?") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/74b785da-2ed7-49a1-bb66-61654336b15a"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/76dca635-b458-4927-b0da-572dda03fbba"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/9208cdab-91b4-44e7-963f-6924773acad0"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/0daa7ac8-4459-40fe-9d14-fce80fa5e00c"
       (reference "SW1") (unit 1) (value "SW_USER") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS")
