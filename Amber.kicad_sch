@@ -1,4 +1,4 @@
-(kicad_sch (version 20210621) (generator eeschema)
+(kicad_sch (version 20211123) (generator eeschema)
 
   (uuid abc482bd-3f17-4d35-80db-1da3dcdb5c27)
 
@@ -180,7 +180,7 @@
   )
   (wire (pts (xy 106.045 71.12) (xy 106.045 50.8))
     (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid 2fbc66db-17d2-4da1-9e57-dcbad60476ad)
+    (uuid 2fbc66db-17d2-4da1-9e57-dcbad60476ae)
   )
   (wire (pts (xy 161.29 53.975) (xy 161.29 71.12))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -319,11 +319,11 @@
   )
   (wire (pts (xy 104.14 45.72) (xy 104.14 76.2))
     (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid a5de074e-671c-4aed-b8ac-b4e48d9de96e)
+    (uuid a5de074e-671c-4aed-b8ac-b4e48d9de96f)
   )
   (wire (pts (xy 110.49 45.72) (xy 104.14 45.72))
     (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid a5de074e-671c-4aed-b8ac-b4e48d9de96e)
+    (uuid a5de074e-671c-4aed-b8ac-b4e48d9de970)
   )
   (wire (pts (xy 162.56 46.99) (xy 162.56 22.86))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -370,11 +370,11 @@
   )
   (wire (pts (xy 59.69 44.45) (xy 90.17 44.45))
     (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid e2937bd6-3f03-498c-b48c-7b95eede44a9)
+    (uuid e2937bd6-3f03-498c-b48c-7b95eede44aa)
   )
   (wire (pts (xy 90.17 95.25) (xy 110.49 95.25))
     (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid e2937bd6-3f03-498c-b48c-7b95eede44a9)
+    (uuid e2937bd6-3f03-498c-b48c-7b95eede44ab)
   )
   (bus (pts (xy 83.185 102.235) (xy 110.49 102.235))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -1456,6 +1456,12 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/221c82d0-7570-469e-a8c9-24a732343e2a"
       (reference "#PWR0166") (unit 1) (value "GND1") (footprint "")
     )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/36c5a5f1-5216-4249-9a4f-5e56479401ee"
+      (reference "#PWR0167") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/8ed7778d-23cb-4a1e-bfff-5550f0c8f189"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/3ea718f6-2b9f-405b-bc07-88801bb6bc6d"
       (reference "#PWR0169") (unit 1) (value "+48V") (footprint "")
     )
@@ -1809,6 +1815,9 @@
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/40a71f98-e68e-4e0e-be94-d4e448bced37"
       (reference "C80") (unit 1) (value "680p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/62884505-9779-4575-bcac-29115f67dfa8"
+      (reference "C81") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/a34d7bd3-45e8-42ad-b663-044e4dc4929f"
       (reference "C82") (unit 1) (value "100n/100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
