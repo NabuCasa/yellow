@@ -121,6 +121,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -139,6 +140,7 @@
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -459,7 +461,6 @@
           "/CM4/ETH.TD3-",
           "/CM4/ETH.TD4+",
           "/CM4/ETH.TD4-",
-          "/CM4/ETH{ETH}",
           "/CM4/HDMI.CLK+",
           "/CM4/HDMI.CLK-",
           "/CM4/HDMI.D0+",
@@ -580,7 +581,7 @@
       }
     ],
     "meta": {
-      "version": 1
+      "version": 2
     },
     "net_colors": null
   },
