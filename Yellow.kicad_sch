@@ -794,7 +794,7 @@
     (property "Sheet name" "CM4" (id 0) (at 110.49 65.4041 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "CM4.kicad_sch" (id 1) (at 110.49 107.8239 0)
+    (property "Sheet file" "CM4.kicad_sch" (id 1) (at 110.49 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "ETH{ETH}" bidirectional (at 110.49 102.235 180)
