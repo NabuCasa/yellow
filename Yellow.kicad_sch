@@ -472,7 +472,7 @@
     (property "Value" "MountingHole" (id 1) (at 114.3001 184.0293 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Amber:DrillSlot_Plated_3.5x2.5mm" (id 2) (at 111.76 182.88 0)
+    (property "Footprint" "Yellow:DrillSlot_Plated_3.5x2.5mm" (id 2) (at 111.76 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 111.76 182.88 0)
@@ -574,7 +574,7 @@
     (property "Value" "MountingHole" (id 1) (at 114.3001 191.6493 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Amber:DrillSlot_Plated_3.5x2.5mm" (id 2) (at 111.76 190.5 0)
+    (property "Footprint" "Yellow:DrillSlot_Plated_3.5x2.5mm" (id 2) (at 111.76 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 111.76 190.5 0)
@@ -608,7 +608,7 @@
     (property "Value" "Heatsink" (id 1) (at 136.9569 184.6643 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Amber:Heatsink_56x56mm_2xFixation3.2mm" (id 2) (at 133.6548 185.42 0)
+    (property "Footprint" "Yellow:Heatsink_56x56mm_2xFixation3.2mm" (id 2) (at 133.6548 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.6548 185.42 0)
@@ -2036,7 +2036,7 @@
       (reference "FID8") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_1mm_Mask2mm")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/59b3b2a4-69cc-4b91-a496-9a2aacf0b558"
-      (reference "FL1") (unit 1) (value "1k@100MHz{slash}500mA") (footprint "Amber:L_CommonModeChoke_Murata_DLW5B")
+      (reference "FL1") (unit 1) (value "1k@100MHz{slash}500mA") (footprint "Yellow:L_CommonModeChoke_Murata_DLW5B")
     )
     (path "/13673698-1ae8-48ac-89ad-67bec4817dbe"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
@@ -2051,19 +2051,19 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
     )
     (path "/37de04fb-2d22-493d-a648-e024c9d5a4fc"
-      (reference "H5") (unit 1) (value "MountingHole") (footprint "Amber:DrillSlot_Plated_3.5x2.5mm")
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "Yellow:DrillSlot_Plated_3.5x2.5mm")
     )
     (path "/bfcec0b4-32c4-4ebf-8bb4-4766287797f1"
-      (reference "H6") (unit 1) (value "MountingHole") (footprint "Amber:DrillSlot_Plated_3.5x2.5mm")
+      (reference "H6") (unit 1) (value "MountingHole") (footprint "Yellow:DrillSlot_Plated_3.5x2.5mm")
     )
     (path "/cd73f910-31d6-4226-a110-18f09eef8514"
-      (reference "HS1") (unit 1) (value "Heatsink") (footprint "Amber:Heatsink_56x56mm_2xFixation3.2mm")
+      (reference "HS1") (unit 1) (value "Heatsink") (footprint "Yellow:Heatsink_56x56mm_2xFixation3.2mm")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7"
-      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Amber:BarrelJack_CUI_PJ-002A")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Yellow:BarrelJack_CUI_PJ-002A")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/6dd5e861-e5d4-4759-b127-4958e3f04beb"
-      (reference "J2") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "Amber:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
+      (reference "J2") (unit 1) (value "RJ45_LINK-PP_LPJG0926HENL_Horizontal") (footprint "Yellow:RJ45_LINK-PP_LPJG0926HENL_Horizontal")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/e0469852-771a-434b-963a-8ecb4c38b617"
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
@@ -2075,7 +2075,7 @@
       (reference "J4") (unit 2) (value "USB_A_Stacked") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/45c3bea5-38ff-4276-ad09-4c18c95d656c"
-      (reference "J5") (unit 1) (value "AudioJack") (footprint "Amber:Jack_3.5mm_XKB_PJ-3270_Horizontal")
+      (reference "J5") (unit 1) (value "AudioJack") (footprint "Yellow:Jack_3.5mm_XKB_PJ-3270_Horizontal")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/fe81f5fa-e1ac-4968-a654-7214906ce5ba"
       (reference "J6") (unit 1) (value "HDMI_D_2.0") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-1x01")
@@ -2093,7 +2093,7 @@
       (reference "J11") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/1247548e-da2d-4da5-8e9d-cdb0bd0eeb39"
-      (reference "J12") (unit 1) (value "Bus_M.2_Socket_M") (footprint "Amber:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal")
+      (reference "J12") (unit 1) (value "Bus_M.2_Socket_M") (footprint "Yellow:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/d2f558fb-acd9-4c71-93bb-37883bf1acff"
       (reference "J13") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -2123,7 +2123,7 @@
       (reference "Q1") (unit 1) (value "DMP3013SFV-7") (footprint "Package_SON:Diodes_PowerDI3333-8")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/8e4bf553-ed00-4225-96a1-870ada5deeea"
-      (reference "Q2") (unit 1) (value "BSZ440N10NS3GATMA1") (footprint "Amber:PG-TSDSON-8")
+      (reference "Q2") (unit 1) (value "BSZ440N10NS3GATMA1") (footprint "Yellow:PG-TSDSON-8")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/55da7b76-bb7c-473f-a280-4b7d4142ff43"
       (reference "Q3") (unit 1) (value "MMBTA06") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -2339,7 +2339,7 @@
       (reference "SW2") (unit 1) (value "SW_WIPE") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/897f43a2-d08b-4609-bc6b-c864c929a423"
-      (reference "T1") (unit 1) (value "PA2467NL") (footprint "Amber:Transformer_Pulse_PA2467NL")
+      (reference "T1") (unit 1) (value "PA2467NL") (footprint "Yellow:Transformer_Pulse_PA2467NL")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b88488bf-0e8e-4b66-85b8-98e34521bccf"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
@@ -2381,16 +2381,16 @@
       (reference "TP13") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/b131b144-fc54-40cc-8411-449b069a57ca"
-      (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "Amber:RaspberryPi-CM4")
+      (reference "U1") (unit 1) (value "RaspberryPi-CM4Lite") (footprint "Yellow:RaspberryPi-CM4")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/e774090e-475c-4e3f-aa6e-6c912d7ab3b3"
-      (reference "U1") (unit 2) (value "RaspberryPi-CM4Lite") (footprint "Amber:RaspberryPi-CM4")
+      (reference "U1") (unit 2) (value "RaspberryPi-CM4Lite") (footprint "Yellow:RaspberryPi-CM4")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/4dd6bcbf-26fd-4425-8fa4-2095d8aa465e"
-      (reference "U2") (unit 1) (value "DF40C-100DS-0.4V") (footprint "Amber:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
+      (reference "U2") (unit 1) (value "DF40C-100DS-0.4V") (footprint "Yellow:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/736345e1-e2da-4fe0-b090-447995db5e70"
-      (reference "U3") (unit 1) (value "DF40C-100DS-0.4V") (footprint "Amber:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
+      (reference "U3") (unit 1) (value "DF40C-100DS-0.4V") (footprint "Yellow:Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical_Virtual")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/ec58ec46-77e6-4839-a341-6b0f9c76952f"
       (reference "U4") (unit 1) (value "CP2102N-Axx-xQFN24") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
@@ -2414,7 +2414,7 @@
       (reference "U10") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/c09bd077-0d29-41a3-91d8-7b26a3246dec"
-      (reference "U11") (unit 1) (value "SiliconLabs-MGM210P") (footprint "Amber:SiliconLabs_MGM210P")
+      (reference "U11") (unit 1) (value "SiliconLabs-MGM210P") (footprint "Yellow:SiliconLabs_MGM210P")
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/1e9ebda2-59cb-4701-873a-d55dee03ba02"
       (reference "U12") (unit 1) (value "PCM5121PW") (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")

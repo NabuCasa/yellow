@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "Amber")(type "KiCad")(uri "${KIPRJMOD}/Amber.pretty")(options "")(descr ""))
+  (lib (name "Yellow")(type "KiCad")(uri "${KIPRJMOD}/Yellow.pretty")(options "")(descr ""))
 )

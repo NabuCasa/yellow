@@ -14,7 +14,7 @@
   )
 
   (lib_symbols
-    (symbol "Amber:RT9742GGJ5" (in_bom yes) (on_board yes)
+    (symbol "Yellow:RT9742GGJ5" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -5.08 8.89 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -637,7 +637,7 @@
     (pin "9" (uuid 463c6bfc-ab94-47a8-99de-8544c0b53c81))
   )
 
-  (symbol (lib_id "Amber:RT9742GGJ5") (at 91.44 111.76 0) (unit 1)
+  (symbol (lib_id "Yellow:RT9742GGJ5") (at 91.44 111.76 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 231e698e-ef39-4cba-a7bd-26a17d9db0c5)
     (property "Reference" "U22" (id 0) (at 85.09 102.87 0)

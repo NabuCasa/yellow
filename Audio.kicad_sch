@@ -14,7 +14,7 @@
   )
 
   (lib_symbols
-    (symbol "Amber:D_TVS_Reverse" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "Yellow:D_TVS_Reverse" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1517,7 +1517,7 @@
     (property "Value" "AudioJack" (id 1) (at 189.357 89.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Amber:Jack_3.5mm_XKB_PJ-3270_Horizontal" (id 2) (at 181.61 83.82 0)
+    (property "Footprint" "Yellow:Jack_3.5mm_XKB_PJ-3270_Horizontal" (id 2) (at 181.61 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2002271813_XKB-Connectivity-PJ-3270_C381134.pdf" (id 3) (at 181.61 83.82 0)
@@ -1874,7 +1874,7 @@
     (pin "2" (uuid b963d08b-d030-4d25-b8b0-3b4c7dd55b3f))
   )
 
-  (symbol (lib_id "Amber:D_TVS_Reverse") (at 160.02 72.39 90) (unit 1)
+  (symbol (lib_id "Yellow:D_TVS_Reverse") (at 160.02 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c98122d8-6f53-4ad3-a008-66276a9ba72b)
     (property "Reference" "D27" (id 0) (at 162.56 71.1199 90)
@@ -1966,7 +1966,7 @@
     (pin "1" (uuid e0a806a9-49ae-4178-b861-5842fc3d1899))
   )
 
-  (symbol (lib_id "Amber:D_TVS_Reverse") (at 160.02 92.71 270) (unit 1)
+  (symbol (lib_id "Yellow:D_TVS_Reverse") (at 160.02 92.71 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d72248bd-29df-48cf-861e-34b2f340c949)
     (property "Reference" "D26" (id 0) (at 161.925 91.4399 90)

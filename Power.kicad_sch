@@ -14,7 +14,7 @@
   )
 
   (lib_symbols
-    (symbol "Amber:BD9D321EFJ" (in_bom yes) (on_board yes)
+    (symbol "Yellow:BD9D321EFJ" (in_bom yes) (on_board yes)
       (property "Reference" "U16" (id 0) (at 0 13.97 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1962,7 +1962,7 @@
     (pin "2" (uuid fda01224-29a9-497f-92f5-404c832965d4))
   )
 
-  (symbol (lib_id "Amber:BD9D321EFJ") (at 114.3 83.82 0) (unit 1)
+  (symbol (lib_id "Yellow:BD9D321EFJ") (at 114.3 83.82 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 14fa57a4-cb4b-4300-b2ae-362b44870d97)
     (property "Reference" "U16" (id 0) (at 114.3 69.215 0))
@@ -2427,7 +2427,7 @@
     (pin "2" (uuid 53900aae-39d1-4f29-a502-22c74ab89882))
   )
 
-  (symbol (lib_id "Amber:BD9D321EFJ") (at 114.3 132.08 0) (unit 1)
+  (symbol (lib_id "Yellow:BD9D321EFJ") (at 114.3 132.08 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 75aef2d6-e5fc-4108-99b3-c7b178112cb3)
     (property "Reference" "U17" (id 0) (at 114.3 117.475 0))
@@ -3047,7 +3047,7 @@
     (uuid eda8ae3b-dbdd-4e73-8dc6-e01177bfb4f7)
     (property "Reference" "J1" (id 0) (at 29.337 32.5182 0))
     (property "Value" "Barrel_Jack" (id 1) (at 29.337 34.8169 0))
-    (property "Footprint" "Amber:BarrelJack_CUI_PJ-002A" (id 2) (at 29.21 41.656 0)
+    (property "Footprint" "Yellow:BarrelJack_CUI_PJ-002A" (id 2) (at 29.21 41.656 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 41.656 0)
