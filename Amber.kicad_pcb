@@ -820,7 +820,7 @@
         )
       )
     )
-    (model "${KIPRJMOD}/Amber.3dshapes/SiliconLabs-MGM210P.step"
+    (model "${KIPRJMOD}/Yellow.3dshapes/SiliconLabs-MGM210P.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2417,7 +2417,7 @@
       (net 103 "Net-(D9-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 90a90748-ff2c-422d-bbf4-74ffa386feb5))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp dfac642a-749e-4cb0-96f0-410eb36c0199))
-    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
+    (model "${KIPRJMOD}/Yellow.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2962,7 +2962,7 @@
       (net 21 "Net-(C53-Pad1)") (pintype "passive") (tstamp f4a322b1-2323-45aa-8f13-35fbaa5b7b22))
     (pad "2" smd rect locked (at 2.8 0) (size 1.8 7.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "+5V") (pintype "passive") (tstamp 249fa680-cb43-44c8-922b-1de403b98e81))
-    (model "${KIPRJMOD}/Amber.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/L_Taiyo-Yuden_NR-80xx.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3047,7 +3047,7 @@
       (net 7 "Earth") (pinfunction "SHIELD") (pintype "passive") (tstamp 76e57d50-b73c-40b6-8f0f-7ce12c366b48))
     (pad "S1" thru_hole oval locked (at 4.32 1.05 180) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "SHIELD") (pintype "passive") (tstamp 87c95781-d823-48ac-8ea3-37958c721f05))
-    (model "${KIPRJMOD}/Amber.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
       (offset (xyz -4.5 -3.65 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5548,7 +5548,7 @@
       (net 15 "/Ethernet/ETH_SHLD") (pintype "passive") (tstamp 930dbca3-56c1-40f3-aa66-c1ed86561352))
     (pad "SH" thru_hole oval locked (at 13.59 5.84) (size 1.25 2.1) (drill oval 0.75 1.6) (layers *.Cu *.Mask)
       (net 15 "/Ethernet/ETH_SHLD") (pintype "passive") (tstamp df677a17-b5e6-4783-98e2-942f27137781))
-    (model "${KIPRJMOD}/Amber.3dshapes/RJ45_TE_2337992-8_Horizontal.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/RJ45_TE_2337992-8_Horizontal.wrl"
       (offset (xyz 5.7 -19.65 6.9))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5949,7 +5949,7 @@
       (net 77 "Net-(D7-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 75f64dc4-b31e-4555-b285-14f2099d4d78))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp fca625f8-1dbf-49ae-8cee-38235abd2d47))
-    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
+    (model "${KIPRJMOD}/Yellow.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7374,7 +7374,7 @@
     (fp_line (start -11.4046 1.7907) (end 11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp 3887a64e-bad5-4955-91eb-f784953fcc27))
     (fp_line (start -11.4046 -1.7907) (end -11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp 4c7cbd1f-4881-4b9e-89ae-f486620b667d))
     (fp_line (start 11.4046 1.7907) (end 11.4046 -1.7907) (layer "F.Fab") (width 0.1) (tstamp d2fd282e-56b3-47fe-bcba-ed059f20c508))
-    (model "${KIPRJMOD}/Amber.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7501,7 +7501,7 @@
       (net 31 "Net-(C54-Pad1)") (pintype "passive") (tstamp 4075cb51-0e18-48d8-80fd-dfe18d55d451))
     (pad "2" smd rect locked (at 1.8 0) (size 1.5 4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 16 "+3.3VP") (pintype "passive") (tstamp 796f98ad-fc2d-49fe-932e-b239f8a4c1ec))
-    (model "${KIPRJMOD}/Amber.3dshapes/L_Taiyo-Yuden_NR-50xx.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/L_Taiyo-Yuden_NR-50xx.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7733,7 +7733,7 @@
     (pad "MP" thru_hole circle locked (at 0 29.75 270) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask) (tstamp b446f1d6-a4e9-42c7-bbf4-6007b140dd9c))
     (pad "MP" smd rect locked (at -10.35 -3 270) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6ce8b57-9865-4809-bf62-0e03219a2f24))
     (pad "MP" thru_hole circle locked (at 0 79.75 270) (size 6.4 6.4) (drill 3.2) (layers *.Cu *.Mask) (tstamp e3c0bf33-2431-482c-b4bd-b0e63d04b4d1))
-    (model "${KIPRJMOD}/Amber.3dshapes/TE_1-2199119-5_Bus_M.2_M_H3.2mm_P0.5mm_Horizontal.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/TE_1-2199119-5_Bus_M.2_M_H3.2mm_P0.5mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13674,7 +13674,7 @@
     (fp_line (start -11.4046 1.7907) (end 11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp 3fa702aa-eb04-463c-83ba-67bd5c1ce911))
     (fp_line (start -11.4046 -1.7907) (end -11.4046 1.7907) (layer "F.Fab") (width 0.1) (tstamp ecd4deca-267e-4e58-8d64-4368fcf05fd2))
     (fp_line (start 11.4046 1.7907) (end 11.4046 -1.7907) (layer "F.Fab") (width 0.1) (tstamp fda65ea5-7946-4bd5-959d-1c42903f68c8))
-    (model "${KIPRJMOD}/Amber.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13865,7 +13865,7 @@
       (net 7 "Earth") (pinfunction "Shield") (pintype "passive") (tstamp 5393ab91-d393-4117-9964-dd50e68e953d))
     (pad "9" thru_hole circle locked (at -3.07 -0.35 180) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "Shield") (pintype "passive") (tstamp c27f7623-535f-4ad7-9500-350f17d30c71))
-    (model "${KIPRJMOD}/Amber.3dshapes/USB_A_Stacked_Wurth_Electronics_-_61400826021.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/USB_A_Stacked_Wurth_Electronics_-_61400826021.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14316,7 +14316,7 @@
       (net 41 "Net-(C74-Pad2)") (pinfunction "3") (pintype "passive") (tstamp 4c5926b6-f9e2-4280-a854-ef2c20b89c2b))
     (pad "4" smd roundrect (at 1.5 -1.1 90) (size 1.7 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 113 "Net-(C110-Pad2)") (pinfunction "4") (pintype "passive") (tstamp db1c1c29-4630-45cc-9b4e-56ca7907b2ab))
-    (model "${KIPRJMOD}/Amber.3dshapes/L_CommonModeChoke_Murata_DLW5B.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/L_CommonModeChoke_Murata_DLW5B.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -15047,7 +15047,7 @@
       (net 49 "Net-(C108-Pad2)") (pintype "passive") (tstamp c431677f-0e94-4a3c-a016-41b9d1a66f07))
     (pad "TN" thru_hole oval locked (at 2.22 11 90) (size 2 1.3) (drill oval 1.5 0.8) (layers *.Cu *.Mask)
       (net 130 "unconnected-(J5-PadTN)") (pintype "passive+no_connect") (tstamp 0e69fe31-6f11-4c97-a703-92b735a6469d))
-    (model "${KIPRJMOD}/Amber.3dshapes/Jack_3.5mm_XKB_PJ-3270_Horizontal.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/Jack_3.5mm_XKB_PJ-3270_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -18531,7 +18531,7 @@
       (net 7 "Earth") (pinfunction "SH") (pintype "passive") (tstamp bc0e5254-6b3f-4a2b-9509-41a1b24f1fdc))
     (pad "SH" thru_hole oval locked (at 3.1 0 180) (size 1.5 2.55) (drill oval 0.65 1.7) (layers *.Cu *.Mask)
       (net 7 "Earth") (pinfunction "SH") (pintype "passive") (tstamp ee0ae4c0-4da5-442d-8e31-a876fbb41e6b))
-    (model "${KIPRJMOD}/Amber.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl" hide
+    (model "${KIPRJMOD}/Yellow.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -19012,7 +19012,7 @@
       (net 75 "/CM4/HDMI.SDA") (pinfunction "HDMI0_SDA") (pintype "bidirectional") (tstamp 17129bca-ffe4-4caa-9fc8-d9f3ea758c29))
     (pad "200" smd rect locked (at 18.54 12.3 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 76 "/CM4/HDMI.SCL") (pinfunction "HDMI0_SCL") (pintype "bidirectional") (tstamp 23a0cc4b-af0c-4c35-ab56-34b03afb5ed3))
-    (model "${KIPRJMOD}/Amber.3dshapes/RaspberryPi-CM4.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/RaspberryPi-CM4.wrl"
       (offset (xyz 36 -27.5 1.6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -19362,7 +19362,7 @@
     (pad "2" thru_hole roundrect locked (at -6 0 270) (size 3 3.5) (drill oval 1 3) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 2 "GND") (pintype "passive") (tstamp 88ca7875-b581-4051-8ea4-beba46e0ab0d))
     (pad "3" thru_hole roundrect locked (at -3 4.7 270) (size 3.5 3.5) (drill oval 3 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 54ed2f86-f18c-4a1a-a89c-82558e1492ee))
-    (model "${KIPRJMOD}/Amber.3dshapes/BarrelJack_CUI_PJ-002A_Horizontal.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/BarrelJack_CUI_PJ-002A_Horizontal.wrl"
       (offset (xyz -6.6 0.1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -20353,7 +20353,7 @@
       (net 89 "Net-(D8-Pad3)") (pinfunction "BK") (pintype "passive") (tstamp 9eff44c7-a241-4473-9de5-b23f4f959504))
     (pad "4" smd rect locked (at -0.425 0.725) (size 0.65 0.85) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "A") (pintype "passive") (tstamp 0e6d00a3-84ac-4aa9-a59b-caf72d055905))
-    (model "${KIPRJMOD}/Amber.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
+    (model "${KIPRJMOD}/Yellow.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -23389,7 +23389,7 @@
     (pad "9" smd rect (at -2.5 7.96) (size 2.54 1.22) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3af02477-3835-4eba-b747-95f27006bea9))
     (pad "10" smd rect (at -5 7.96) (size 2.54 1.22) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "N2B") (pintype "passive") (tstamp b78e29f3-23a1-4559-b8d2-3662cee98fd6))
-    (model "${KIPRJMOD}/Amber.3dshapes/Transformer_Pulse_PA2467NL.wrl"
+    (model "${KIPRJMOD}/Yellow.3dshapes/Transformer_Pulse_PA2467NL.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
@@ -30982,7 +30982,7 @@
     (fp_line (start 28 -28) (end -28 -28) (layer "F.Fab") (width 0.1) (tstamp 8b80e1c5-bed9-4936-a7d0-9c65cc447af4))
     (pad "" np_thru_hole circle locked (at 25 -25) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp 486316ad-bd42-407a-8817-1177dc33fac4))
     (pad "" np_thru_hole circle locked (at -25 25) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp 9167eab3-ece8-4ef3-bc9c-2154ef9f3cc0))
-    (model "${KIPRJMOD}/Amber.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl" hide
+    (model "${KIPRJMOD}/Yellow.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl" hide
       (offset (xyz 30 30 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))

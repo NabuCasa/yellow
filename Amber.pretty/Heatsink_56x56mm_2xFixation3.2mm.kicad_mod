@@ -25,7 +25,7 @@
   (fp_line (start -28 -28) (end -28 28) (layer "F.Fab") (width 0.1) (tstamp e9b052ef-6275-4534-b1d4-3434f99706fa))
   (pad "" np_thru_hole circle (at -25 25) (locked) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp 72e5da35-e202-466d-8d9d-c09f3e19e15f))
   (pad "" np_thru_hole circle (at 25 -25) (locked) (size 3.2 3.2) (drill 3.2) (layers F&B.Cu *.Mask) (tstamp d54c55b6-a6c9-451b-8c99-0be0b8be4bde))
-  (model "${KIPRJMOD}/Amber.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl"
+  (model "${KIPRJMOD}/Yellow.3dshapes/Heatsink_56x56mm_2xFixation3.2mm.wrl"
     (offset (xyz 30 30 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

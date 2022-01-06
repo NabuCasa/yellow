@@ -43,7 +43,7 @@
   (pad "S" thru_hole oval (at -2.8 2.8 90) (size 2 1) (drill oval 1.5 0.5) (layers *.Cu *.Mask) (tstamp db41f74e-b3b3-46e4-8680-b6ac54676255))
   (pad "T" thru_hole oval (at 2.6 9.3 90) (size 2 1) (drill oval 1.5 0.5) (layers *.Cu *.Mask) (tstamp 87676d02-9852-4ebb-81c1-57f2b360194c))
   (pad "TN" thru_hole oval (at 1.8 11.5 90) (size 2 1) (drill oval 1.5 0.5) (layers *.Cu *.Mask) (tstamp 2387fba8-e7ca-4016-9aac-72bba0f4d2d5))
-  (model "${KIPRJMOD}/Amber.3dshapes/Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.wrl"
+  (model "${KIPRJMOD}/Yellow.3dshapes/Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

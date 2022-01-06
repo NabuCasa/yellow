@@ -48,7 +48,7 @@
   (pad "R" smd rect (at -3.825 -0.5) (locked) (size 1.65 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57809a6f-6dfe-4cf7-be7f-ef588e21ba21))
   (pad "S" smd rect (at -3.825 -3.25) (locked) (size 1.65 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 90fccdd7-9d54-4d9e-84ff-3a6ff5aa0673))
   (pad "T" smd rect (at 3.825 3.3) (locked) (size 1.65 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7cb04b4e-4053-4e26-ac99-181b0b70ca8c))
-  (model "${KIPRJMOD}/Amber.3dshapes/Jack_3.5mm_CUI_SJ2-35953A-SMT-TR_Horizontal.wrl"
+  (model "${KIPRJMOD}/Yellow.3dshapes/Jack_3.5mm_CUI_SJ2-35953A-SMT-TR_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

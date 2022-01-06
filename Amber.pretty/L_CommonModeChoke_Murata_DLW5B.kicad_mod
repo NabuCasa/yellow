@@ -27,7 +27,7 @@
   (pad "2" smd roundrect (at -1.5 1.1) (size 1.7 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9fb17bd7-6f17-4efb-a2e5-2c1c01abe4f2))
   (pad "3" smd roundrect (at 1.5 1.1) (size 1.7 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f7ca433b-e2fe-4728-8c74-c4df259907b7))
   (pad "4" smd roundrect (at 1.5 -1.1) (size 1.7 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c2203508-36eb-479c-b89c-28088d985aba))
-  (model "${KIPRJMOD}/Amber.3dshapes/L_CommonModeChoke_Murata_DLW5B.wrl"
+  (model "${KIPRJMOD}/Yellow.3dshapes/L_CommonModeChoke_Murata_DLW5B.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
