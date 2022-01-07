@@ -4701,7 +4701,7 @@
     (property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fsusb30-d.pdf" (id 3) (at 53.34 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "FielManufacturerd4" "ON Semiconductor" (id 4) (at 53.34 33.02 0)
+    (property "Manufacturer" "ON Semiconductor" (id 4) (at 53.34 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PartNumber" "FSUSB30MUX" (id 5) (at 53.34 33.02 0)
