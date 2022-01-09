@@ -7,7 +7,7 @@
    viewBox="0 0 120.0 120.0"
    version="1.1"
    id="svg7586"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="SilkScreen_YellowBackside.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,16 +26,22 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="411.25"
-     inkscape:cy="151.75"
+     inkscape:cx="97.25"
+     inkscape:cy="236"
      inkscape:window-width="2560"
-     inkscape:window-height="1376"
+     inkscape:window-height="1371"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="g7693" />
   <defs
      id="defs7583">
+    <rect
+       x="-126.78711"
+       y="100.47266"
+       width="445.93555"
+       height="119.00782"
+       id="rect63883" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect10249"
@@ -210,19 +216,21 @@
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true"
-     id="g7689">
+     id="g7689"
+     style="display:inline">
     <rect
        x="0"
        y="0"
-       width="120.0"
-       height="120.0"
-       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       width="120"
+       height="120"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect7687" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="PCB">
+     inkscape:label="PCB"
+     style="display:none">
     <image
        width="120"
        height="124.36945"
@@ -318,28 +326,6 @@
          x="26.276068"
          y="116.61314"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.141573">Home Assistant Yellow</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="26.489147"
-       y="48.130695"
-       id="text849"><tspan
-         sodipodi:role="line"
-         x="26.489147"
-         y="48.130695"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="tspan867">Open source home automation that puts local control</tspan><tspan
-         sodipodi:role="line"
-         x="26.489147"
-         y="52.364025"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="tspan118502">and privacy first. Powered by a worldwide community</tspan><tspan
-         sodipodi:role="line"
-         x="26.489147"
-         y="56.597355"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.37785503"
-         id="tspan119518">of tinkerers and DIY enthusiasts.</tspan></text>
     <g
        id="g9193"
        transform="matrix(1.066683,0,0,1.066683,41.831417,-24.189491)">
@@ -552,7 +538,7 @@
          id="tspan88805"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
          x="65.396019"
-         y="116.62055">Rev 1.0</tspan></text>
+         y="116.62055">Rev 1.1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.63021px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -563,7 +549,7 @@
          id="tspan88805-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
          x="26.282959"
-         y="112.30277">amber.home-assistant.io</tspan></text>
+         y="112.30277">yellow.home-assistant.io</tspan></text>
     <g
        id="Layer_2"
        data-name="Layer 2"
@@ -831,6 +817,28 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
          x="99.811211"
          y="16.775434">DC +12V/2A</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,59.923282,19.042249)"
+       id="text63881"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect63883);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="-126.78711"
+         y="111.5069"
+         id="tspan128143"><tspan
+           style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
+           id="tspan128141">Open source home automation that puts local control
+</tspan></tspan><tspan
+         x="-126.78711"
+         y="126.7321"
+         id="tspan128147"><tspan
+           style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
+           id="tspan128145">and privacy first. Powered by a worldwide community
+</tspan></tspan><tspan
+         x="-126.78711"
+         y="141.9573"
+         id="tspan128151"><tspan
+           style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
+           id="tspan128149">of tinkerers and DIY enthusiasts.</tspan></tspan></text>
   </g>
   <style
      type="text/css"
