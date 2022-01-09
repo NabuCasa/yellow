@@ -6,8 +6,8 @@
 
   (title_block
     (title "Overview")
-    (date "2021-08-30")
-    (rev "proto1")
+    (date "2022-01-08")
+    (rev "1.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
@@ -2095,9 +2095,6 @@
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/1247548e-da2d-4da5-8e9d-cdb0bd0eeb39"
       (reference "J12") (unit 1) (value "Bus_M.2_Socket_M") (footprint "Yellow:TE_1-2199230-3_Bus_M.2_M_H4.2mm_P0.5mm_2280_Horizontal")
     )
-    (path "/6888556d-e390-44b5-977e-8a0092745a4b/d2f558fb-acd9-4c71-93bb-37883bf1acff"
-      (reference "J13") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
-    )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/21f085b4-1176-4778-97ba-f2d2acc22e65"
       (reference "JP1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
@@ -2109,6 +2106,9 @@
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/65722b3e-bd11-4d53-9b38-148a204070a3"
       (reference "JP4") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/6888556d-e390-44b5-977e-8a0092745a4b/d2f558fb-acd9-4c71-93bb-37883bf1acff"
+      (reference "JP5") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/4701c6aa-fbd2-4fa6-be11-8236f43a0356"
       (reference "L1") (unit 1) (value "3u3") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-80xx")

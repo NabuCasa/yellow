@@ -6,8 +6,8 @@
 
   (title_block
     (title "USB 2.0 host/USB 2.0 device")
-    (date "2021-08-30")
-    (rev "proto1")
+    (date "2022-01-08")
+    (rev "1.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
@@ -2413,9 +2413,9 @@
     )
   )
 
-  (bus_alias "USB" (members "D+" "D-"))
-  (bus_alias "CM4_USB" (members "CM4_USB_D+" "CM4_USB_D-" "CM4_USB_OTG_ID"))
   (bus_alias "I2C" (members "SDA" "SCL"))
+  (bus_alias "CM4_USB" (members "CM4_USB_D+" "CM4_USB_D-" "CM4_USB_OTG_ID"))
+  (bus_alias "USB" (members "D+" "D-"))
   (junction (at 215.265 71.12) (diameter 0.9144) (color 0 0 0 0)
     (uuid 00d35d35-a124-4754-a19e-a3136e64fbfa)
   )

@@ -6,8 +6,8 @@
 
   (title_block
     (title "Control/RTC")
-    (date "2021-08-30")
-    (rev "proto1")
+    (date "2022-01-08")
+    (rev "1.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
@@ -2661,7 +2661,6 @@
     (property "PartNumber" "PCF85063AT/AY" (id 5) (at 198.12 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Config" "DNP" (id 6) (at 204.47 147.955 0))
     (pin "1" (uuid dcb7b7ef-bb11-4e18-ac02-a1f202995bf0))
     (pin "2" (uuid 10827bd3-7a53-4db0-890f-6b5bf644db48))
     (pin "3" (uuid 1c3ec515-6927-49c3-97d8-42111960bd09))
@@ -3974,6 +3973,7 @@
     (property "PartNumber" "PCF85063ATT/AJ" (id 5) (at 243.84 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "DNP" (id 6) (at 250.19 148.59 0))
     (pin "1" (uuid bc319f92-1904-4684-a07a-ac855b0902a7))
     (pin "2" (uuid 52716acc-f95c-4347-90b0-ef702212f9ab))
     (pin "3" (uuid 8a855f4a-a673-4790-ac0d-aae7f1c0306f))

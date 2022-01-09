@@ -6,8 +6,8 @@
 
   (title_block
     (title "Power")
-    (date "2021-08-30")
-    (rev "proto1")
+    (date "2022-01-08")
+    (rev "1.1")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
