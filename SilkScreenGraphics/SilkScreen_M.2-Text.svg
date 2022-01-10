@@ -4,7 +4,7 @@
    inkscape:export-xdpi="1001.393"
    inkscape:export-filename="/home/sag/projects/home-assistant/lightblue/light-blue/SilkScreenGraphics/USB-Boot.png"
    sodipodi:docname="SilkScreen_M.2-Text.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    id="svg8"
    version="1.1"
    viewBox="0 0 40.0 19.0"
@@ -103,9 +103,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9834025"
-     inkscape:cx="173.21875"
-     inkscape:cy="70.417187"
+     inkscape:zoom="5.6333818"
+     inkscape:cx="88.934145"
+     inkscape:cy="3.9940485"
      inkscape:document-units="mm"
      inkscape:current-layer="g862"
      inkscape:document-rotation="0"
@@ -173,25 +173,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:108%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="19.791573"
-       y="15.922223"
+       y="16.451389"
        id="text835-8"><tspan
          sodipodi:role="line"
          x="19.791573"
-         y="15.922223"
+         y="16.451389"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
-         id="tspan47582">Plug-in a NVMe SSD to boost storage</tspan><tspan
-         sodipodi:role="line"
-         x="19.791573"
-         y="18.858089"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
-         id="tspan49454">or a M.2 PCIe AI accelerator</tspan></text>
+         id="tspan49454">Plug-in a NVMe SSD to boost storage</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker66570)"
-       d="m 27.314185,5.3000736 c 0,0 1.39355,4.353459 9.05926,3.228186"
+       d="m 29.96002,5.3000736 c 0,0 1.39355,4.353459 9.05926,3.228186"
        id="path66548" />
   </g>
   <g
      inkscape:label="B.SilkS"
      inkscape:groupmode="layer"
-     id="g6177" />
+     id="g6177"
+     style="display:inline" />
 </svg>
