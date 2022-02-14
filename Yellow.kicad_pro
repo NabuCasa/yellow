@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 6.0,
-          "height": 3.3,
-          "width": 6.3
+          "drill": 0.0,
+          "height": 1.22,
+          "width": 2.54
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.127
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -111,8 +111,6 @@
         "hole_clearance|78150000|49525000|b53a812f-5bb2-4c39-9976-4f7c5dd81180|8cbbe686-0aae-40dd-b496-730aaedd4e51",
         "hole_clearance|83070000|80215000|81ddb8e4-c6b1-4402-aaa2-4411d5dd2f92|687f9987-2a50-4b06-838c-651b8b6fb044",
         "hole_clearance|83070000|81165000|81ddb8e4-c6b1-4402-aaa2-4411d5dd2f92|7af2ffa6-d093-45a5-87e9-0aebf11a0f15",
-        "hole_clearance|83070000|83175000|2d3686b1-ed32-4951-b9ba-aa3751e5342f|d1c0f881-14e0-4197-9631-bde59520f33d",
-        "hole_clearance|83100000|85185000|fac40c07-a897-4ebf-a8cd-220dc1a72ea2|07acd06c-4091-4a6d-a5f7-0cdbf3acdb89",
         "hole_clearance|83100000|86215000|04078556-a132-48a0-89f9-a92f89f0cac2|07acd06c-4091-4a6d-a5f7-0cdbf3acdb89"
       ],
       "meta": {
@@ -638,7 +636,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "output-v1.0/",
+    "plot_directory": "output-v1.1/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -670,24 +668,24 @@
       "Ethernet"
     ],
     [
-      "a1a835e0-c072-4609-9cb4-4b95bf746f54",
-      "PCIe"
+      "6888556d-e390-44b5-977e-8a0092745a4b",
+      "PoE"
     ],
     [
-      "441a9908-1e74-440b-b462-bdf6815583fe",
-      "Control/RTC"
+      "a1a835e0-c072-4609-9cb4-4b95bf746f54",
+      "PCIe"
     ],
     [
       "c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42",
       "Power"
     ],
     [
-      "67ada73c-6692-4fd8-8c20-5be89f2b8650",
-      "SDCard"
+      "441a9908-1e74-440b-b462-bdf6815583fe",
+      "Control/RTC"
     ],
     [
-      "6888556d-e390-44b5-977e-8a0092745a4b",
-      "PoE"
+      "67ada73c-6692-4fd8-8c20-5be89f2b8650",
+      "SDCard"
     ]
   ],
   "text_variables": {}
