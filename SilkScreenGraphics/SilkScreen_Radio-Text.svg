@@ -4,12 +4,12 @@
    inkscape:export-xdpi="1001.393"
    inkscape:export-filename="/home/sag/projects/home-assistant/lightblue/light-blue/SilkScreenGraphics/USB-Boot.png"
    sodipodi:docname="SilkScreen_Radio-Text.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 10.0 14.0"
-   height="14.0mm"
-   width="10.0mm"
+   viewBox="0 0 17.0 8.100000381469727"
+   height="8.100000381469727mm"
+   width="17.0mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -103,17 +103,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.266764"
-     inkscape:cx="54.407814"
-     inkscape:cy="21.434726"
+     inkscape:zoom="49.811814"
+     inkscape:cx="52.858946"
+     inkscape:cy="27.051815"
      inkscape:document-units="mm"
      inkscape:current-layer="g862"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-x="1458"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="0" />
   <metadata
@@ -144,55 +144,58 @@
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true"
-     id="g860">
+     id="g860"
+     style="display:none">
     <rect
        x="0"
        y="0"
-       width="100.0"
-       height="100.0"
-       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       width="100"
+       height="100"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect858" />
   </g>
   <g
      inkscape:label="F.SilkS"
      inkscape:groupmode="layer"
-     id="g862">
+     id="g862"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1.1895844"
-       y="8.4126549"
+       x="6.2598691"
+       y="4.9838729"
        id="text835"
        transform="rotate(-9.4)"><tspan
          sodipodi:role="line"
-         x="-1.1895844"
-         y="8.4126549"
+         x="6.2598691"
+         y="4.9838729"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Kalam;-inkscape-font-specification:'Kalam, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan29093">Wireless</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:88.4%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="8.0134544"
-       y="10.924012"
+       x="16.979275"
+       y="5.6301956"
        id="text835-8"><tspan
          sodipodi:role="line"
-         x="8.0134544"
-         y="10.924012"
+         x="16.979275"
+         y="5.6301956"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan80139">smart-</tspan><tspan
          sodipodi:role="line"
-         x="8.0134544"
-         y="13.375867"
+         x="16.979275"
+         y="8.0820503"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan82907">home</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.171748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker66570)"
-       d="m 0.37546821,5.6588252 c 0,0 -0.72703634,-2.6306096 0.12458478,-4.2287401 C 0.90595105,0.66838709 1.2877924,0.63311816 2.3023672,0.10759115"
+       d="M 6.3753205,2.7501549 C 5.6306833,2.7437043 4.247831,2.6769998 3.2773042,2.2926178 2.1083887,1.829663 1.7941504,1.4197361 0.18055252,0.13940044"
        id="path66548"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="cac" />
   </g>
   <g
      inkscape:label="B.SilkS"
      inkscape:groupmode="layer"
-     id="g6177" />
+     id="g6177"
+     style="display:inline" />
 </svg>

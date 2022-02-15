@@ -7,7 +7,7 @@
    viewBox="0 0 120.0 120.0"
    version="1.1"
    id="svg7586"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="SilkScreen_YellowBackside.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="97.25"
-     inkscape:cy="236"
+     inkscape:cx="97.5"
+     inkscape:cy="211"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-x="1374"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="g7693" />
   <defs
@@ -538,7 +538,7 @@
          id="tspan88805"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
          x="65.396019"
-         y="116.62055">Rev 1.1</tspan></text>
+         y="116.62055">Rev 1.2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.63021px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -824,21 +824,21 @@
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect63883);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="-126.78711"
          y="111.5069"
-         id="tspan128143"><tspan
+         id="tspan12914"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan128141">Open source home automation that puts local control
+           id="tspan12912">Open source home automation that puts local control
 </tspan></tspan><tspan
          x="-126.78711"
          y="126.7321"
-         id="tspan128147"><tspan
+         id="tspan12918"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan128145">and privacy first. Powered by a worldwide community
+           id="tspan12916">and privacy first. Powered by a worldwide community
 </tspan></tspan><tspan
          x="-126.78711"
          y="141.9573"
-         id="tspan128151"><tspan
+         id="tspan12922"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan128149">of tinkerers and DIY enthusiasts.</tspan></tspan></text>
+           id="tspan12920">of tinkerers and DIY enthusiasts.</tspan></tspan></text>
   </g>
   <style
      type="text/css"

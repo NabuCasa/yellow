@@ -4,12 +4,12 @@
    inkscape:export-xdpi="1001.393"
    inkscape:export-filename="/home/sag/projects/home-assistant/lightblue/light-blue/SilkScreenGraphics/USB-Boot.png"
    sodipodi:docname="SilkScreen_PoE-Text.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 12.699999809265137 23.399999618530273"
-   height="23.399999618530273mm"
-   width="12.699999809265137mm"
+   viewBox="0 0 13.0 26.5"
+   height="26.5mm"
+   width="13.0mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -145,17 +145,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.533527"
-     inkscape:cx="1.7529435"
-     inkscape:cy="30.687606"
+     inkscape:zoom="57.406829"
+     inkscape:cx="35.710037"
+     inkscape:cy="92.36706"
      inkscape:document-units="mm"
      inkscape:current-layer="g862"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-x="1526"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="true" />
   <metadata
@@ -186,13 +186,14 @@
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true"
-     id="g860">
+     id="g860"
+     style="display:none">
     <rect
        x="0"
        y="0"
-       width="100.0"
-       height="100.0"
-       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       width="100"
+       height="100"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect858" />
   </g>
   <g
@@ -214,37 +215,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:88.4%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6.9992199"
-       y="13.300611"
+       x="9.1209803"
+       y="16.412558"
        id="text835-8"><tspan
          sodipodi:role="line"
-         x="6.9992199"
-         y="13.300611"
+         x="9.1209803"
+         y="16.412558"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan82907">sorry,</tspan><tspan
          sodipodi:role="line"
-         x="6.9992199"
-         y="15.752465"
+         x="9.1209803"
+         y="18.864412"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan158181">only</tspan><tspan
          sodipodi:role="line"
-         x="6.9992199"
-         y="18.204319"
+         x="9.1209803"
+         y="21.316267"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan158185">PoE</tspan><tspan
          sodipodi:role="line"
-         x="6.9992199"
-         y="20.656174"
+         x="9.1209803"
+         y="23.76812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan212589">version</tspan><tspan
          sodipodi:role="line"
-         x="6.9992199"
-         y="23.108028"
+         x="9.1209803"
+         y="26.219975"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Kalam;-inkscape-font-specification:'Kalam, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583px"
          id="tspan175607">:(</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#marker179836)"
-       d="m 1.2174386,0.57297486 c 0,0 0.2145909,4.61160374 2.9358957,9.76174014"
+       d="m 1.2174386,0.57297486 c 0,0 0.4700105,6.33415294 3.1913153,11.48428914"
        id="path179752"
        sodipodi:nodetypes="cc" />
   </g>
