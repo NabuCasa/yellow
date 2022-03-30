@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.0mm"
+   height="6.0mm"
+   viewBox="0 0 6.0 6.0"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="UKCA-Logo_6x6mm.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7900694"
+     inkscape:cx="-160.88762"
+     inkscape:cy="176.80879"
+     inkscape:window-width="2214"
+     inkscape:window-height="1174"
+     inkscape:window-x="1587"
+     inkscape:window-y="182"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g836" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g832">
+    <rect
+       x="0"
+       y="0"
+       width="6.0"
+       height="6.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect830" />
+  </g>
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g834" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g836">
+    <g
+       fill-rule="evenodd"
+       id="UKCA"
+       transform="matrix(0.0125,0,0,0.0125,-1.0000001,-1.0000001)">
+      <path
+         id="U"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 80,80 v 150 a 70,70 0 0 0 70,70 h 80 a 70,70 0 0 0 70,-70 V 80 h -50 v 150 a 20,20 0 0 1 -20,20 H 150 A 20,20 0 0 1 130,230 V 80 Z" />
+      <path
+         id="K"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 340,80 v 220 h 50 v -80 l 100,80 h 70 L 420,190 560,80 H 490 L 390,160 V 80 Z" />
+      <path
+         id="C"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 300,340 v 50 H 150 a 20,20 0 0 0 -20,20 v 80 a 20,20 0 0 0 20,20 h 150 v 50 H 150 A 70,70 0 0 1 80,490 v -80 a 70,70 0 0 1 70,-70 z" />
+      <path
+         id="A"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 340,560 V 410 a 70,70 0 0 1 70,-70 h 80 a 70,70 0 0 1 70,70 V 560 H 510 V 510 H 390 v 50 z m 50,-100 h 120 v -50 a 20,20 0 0 0 -20,-20 h -80 a 20,20 0 0 0 -20,20 z" />
+    </g>
+  </g>
+</svg>
