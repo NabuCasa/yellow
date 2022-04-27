@@ -2998,7 +2998,7 @@
     (property "Reference" "R37" (id 0) (at 87.63 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 87.63 96.52 0)
+    (property "Value" "22k/1%" (id 1) (at 87.63 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 85.09 96.52 0)
