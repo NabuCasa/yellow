@@ -6,8 +6,8 @@
 
   (title_block
     (title "802.15.4 Radio (Zigbee/Thread)")
-    (date "2022-02-15")
-    (rev "1.2")
+    (date "2022-04-27")
+    (rev "1.2b")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
