@@ -1,0 +1,5 @@
+(version 1)
+
+(rule poe_hv
+   (constraint clearance (min "0.2mm"))
+   (condition "A.NetClass == 'poe_hv' && B.NetClass == 'poe_hv'"))
