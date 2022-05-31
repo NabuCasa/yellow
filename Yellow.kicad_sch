@@ -1465,6 +1465,9 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/3ea718f6-2b9f-405b-bc07-88801bb6bc6d"
       (reference "#PWR0169") (unit 1) (value "+48V") (footprint "")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/85e12c53-8869-4d07-a3a3-7fa0eba30972"
+      (reference "#PWR0170") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/2af0e04e-8e0d-4b6a-9b8d-5a23e743572d"
       (reference "#PWR0173") (unit 1) (value "GND1") (footprint "")
     )
@@ -1986,6 +1989,9 @@
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/fd8e7357-8123-4614-b5f2-bcb36011164d"
       (reference "D30") (unit 1) (value "CDBQR0130L") (footprint "Diode_SMD:D_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/535e3851-ef11-46ba-8e69-ed6f2448d191"
+      (reference "D31") (unit 1) (value "CDBQR0130L") (footprint "Diode_SMD:D_0402_1005Metric")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/1cb8c7f0-9dee-42f2-ab73-15b998063e93"
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric")
