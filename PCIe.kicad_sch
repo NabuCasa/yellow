@@ -6,8 +6,8 @@
 
   (title_block
     (title "PCIe slot")
-    (date "2022-04-27")
-    (rev "1.2b")
+    (date "2022-05-31")
+    (rev "1.2c")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
