@@ -1318,6 +1318,9 @@
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/40b1f615-e8ae-40ab-b9ef-d685563dab62"
       (reference "#PWR0130") (unit 1) (value "GND") (footprint "")
     )
+    (path "/441a9908-1e74-440b-b462-bdf6815583fe/122bd626-9bc9-4e13-864d-bfec9cd93a79"
+      (reference "#PWR0131") (unit 1) (value "+3.3VP") (footprint "")
+    )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/79d1d6b2-808b-4da5-8cb3-7c07f5d6908b"
       (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
     )
@@ -1507,6 +1510,9 @@
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/5431b76d-cdf3-40ef-bb6f-49a8a9a3f0b6"
       (reference "#PWR0194") (unit 1) (value "+3.3VP") (footprint "")
     )
+    (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/bb9d7932-7774-4ea5-9270-378ccf79d40a"
+      (reference "#PWR0195") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/03b7e279-8e1e-4ca0-af17-bfd0fc47389c"
       (reference "#PWR0196") (unit 1) (value "GND") (footprint "")
     )
@@ -1563,9 +1569,6 @@
     )
     (path "/a9e0a5b9-8f0f-46f3-b2b0-a429c678afed/5275c46e-d784-4c3a-bf5f-8648aa02487c"
       (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/441a9908-1e74-440b-b462-bdf6815583fe/122bd626-9bc9-4e13-864d-bfec9cd93a79"
-      (reference "#PWR?") (unit 1) (value "+3.3VP") (footprint "")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/8315a3b5-025a-4501-86bf-a0c1f08f1755"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1060_1x2032")
@@ -1957,8 +1960,8 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/ffe5351a-5768-43e3-84f0-cd5b303060b0"
       (reference "D21") (unit 1) (value "BAT41ZFILM") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/6888556d-e390-44b5-977e-8a0092745a4b/e8d24363-82eb-47a8-8960-b8d021baed59"
-      (reference "D22") (unit 1) (value "BAT41ZFILM") (footprint "Diode_SMD:D_SOD-123")
+    (path "/6888556d-e390-44b5-977e-8a0092745a4b/af9f6024-f4e1-4896-9d17-a8dccbdc0332"
+      (reference "D22") (unit 1) (value "MMSD4448") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/f368aebf-2f84-4758-9eed-d9518b0337b8"
       (reference "D23") (unit 1) (value "B340LB-13-F") (footprint "Diode_SMD:D_SMB")
