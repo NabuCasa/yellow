@@ -961,6 +961,9 @@
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/bb607057-7c6c-4502-8057-99db18765d77"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/2ba03902-1191-4c2c-89ff-83f1aa38802f"
+      (reference "#PWR02") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/8a7d9608-6d48-45d2-9db0-f09cc1ac39f8"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
@@ -1984,6 +1987,9 @@
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/1cf18c64-f581-4eb2-83a6-288e7f2dfa94"
       (reference "D29") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_0402_1005Metric")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/82c7370d-8a87-411e-9cd6-cc5ad23f7d5b"
+      (reference "D30") (unit 1) (value "CDBQR0130L") (footprint "Diode_SMD:D_0402_1005Metric")
+    )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/1cb8c7f0-9dee-42f2-ab73-15b998063e93"
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric")
     )
@@ -2197,6 +2203,12 @@
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/b25c0f71-a624-426a-8263-7b4f25e724a8"
       (reference "R26") (unit 1) (value "12k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/ebca0634-9ef4-4a87-a66a-c40f06832695"
+      (reference "R27") (unit 1) (value "10") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/6d1a79fb-ea43-483b-a0b8-a18e853c0b07"
+      (reference "R28") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/01da54cd-a942-4e17-9a65-6be06409143d"
       (reference "R29") (unit 1) (value "124k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -2232,6 +2244,9 @@
     )
     (path "/67ada73c-6692-4fd8-8c20-5be89f2b8650/0cc85d72-d8a5-4c7a-9558-d741ba5bb7fd"
       (reference "R40") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/c1e412a1-3362-4a10-be21-16ffed3416c8"
+      (reference "R41") (unit 1) (value "100") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/be922a5b-f2f7-4495-82e8-981b93faffcb"
       (reference "R42") (unit 1) (value "28R7/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
