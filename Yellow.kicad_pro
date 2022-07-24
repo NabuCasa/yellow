@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.15
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -589,11 +589,13 @@
         "microvia_drill": 0.1,
         "name": "poe_hv",
         "nets": [
-          "/Ethernet/ETH_SHLD",
           "/Ethernet/VC1",
           "/Ethernet/VC2",
           "/Ethernet/VC3",
-          "/Ethernet/VC4"
+          "/Ethernet/VC4",
+          "/PoE/POE_IN_N",
+          "/PoE/POE_IN_P",
+          "ETH_SHLD"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
