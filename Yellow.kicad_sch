@@ -1685,7 +1685,7 @@
       (reference "C31") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/18c18357-12fa-4472-a108-e954e5bd7840/48dd30f4-6cc1-4a3c-9daf-1a3567fd9b4f"
-      (reference "C32") (unit 1) (value "100n/1kV") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C32") (unit 1) (value "1n/1kV") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/a1a835e0-c072-4609-9cb4-4b95bf746f54/030e6ae8-452c-47f5-b669-7c02c683dee4"
       (reference "C33") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2063,7 +2063,7 @@
       (reference "FID8") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_1mm_Mask2mm")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/06a3573d-8dc8-4d25-82d4-afd26eb84691"
-      (reference "FL1") (unit 1) (value "Filter_EMI_LL_1243") (footprint "Yellow:L_CommonModeChoke_Murata_DLW5B")
+      (reference "FL1") (unit 1) (value "1k@100MHz/500mA") (footprint "Yellow:L_CommonModeChoke_Murata_DLW5B")
     )
     (path "/13673698-1ae8-48ac-89ad-67bec4817dbe"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
@@ -2144,10 +2144,10 @@
       (reference "L2") (unit 1) (value "2u2") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/37a5d528-1baf-4470-a1b0-2a46a6b96e18"
-      (reference "L4") (unit 1) (value "0u22") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
+      (reference "L4") (unit 1) (value "10u") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/4d1930a7-b273-459a-be09-7bd8827451ab"
-      (reference "L5") (unit 1) (value "0u22") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
+      (reference "L5") (unit 1) (value "2u2") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/ba656388-44bc-4334-86f3-7f9076c4e1d4"
       (reference "M1") (unit 1) (value "Fan_4pin") (footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical")
@@ -2243,10 +2243,10 @@
       (reference "R26") (unit 1) (value "12k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/ebca0634-9ef4-4a87-a66a-c40f06832695"
-      (reference "R27") (unit 1) (value "10") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R27") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/6d1a79fb-ea43-483b-a0b8-a18e853c0b07"
-      (reference "R28") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R28") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/01da54cd-a942-4e17-9a65-6be06409143d"
       (reference "R29") (unit 1) (value "124k/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -2285,7 +2285,7 @@
       (reference "R40") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/c1e412a1-3362-4a10-be21-16ffed3416c8"
-      (reference "R41") (unit 1) (value "100") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R41") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/be922a5b-f2f7-4495-82e8-981b93faffcb"
       (reference "R42") (unit 1) (value "28R7/1%") (footprint "Resistor_SMD:R_0402_1005Metric")
