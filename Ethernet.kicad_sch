@@ -6,8 +6,8 @@
 
   (title_block
     (title "Ethernet")
-    (date "2022-04-27")
-    (rev "1.2b")
+    (date "2022-08-29")
+    (rev "1.3")
     (company "Nabu Casa")
     (comment 1 "www.nabucasa.com")
     (comment 2 "Yellow")
@@ -3084,8 +3084,8 @@
     )
   )
 
-  (bus_alias "ETH" (members "TD1+" "TD1-" "TD2+" "TD2-" "TD3+" "TD3-" "TD4+" "TD4-" "LED_YELLOW" "LED_GREEN"))
   (bus_alias "PoE" (members "VC1" "VC2" "VC3" "VC4"))
+  (bus_alias "ETH" (members "TD1+" "TD1-" "TD2+" "TD2-" "TD3+" "TD3-" "TD4+" "TD4-" "LED_YELLOW" "LED_GREEN"))
   (junction (at 177.8 130.81) (diameter 0) (color 0 0 0 0)
     (uuid 2d83f01d-8132-442c-ba92-5957e19f32b6)
   )

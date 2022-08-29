@@ -7,7 +7,7 @@
    viewBox="0 0 120.0 120.0"
    version="1.1"
    id="svg7586"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="SilkScreen_YellowBackside.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,14 +26,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.9294293"
-     inkscape:cx="187.62024"
-     inkscape:cy="286.09495"
+     inkscape:cx="187.87939"
+     inkscape:cy="286.09496"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="1374"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g7693" />
+     inkscape:current-layer="g7693"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs7583">
     <rect
@@ -58,7 +60,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1" />
     <mask
        id="mask-2"
        fill="#ffffff">
@@ -100,7 +103,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1" />
     <style
        id="style899">.cls-1{fill:#ccc;}.cls-2{fill:#010101;}.cls-3{fill:#fff;}</style>
     <style
@@ -482,7 +486,7 @@
          id="tspan88805"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
          x="65.396019"
-         y="116.62055">Rev 1.2</tspan></text>
+         y="116.62055">Rev 1.3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.63021px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -717,24 +721,24 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,59.923282,19.042249)"
        id="text63881"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect63883);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect63883);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="-126.78711"
          y="111.5069"
-         id="tspan1729"><tspan
+         id="tspan4102"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan1727">Open source home automation that puts local control
+           id="tspan4100">Open source home automation that puts local control
 </tspan></tspan><tspan
          x="-126.78711"
          y="126.7321"
-         id="tspan1733"><tspan
+         id="tspan4106"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan1731">and privacy first. Powered by a worldwide community
+           id="tspan4104">and privacy first. Powered by a worldwide community
 </tspan></tspan><tspan
          x="-126.78711"
          y="141.9573"
-         id="tspan1737"><tspan
+         id="tspan4110"><tspan
            style="font-weight:500;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
-           id="tspan1735">of tinkerers and DIY enthusiasts.</tspan></tspan></text>
+           id="tspan4108">of tinkerers and DIY enthusiasts.</tspan></tspan></text>
     <g
        id="NC"
        transform="matrix(0.018908,0,0,0.018908,42.505616,73.40418)"
