@@ -3751,7 +3751,7 @@
     (property "Reference" "R60" (id 0) (at 176.53 126.9999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0R1" (id 1) (at 176.53 129.5399 0)
+    (property "Value" "0R05/1%" (id 1) (at 176.53 129.5399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 175.26 129.54 0)

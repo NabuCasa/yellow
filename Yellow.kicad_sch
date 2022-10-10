@@ -2339,7 +2339,7 @@
       (reference "R59") (unit 1) (value "4R7") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/10e0bba8-b3cc-4b72-9d6f-290e39b1d8f4"
-      (reference "R60") (unit 1) (value "0R1") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R60") (unit 1) (value "0R05/1%") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/74b785da-2ed7-49a1-bb66-61654336b15a"
       (reference "R61") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
