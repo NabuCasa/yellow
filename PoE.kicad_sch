@@ -4207,6 +4207,7 @@
     (property "PartNumber" "PH1-03-UA" (id 5) (at 45.72 184.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Config" "+PoE" (id 6) (at 53.34 185.42 90))
     (pin "1" (uuid c3266511-b8f8-4c56-a514-9b3037e10212))
     (pin "2" (uuid 9ea65f19-2da5-41ce-9488-4d58f0c3b5fd))
     (pin "3" (uuid c7fb6392-907e-4983-a23d-8935f74b307d))
