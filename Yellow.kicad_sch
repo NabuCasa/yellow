@@ -1099,6 +1099,9 @@
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/fca57d11-9984-43ce-9eaa-b87197f490cd"
       (reference "#PWR047") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/32d64dbe-ca7d-4d92-a41a-4066e7efbe06"
+      (reference "#PWR048") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/1168c514-ebad-4e5f-b53c-021afc363818"
       (reference "#PWR049") (unit 1) (value "GND") (footprint "")
     )
@@ -1113,6 +1116,15 @@
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/4f8a6fbe-cafb-4dd1-9a49-9d6e7ce8c247"
       (reference "#PWR053") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/a21d7802-f43c-4553-a997-55b35512d70c"
+      (reference "#PWR054") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/bc2efffb-c784-4b79-aec1-dbca37c7aefd"
+      (reference "#PWR055") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/c1a9cf8b-e559-4a61-b8eb-2c99d1040b59"
+      (reference "#PWR056") (unit 1) (value "GND") (footprint "")
     )
     (path "/12f6ca59-5dee-4aea-b4bb-e4b9cab2885b/bb15d129-d95b-4d25-944e-66c66efb3abc"
       (reference "#PWR057") (unit 1) (value "GND") (footprint "")
@@ -2083,6 +2095,18 @@
     (path "/bfcec0b4-32c4-4ebf-8bb4-4766287797f1"
       (reference "H6") (unit 1) (value "MountingHole") (footprint "Yellow:DrillSlot_Plated_3.5x2.5mm")
     )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/4ba3f450-7383-463b-a009-52be48c18a61"
+      (reference "H7") (unit 1) (value "SMTSO2515CTJ") (footprint "Yellow:SMTSO2515CTJ")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/14adb06f-34a7-406c-9d63-564cbaad299c"
+      (reference "H8") (unit 1) (value "SMTSO2515CTJ") (footprint "Yellow:SMTSO2515CTJ")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/c0f5d9f7-1395-4bbb-a8e2-443d9297d61b"
+      (reference "H9") (unit 1) (value "SMTSO2515CTJ") (footprint "Yellow:SMTSO2515CTJ")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/ee0e2e81-2ad9-4dc5-8582-f965c9c08da4"
+      (reference "H10") (unit 1) (value "SMTSO2515CTJ") (footprint "Yellow:SMTSO2515CTJ")
+    )
     (path "/cd73f910-31d6-4226-a110-18f09eef8514"
       (reference "HS1") (unit 1) (value "Heatsink") (footprint "Yellow:Heatsink_56x56mm_2xFixation3.2mm")
     )
@@ -2124,9 +2148,6 @@
     )
     (path "/aa1d8d83-5167-420c-9ee7-3e4dcc942bfc/21f085b4-1176-4778-97ba-f2d2acc22e65"
       (reference "JP1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
-    )
-    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/e968abf9-4624-4f9a-a426-43f6f969f7bc"
-      (reference "JP2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/7c248bd3-8232-4777-a40c-eab53460cf85/7bfd1035-1969-40a2-b79e-5a744cd6676d"
       (reference "JP3") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -2293,6 +2314,9 @@
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/10e901ad-1bbc-4cf1-a1ec-2410a654b11c"
       (reference "R43") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/6888556d-e390-44b5-977e-8a0092745a4b/72e78523-e8e7-4ece-a3e9-b2aadcd9d510"
+      (reference "R44") (unit 1) (value "3k3") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/080b01c9-b084-4c79-b454-e6b4f165f881"
       (reference "R45") (unit 1) (value "49k9") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -2351,7 +2375,7 @@
       (reference "R63") (unit 1) (value "12k") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/8db2ef2e-d940-4bb0-95be-b739bdb0f6a5"
-      (reference "R64") (unit 1) (value "6k2") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R64") (unit 1) (value "33k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/04fd0545-82b9-410e-b6b8-4c8f71f2af81"
       (reference "R65") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -2364,6 +2388,9 @@
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/5c037cc6-9595-4598-ae57-adb70045cfcd"
       (reference "SW2") (unit 1) (value "SW_WIPE") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS")
+    )
+    (path "/7c248bd3-8232-4777-a40c-eab53460cf85/75e828b7-4d8b-4506-bce9-d92069df8c28"
+      (reference "SW3") (unit 1) (value "TSC015A03518A") (footprint "Yellow:SW_SPST_TSC015A03518A")
     )
     (path "/6888556d-e390-44b5-977e-8a0092745a4b/897f43a2-d08b-4609-bc6b-c864c929a423"
       (reference "T1") (unit 1) (value "PA2467NL") (footprint "Yellow:Transformer_Pulse_PA2467NL")
@@ -2456,10 +2483,10 @@
       (reference "U15") (unit 1) (value "TPD4EUSB30") (footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/14fa57a4-cb4b-4300-b2ae-362b44870d97"
-      (reference "U16") (unit 1) (value "BD9D321EFJ") (footprint "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias")
+      (reference "U16") (unit 1) (value "BD9D321EFJ") (footprint "Yellow:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_9ThermalVias")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/75aef2d6-e5fc-4108-99b3-c7b178112cb3"
-      (reference "U17") (unit 1) (value "BD9D321EFJ") (footprint "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias")
+      (reference "U17") (unit 1) (value "BD9D321EFJ") (footprint "Yellow:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_9ThermalVias")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/57f4418f-6a92-4860-b9a2-134624e4aa99"
       (reference "U18") (unit 1) (value "74LVC1G07") (footprint "Package_TO_SOT_SMD:SOT-23-5")
