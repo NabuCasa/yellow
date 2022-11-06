@@ -1955,7 +1955,7 @@
       (reference "D2") (unit 1) (value "B340LB-13-F") (footprint "Diode_SMD:D_SMB")
     )
     (path "/c7bf4e1f-6bd1-4be7-9e56-1bd438bf5d42/8ace36c9-6a8b-45b9-8e42-34abb95c09d2"
-      (reference "D3") (unit 1) (value "MMBZ5242BLT3G") (footprint "Diode_SMD:D_SOT-23_ANK")
+      (reference "D3") (unit 1) (value "MMBZ5242BLT3G") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/441a9908-1e74-440b-b462-bdf6815583fe/aa1ff662-6bf4-4a65-b043-33ace0519667"
       (reference "D4") (unit 1) (value "LED Red") (footprint "LED_SMD:LED_0603_1608Metric")
