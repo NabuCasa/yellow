@@ -76,10 +76,6 @@
         }
       ],
       "drc_exclusions": [
-        "holes_co_located|143400000|63500000|7b681b17-6c88-4133-9d8d-1c21e103b802|61b6ecc0-69e0-4410-869c-49d2f8e67a70",
-        "holes_co_located|143400000|96500000|c67f3445-4083-4b41-86e4-9254cbb4da54|f0c2df70-e075-4488-b3bb-f562a3856ca6",
-        "holes_co_located|95400000|63500000|900f3ece-4cb1-49ef-848b-95d93f9d50af|a4b29e6f-0bad-4cc6-88eb-cd3fcda60e85",
-        "holes_co_located|95400000|96500000|d26e5550-61b3-4704-aa07-604f0a39c0fe|dbf22af4-a369-4167-91ec-7991412bcd9b",
         "items_not_allowed|133725000|34275000|492c64e1-0632-4102-a53e-32f0c09e1575|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|134075000|34625000|c85a5d27-eeee-4ebe-bd76-a7213fa89f1a|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|134270999|33954001|bde70cf4-b1aa-43e6-8125-0064d39eb56d|00000000-0000-0000-0000-000000000000",
@@ -629,7 +625,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "output-v1.3/",
+    "plot_directory": "output-v1.3b/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
