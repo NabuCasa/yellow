@@ -4,7 +4,7 @@ This repository contains the PCB design files of the Home Assistant Yellow.
 The design has been made using the open source design software KiCad 6.0.
 The project got successfully crowd funded on [Crowd
 Supply](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow) in
-October 2021. Home Assistant Yellow continous to be available. For updated
+October 2021. For updated
 information on availability check
 [yellow.home-assistant.io](https://yellow.home-assistant.io/).
 
