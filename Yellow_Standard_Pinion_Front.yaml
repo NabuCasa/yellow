@@ -1,0 +1,181 @@
+name: Home Assistant Yellow front
+description: Top side of Home Assistant Yellow
+components:
+  U1:
+    description: Compute Module 4 board-to-board connector
+    groups: [ Connectors ]
+    highlight: true
+  U11:
+    description: |
+      [Silicon Labs MGM210P](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules) wireless radio.
+
+      Zigbee/Thread capable IEEE 802.15.4 radio connected to the CM4 via UART.
+
+      Available on `/dev/ttyAMA1`, typical baud rate is 115200 with hardware
+      flow control.
+    highlight: true
+  J1:
+    description: Power DC 12&nbsp;V&nbsp;/&nbsp;2&nbsp;A (5.1/2.1&nbsp;mm barrel connector)
+    groups: [ Connectors ]
+    highlight: true
+  J2:
+    description: |
+      Gigabit Ethernet connector (RJ45)
+    groups: [ Connectors ]
+    highlight: true
+  J3:
+    description: |
+      USB-C connector (USB 2.0 device only)
+
+      Depending on JP1 configuration, this connector allows to:
+
+      * UART: Access the serial console via USB to UART connector. See the following guides on how to use the serial console:
+        * [Using the serial console for debugging (Windows)](/guides/use-serial-console-windows/)
+        * [Using the serial console for debugging (Linux)](/guides/use-serial-console-linux/)
+      * USB: Access the CM4 as a USB device (e.g. for recovery)
+        * [How to re-install the operating system](/guides/reinstall-os/)
+    groups: [ Connectors ]
+    highlight: true
+  J4:
+    description: 2&nbsp;x&nbsp;USB 2.0 Host connector
+    groups: [ Connectors ]
+    highlight: true
+  J5:
+    description: |
+      3.5&nbsp;mm analog audio jack, line-out (2&nbsp;V RMS)
+    groups: [ Connectors ]
+    highlight: true
+  SW1:
+    description: |
+      Power Button
+
+      When Home Assistant OS is running, press and hold for 5&nbsp;s to power off the
+      system.
+    groups: [ Buttons ]
+    highlight: true
+  SW2:
+    description: |
+      Wipe Button
+
+      Allows you to wipe all user data from your Home Assistant OS installation.
+      Press and hold until the yellow LED starts blinking to initiate a user
+      data wipe.
+
+      To delete all boot\nfiles from the internal eMMC or NVMe, hold this button
+      and the power button simultaneously. This allows you to reinstall HAOS using
+      the Home Assistant OS Installer for Yellow.
+    groups: [ Buttons ]
+    highlight: true
+  SW3:
+    description: |
+      USB boot mode button. Allows recovery via USB-C (J3).
+
+      Pressing this button will force the CM4 into USB boot mode. See J3 for
+      more details.
+
+      This jumper allows to force nRPIBOOT to GND.
+
+    groups: [ Buttons ]
+    highlight: true
+  J12:
+    description: |
+      M.2 B-Key connector.
+
+      Note: This conector only has power and 1xPCIe Gen 2 connected.
+    groups: [ Connectors ]
+    highlight: true
+  D4:
+    description: |
+      Power LED (red)
+
+      See the [Home Assistant Yellow LEDs](/guides/yellow-leds/) documentation for a
+      detailed description of the meaning of their blinking patterns.
+    groups: [ LEDs ]
+    highlight: true
+  D5:
+    description: |
+      Activity LED (green)
+
+      See the [Home Assistant Yellow LEDs](/guides/yellow-leds/) documentation for a
+      detailed description of the meaning of their blinking patterns.
+    groups: [ LEDs ]
+    highlight: true
+  D6:
+    description: |
+      Status LED (yellow)
+
+      See the [Home Assistant Yellow LEDs](/guides/yellow-leds/) documentation for a
+      detailed description of the meaning of their blinking patterns.
+    groups: [ LEDs ]
+    highlight: true
+  D25:
+    description: |
+      Radio LED (blue)
+
+      See the [Home Assistant Yellow LEDs](/guides/yellow-leds/) documentation for a
+      detailed description of the meaning of their blinking patterns.
+    groups: [ LEDs ]
+    highlight: true
+  JP1:
+    description: |
+      USB-C functionality selector
+
+      Selects the functionality of the USB-C connector. See J3 for more details.
+    groups: [ Jumpers ]
+    highlight: true
+  BT1:
+    description: CR2032 battery holder
+    groups: [ ]
+    highlight: true
+  J11:
+    description: Raspberry Pi compatible Mini-GPIO header
+    groups: [ Headers ]
+    pins:
+      '1':
+        name: +3.3&nbsp;V
+        description: ''
+        groups: []
+      '2':
+        name: +5&nbsp;V
+        description: ''
+        groups: []
+      '3':
+        name: SDA/GPIO2
+        description: ''
+        groups: []
+      '4':
+        name: +5&nbsp;V
+        description: ''
+        groups: []
+      '5':
+        name: SCL/GPIO3
+        description: ''
+        groups: []
+      '6':
+        name: GND
+        description: ''
+        groups: []
+      '7':
+        name: GPIO4
+        description: ''
+        groups: []
+      '8':
+        name: TXD/GPIO14
+        description: ''
+        groups: []
+      '9':
+        name: GND
+        description: ''
+        groups: []
+      '10':
+        name: RXD/GPIO15
+        description: ''
+        groups: []
+    highlight: true # Make the component active
+    highlightBoth: true
+groups:
+  Jumpers:
+  Headers:
+  Connectors:
+  LEDs:
+  Buttons:
