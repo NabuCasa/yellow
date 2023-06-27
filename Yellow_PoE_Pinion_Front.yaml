@@ -15,7 +15,7 @@ components:
       flow control.
     highlight: true
   J1:
-    description: Power DC 12&nbsp;V&nbsp;/&nbsp;2&nbsp;A (5.1/2.1&nbsp;mm barrel connector)
+    description: Power DC 12&nbsp;V&nbsp;/&nbsp;2&nbsp;A (5.5/2.1&nbsp;mm barrel connector)
     groups: [ Connectors ]
     highlight: true
   J2:
