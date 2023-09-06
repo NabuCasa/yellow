@@ -104,7 +104,7 @@ components:
     highlight: true
   D6:
     description: |
-      Status LED (yellow)
+      System health LED (yellow)
 
       See the [Home Assistant Yellow LEDs](/guides/yellow-leds/) documentation for a
       detailed description of the meaning of their blinking patterns.
